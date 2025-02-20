@@ -12,6 +12,10 @@ Gente, preparem-se, porque Ellen Pompeo está de volta, e dessa vez em um papel 
 
 No trailer recém-divulgado pela Hulu, vemos Ellen interpretando Kristine Barnett, uma mulher que, junto com seu marido, adota uma menina de 7 anos com nanismo chamada Natalia Grace. Mas aí que vem a reviravolta: o casal começa a suspeitar que a menina é, na verdade, uma adulta disfarçada que representa uma ameaça para a família! 😱🕵️‍♀️
 
+<div class="plyr__video-embed" id="player">
+ <iframe src="https://www.youtube.com/watch?v=3_QlAf1rRGE?origin=https://tisha.geanramos.com.br" allowfullscreen="" allowtransparency="" allow="autoplay"></iframe>
+</div>
+
 Essa trama me lembra um pouco o conceito de **síndrome de Münchhausen por procuração inversa**, onde a pessoa finge ser alguém que precisa de cuidados para manipular os outros. No caso da série, a tensão psicológica vai estar lá em cima, minha gente! 🧠🔍
 
 E não para por aí! Além de protagonizar, Ellen também é produtora executiva da série. O elenco conta com nomes de peso como Mark Duplass, Christina Hendricks e Dulé Hill. Será que eles vão conseguir superar o sucesso de "Grey’s Anatomy"? Só assistindo para descobrir! 🎥✨
