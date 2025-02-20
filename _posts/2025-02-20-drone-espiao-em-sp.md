@@ -13,8 +13,6 @@ Imagina só, estar curtindo suas férias no Brasil e, de repente, se deparar com
 Milena, de 35 anos, relatou que essa é a segunda vez que um drone invadiu sua privacidade em menos de um mês! Isso mesmo, parece até cena de filme de espionagem, mas é a vida real. Ela está preocupada com o vazamento dessas imagens, afinal, quem não estaria? 📸💔
 
 ![Milena Augusta, de 35 anos, disse ter sido espionada por um drone](https://i.imgur.com/knxpUOf.jpeg)
-
-`Foto: Reprodução e Arquivo pessoa`
 > Foto: Reprodução e Arquivo pessoal
 
 Esse episódio nos faz pensar sobre a **privacidade digital** e o uso desenfreado de tecnologias como os drones. Com o aumento da acessibilidade a esses dispositivos, a linha entre o uso recreativo e a invasão de privacidade está ficando cada vez mais tênue. 🚁🕵️‍♂️
