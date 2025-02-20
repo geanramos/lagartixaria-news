@@ -1,6 +1,9 @@
 ---
 layout: page
-title: Sobre
+title: "Sobre"
+date: 2025-02-19 11:00:00 -03:00
+description: "Tisha, a Lagartixa Jornalista de Lagartoópolis, é uma investigadora nata que, junto com sua parceira Gertrudes, desvenda os mistérios da política brasileira. 🦎✨"
+image: "https://i.imgur.com/O5YHpaW.jpeg"
 ---
 🌟 **Conheça Tixa, a Lagartixa Jornalista, e Gertrudes, sua Parceira Investigativa!** 🌟
 
