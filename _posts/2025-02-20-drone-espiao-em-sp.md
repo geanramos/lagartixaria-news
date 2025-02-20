@@ -3,7 +3,7 @@ title: "Empresária Espiada por Drone: Violação de Privacidade! 😱"
 date: 2025-02-20 15:58:00 -03:00
 description: "Milena Augusta foi espionada por drone em SP. Ela teme vazamento de imagens e sente-se insegura. 🚁👀"
 tags: [tecnologia]
-image: "https://geanramos.com.br/img/cafezinho-social.jpg"
+image: "https://i.imgur.com/knxpUOf.jpeg"
 ---
 
 🗣️ **Gente, segura essa bomba do mundo tecnológico!** 💣
