@@ -1,10 +1,11 @@
 ---
-title: "Ellen Pompeo em Novo Drama: Mistério e Tensão! 🎬"
+title: "Ellen Pompeo em Novo Drama - Mistério e Tensão! 🎬"
 date: 2025-02-20 17:08:00 -03:00
-description: "Ellen Pompeo estrela "Good American Family". Adopção com reviravoltas e suspense baseado em fatos reais. Estreia em 19 de março! 😱✨"
+description: "Ellen Pompeo estrela Good American Family. Adopção com reviravoltas e suspense baseado em fatos reais. Estreia em 19 de março! 😱✨"
 tags: [serie]
 image: "https://i.imgur.com/lNkiwKG.jpeg"
 ---
+
 🗣️ **Alerta de drama e mistério no mundo das séries!** 🎬🔥
 
 Gente, preparem-se, porque Ellen Pompeo está de volta, e dessa vez em um papel que promete ser um dos mais intensos de sua carreira! Depois de reduzir suas aparições como Meredith Grey em "Grey’s Anatomy" desde 2023, nossa rainha dos bisturis agora estrela "Good American Family", uma série dramática cheia de suspense! 🍿🌟
