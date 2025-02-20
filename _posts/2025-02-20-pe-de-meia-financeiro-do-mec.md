@@ -3,7 +3,7 @@ title: "Pé-de-Meia Licenciaturas: Auxílio Financeiro do MEC 🎓"
 date: 2025-02-20 14:00:00 -03:00
 description: "Estudantes de licenciatura ganham bolsa mensal de R$ 1.050 do MEC. Fique ligado nas notificações e cadastre seu currículo! 💼✨"
 tags: [educacao]
-image: "https://geanramos.com.br/img/cafezinho-social.jpg"
+image: "https://i.imgur.com/Txhyldf.png"
 ---
 
 🗣️ **Alerta de novidades na educação!** 🎓
@@ -21,3 +21,7 @@ Além disso, o programa Mais Professores para o Brasil visa fortalecer a formaç
 Então, se você é um estudante de licenciatura, fique ligado nos e-mails e notificações do MEC. E não se esqueça de cadastrar seu currículo na Plataforma Freire! Porque, no mundo da educação, cada passo conta. 🎓✨
 
 Continuem ligados aqui no Lagartixaria News para mais fofocas e novidades quentíssimas do mundo da educação! 🦎🔥
+
+Fonte: [gov.br/mec](https://www.gov.br/mec/pt-br/assuntos/noticias/2025/fevereiro/mec-fara-contato-com-elegiveis-ao-pe-de-meia-licenciaturas)
+Fonte: [mixvale.com.br](https://www.mixvale.com.br/2025/02/19/pe-de-meia-2025-amplia-pagamentos-e-incentivos-para-estudantes-da-eja/)
+Fonte: [valor.globo.com](https://valor.globo.com/politica/noticia/2025/02/20/lula-espera-comecar-a-reverter-situacao-desfavoravel-com-parcela-de-r-1-mil-do-pe-de-meia.ghtml)
