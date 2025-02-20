@@ -1,11 +1,10 @@
-
-"Empresária Espiada por Drone: Violação de Privacidade! 😱"
-
-
-Milena Augusta foi espionada por drone em SP. Ela teme vazamento de imagens e sente-se insegura. 🚁👀
-
-Se precisar de mais alguma coisa, estou à disposição! 😊
-
+---
+title: "Empresária Espiada por Drone: Violação de Privacidade! 😱"
+date: 2025-02-20 15:58:00 -03:00
+description: "Milena Augusta foi espionada por drone em SP. Ela teme vazamento de imagens e sente-se insegura. 🚁👀"
+tags: [tecnologia]
+image: "https://geanramos.com.br/img/cafezinho-social.jpg"
+---
 
 🗣️ **Gente, segura essa bomba do mundo tecnológico!** 💣
 
@@ -22,7 +21,3 @@ O Regulamento Brasileiro de Aviação Civil Especial (RBAC-E) classifica os dron
 A prefeitura de São Vicente lamentou o ocorrido e afirmou que vai estudar medidas para evitar situações semelhantes. Enquanto isso, Milena volta para a Itália com a sensação de insegurança na bagagem e uma história para lá de surreal. 🌍📦
 
 Então, pessoal, fica a dica: fiquem de olho nos céus e nas janelas, porque nunca se sabe quando um drone pode aparecer para estragar suas férias! 🚨😅
-
----
-
-Espero que isso atenda aos seus requisitos! Se precisar de mais alguma coisa, estou à disposição. 😄
