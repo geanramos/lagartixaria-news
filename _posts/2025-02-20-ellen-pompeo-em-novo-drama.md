@@ -1,9 +1,9 @@
 ---
 title: "Ellen Pompeo em Novo Drama: Mistério e Tensão! 🎬"
-date: 2025-02-20 16:26:00 -03:00
+date: 2025-02-20 17:08:00 -03:00
 description: "Ellen Pompeo estrela "Good American Family". Adopção com reviravoltas e suspense baseado em fatos reais. Estreia em 19 de março! 😱✨"
 tags: [serie]
-image: "ccc"
+image: "https://i.imgur.com/lNkiwKG.jpeg"
 ---
 🗣️ **Alerta de drama e mistério no mundo das séries!** 🎬🔥
 
