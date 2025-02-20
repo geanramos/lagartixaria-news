@@ -3,7 +3,7 @@ title: "Trump Se Aproxima de Putin e Choca Republicanos! 😱"
 date: 2025-02-20 16:26:00 -03:00
 description: "Trump muda política externa, se afasta da Ucrânia e cria tensão entre republicanos. Realpolitik em ação! 🤔⚖️"
 tags: [mundo]
-image: "https://static01.nyt.com/images/2025/02/19/multimedia/19dc-repubs1-zfcb/19dc-repubs1-zfcb-articleLarge.jpg?quality=75&auto=webp&disable=upscale"
+image: "https://i.imgur.com/0EEgsDJ.jpeg"
 ---
 
 🗣️ **Alerta de tensão política!** 💥
@@ -21,3 +21,5 @@ E Trump não parou por aí. Ele chegou a chamar o presidente ucraniano, Volodymy
 No fundo, essa situação toda mostra como a política pode ser cheia de nuances e interesses ocultos. Será que os republicanos vão continuar calados ou vão se posicionar contra essas mudanças drásticas na política externa americana? 🤷‍♀️🌐
 
 Fiquem ligados no Lagartixaria News para mais fofocas e reviravoltas do mundo político! Porque, na política americana, cada dia é uma nova temporada de drama e suspense! 🦎🔥
+
+Fonte: <a href="https://www.nytimes.com/2025/02/19/us/politics/trump-ukraine-russia-republicans.html" target="_blank" rel="noopener noreferrer">nytimes.com</a>
