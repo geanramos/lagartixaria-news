@@ -1,5 +1,9 @@
 ---
-title: Exemplo de Tipografia
+title: "Exemplo de Tipografia"
+date: 2025-02-19 20:00:00 -03:00
+description: "A Poppins é uma fonte geométrica sans serif que pode ser usada em sites, aplicativos, logotipos, branding, revistas, entre outros"
+tags: [code]
+image: "https://i.imgur.com/KcZgm5j.jpeg"
 ---
 
 ![Tisha](/img/img-test.png "Tisha News")
