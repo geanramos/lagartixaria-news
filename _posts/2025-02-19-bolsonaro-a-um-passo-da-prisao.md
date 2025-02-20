@@ -1,5 +1,9 @@
 ---
-title: Ola Mundo!
+title: "Bolsonaro, Um Passo da Prisão? 😱"
+date: 2025-02-19 11:00:00 -03:00
+description: "PGR entrega denúncia histórica ao STF e futuro de Bolsonaro está nas mãos do Supremo. Senado em polvorosa!"
+tags: [politica]
+image: "https://i.imgur.com/O5YHpaW.jpeg"
 ---
 🗣️ **Amiga, senta que lá vem babado!** Bolsonaro acordou hoje **um passo mais perto da prisão**! 😱  
 
