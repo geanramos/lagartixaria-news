@@ -17,7 +17,6 @@ Seguinte, trocando o famigerado Lightning pelo USB-C, a Apple alinha o iPhone 16
 <div class="plyr__video-embed" id="player">
  <iframe src="https://www.youtube.com/watch?v=mFuyX1XgJFg?origin=https://tisha.geanramos.com.br" allowfullscreen allowtransparency allow="autoplay"></iframe>
 </div>
-<script> const player = new Plyr('#player'); </script>
 
 E a cereja do bolo: o chip A18 com a plataforma Apple Intelligence, cheio de ferramentas baseadas em inteligência artificial. Aqui entra o conceito de **machine learning**, que permite ao dispositivo aprender com o uso e melhorar a experiência do usuário. É tipo aquele amigo que te conhece melhor do que você mesmo. 🤓
 
