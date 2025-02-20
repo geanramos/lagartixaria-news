@@ -3,7 +3,7 @@ title: "Redes explodem com apoio à denúncia contra Bolsonaro"
 date: 2025-02-20 06:00:00 -03:00
 description: "68% das postagens apoiam a acusação da PGR, enquanto bolsonaristas se refugiam no WhatsApp e Telegram. O clima é de treta! 🔥"
 tags: [politica]
-image: "https://i.imgur.com/CGqZJ28.jpeg"
+image: "https://i.imgur.com/qKVdL4s.jpeg"
 ---
 🗣️ **Segura essa, porque o clima nas redes tá pegando fogo!** 🔥  
 
