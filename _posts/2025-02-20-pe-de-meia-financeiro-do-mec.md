@@ -22,6 +22,6 @@ Então, se você é um estudante de licenciatura, fique ligado nos e-mails e not
 
 Continuem ligados aqui no Lagartixaria News para mais fofocas e novidades quentíssimas do mundo da educação! 🦎🔥
 
-Fonte: [gov.br/mec](https://www.gov.br/mec/pt-br/assuntos/noticias/2025/fevereiro/mec-fara-contato-com-elegiveis-ao-pe-de-meia-licenciaturas)
-Fonte: [mixvale.com.br](https://www.mixvale.com.br/2025/02/19/pe-de-meia-2025-amplia-pagamentos-e-incentivos-para-estudantes-da-eja/)
-Fonte: [valor.globo.com](https://valor.globo.com/politica/noticia/2025/02/20/lula-espera-comecar-a-reverter-situacao-desfavoravel-com-parcela-de-r-1-mil-do-pe-de-meia.ghtml)
+<p>Fonte: <a href="https://www.gov.br/mec/pt-br/assuntos/noticias/2025/fevereiro/mec-fara-contato-com-elegiveis-ao-pe-de-meia-licenciaturas" target="_blank" rel="noopener noreferrer">gov.br/mec</a></p>
+<p>Fonte: <a href="https://www.mixvale.com.br/2025/02/19/pe-de-meia-2025-amplia-pagamentos-e-incentivos-para-estudantes-da-eja/" target="_blank" rel="noopener noreferrer">mixvale.com.br</a></p>
+<p>Fonte: <a href="https://valor.globo.com/politica/noticia/2025/02/20/lula-espera-comecar-a-reverter-situacao-desfavoravel-com-parcela-de-r-1-mil-do-pe-de-meia.ghtml" target="_blank" rel="noopener noreferrer">valor.globo.com</a></p>
