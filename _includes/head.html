@@ -12,7 +12,35 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="#008A3C" />
   <meta name="apple-mobile-web-app-title" content="{{ site.title }}" />
   
-  
+  <!-- Meta Tags para SEO no Google -->
+<title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+<meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+<meta name="author" content="Gean Ramos">
+<meta name="keywords" content="Gean Ramos, geanramos, Jekyll, blog">
+<meta name="robots" content="index, follow">
+<meta name="googlebot" content="index, follow">
+<link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
+
+<!-- Open Graph / Facebook, LinkedIn, WhatsApp-->
+<meta property="og:type" content="article">
+<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+<meta property="og:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+<meta property="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}">
+<meta property="og:site_name" content="{{ site.title }}">
+{% if page.image %}<meta property="og:image" content="{{ page.image | absolute_url }}" />{% else %}<meta property="og:image" content="{{ site.image | absolute_url }}" />{% endif %}
+<meta property="og:locale" content="pt_BR">
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@geanramos">
+<meta name="twitter:creator" content="@geanramos">
+<meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+<meta name="twitter:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+{% if page.image %}<meta name="twitter:image" content="{{ page.image | absolute_url }}" />{% else %}<meta name="twitter:image" content="{{ site.image | absolute_url }}" />{% endif %}
+<link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="https://cdn.geanramos.42web.io/feed.xml">  
+<link rel="icon" sizes="16x16" href="https://cdn.jsdelivr.net/gh/geanramos/18011975/social/kagi.svg">
+<link rel="icon" type="image/x-icon" href="https://cdn.jsdelivr.net/gh/geanramos/18011975/social/kagi.svg">
+<link href="https://cdn.jsdelivr.net/gh/geanramos/18011975/social/kagi.svg" rel="icon" type="image/x-icon"/>
 
 	<!--final-->
 	<link rel="icon" href="/img/tisha.svg?v=1.1"/>
