@@ -123,8 +123,8 @@ html, body {
 }
 
 #header {
-	text-align: center;
-  padding: 24px 0;
+text-align: center;
+  padding: 15px 0;
   position: relative;
   a {
   	text-decoration: none;
@@ -132,12 +132,13 @@ html, body {
   	display: inline-block;
   }
   img {
-  	max-height: 72px;
+  	max-height: 100px;
   	margin: 0 auto;
   	display: block;
+	border-radius: 50px;
   }
   h1 {
-  	font-family: 'Poppins', sans-serif; //Emerald logo font
+  	font-family: 'Poppins', sans-serif; //Tisha logo font
     font-weight: 600;
   }
   &:after {
