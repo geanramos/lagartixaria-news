@@ -142,11 +142,11 @@ text-align: center;
     font-weight: 600;
   }
   &:after {
-  	display: block;
-    content: '';
-    width: 5rem;
-    height: 1px;
-    margin: 23px auto;
+    display:block;
+    content:'';
+    width:5rem;
+    height:1px;
+    margin:2px auto;
     background-color: lighten($text-color, 70%);
   }
 }
