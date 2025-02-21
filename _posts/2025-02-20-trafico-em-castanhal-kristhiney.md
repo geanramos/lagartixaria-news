@@ -10,7 +10,7 @@ image: "https://i.imgur.com/SfcvbIq.jpeg"
 
 Gente, segura essa! A Polícia Civil do Pará prendeu em flagrante Kristhiney Moraes da Costa, de 30 anos, na manhã desta quinta-feira (20), pelo crime de tráfico de drogas. E olha, a novela se desenrolou no bairro Jaderlândia, em Castanhal! 🎬🌿
 
-[Tráfico em Castanhal: Prisão em Flagrante!](https://i.imgur.com/ENptY6R.jpeg)
+![Tráfico em Castanhal - Prisão em Flagrante!](https://i.imgur.com/ENptY6R.jpeg)
 `Foto: Divulgação / O Liberal`
 
 Com o Kristhiney, a polícia encontrou duas porções de cocaína, totalizando 160 gramas. Foi pega no pulo! Ele foi levado para a delegacia, onde foi autuado conforme o artigo 33 da Lei 11.343/06, que trata do tráfico de drogas. Só problema! 😱👮‍♂️
