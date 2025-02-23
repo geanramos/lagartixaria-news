@@ -1,0 +1,101 @@
+---
+title: "Termos de uso / politica de Privacidade"
+date: 2025-02-22 20:00:00 -03:00
+description: "Política de Privacidade e Termos de Uso, em conformidade com a LGPD. Protegemos seus dados e garantimos seus direitos. Confira!"
+tags: []
+image: "https://storage.googleapis.com/support-forums-api/attachment/thread-235880900-14874906760225003276.png"
+---
+
+## Política de Privacidade
+
+**Última atualização:** 22/02/2025
+
+Esta Política de Privacidade descreve como Gean Ramos/geanramos.com.br coleta, usa e protege as informações dos usuários que visitam nossos sites estáticos.
+
+**Informações Coletadas:**
+
+Nossos sites utilizam o Google Analytics 4 (GA4) para coletar dados estatísticos sobre o tráfego, como:
+
+* Informações demográficas e de interesse: idade, sexo e interesses dos usuários.
+* Informações do dispositivo: tipo de dispositivo, sistema operacional e navegador.
+* Informações de navegação: páginas visitadas, tempo gasto em cada página e origem do tráfego.
+* Endereço IP: para determinar a localização geográfica aproximada do usuário.
+
+**Uso das Informações:**
+
+Utilizamos as informações coletadas pelo GA4 para:
+
+* Analisar o tráfego do site e entender como os usuários interagem com nosso conteúdo.
+* Melhorar a experiência do usuário e otimizar o conteúdo do site.
+* Gerar relatórios estatísticos sobre o desempenho do site.
+
+**Compartilhamento de Informações:**
+
+Não compartilhamos informações pessoais dos usuários com terceiros, exceto quando exigido por lei, em conformidade com a Lei Geral de Proteção de Dados (LGPD) - Lei nº 13.709/2018.
+
+**Cookies:**
+
+O GA4 utiliza cookies para coletar informações sobre os usuários. Você pode controlar o uso de cookies nas configurações do seu navegador.
+
+**Privacidade do Google Analytics 4:**
+
+O Google coleta e processa dados de acordo com sua [Política de Privacidade](https://policies.google.com/privacy). Recomendamos que você leia a política de privacidade do Google para entender como seus dados são coletados e usados.
+
+**Seus Direitos (LGPD):**
+
+Você tem o direito de:
+
+* Acessar suas informações pessoais coletadas pelo GA4.
+* Solicitar a correção de dados incompletos, inexatos ou desatualizados.
+* Solicitar a anonimização, bloqueio ou eliminação de dados desnecessários, excessivos ou tratados em desconformidade com a LGPD.
+* Solicitar a portabilidade dos dados a outro fornecedor de serviço ou produto, mediante requisição expressa, de acordo com a regulamentação da autoridade nacional, observados os segredos comercial e industrial.
+* Solicitar a eliminação dos dados pessoais tratados com o consentimento do titular, exceto nas hipóteses previstas no art. 16 da LGPD.
+* Solicitar informação das entidades públicas e privadas com as quais o controlador realizou uso compartilhado de dados.
+* Solicitar informação sobre a possibilidade de não fornecer consentimento e sobre as consequências da negativa.
+* Revogar o consentimento, conforme previsto no § 5º do art. 8º da LGPD.
+
+**Alterações nesta Política de Privacidade:**
+
+Podemos atualizar esta Política de Privacidade periodicamente. Recomendamos que você revise esta política regularmente para estar ciente de quaisquer alterações.
+
+**Contato:**
+
+Se você tiver alguma dúvida sobre esta Política de Privacidade, entre em contato conosco em: privacy@geanramos.com.br.
+
+## Termos de Uso
+
+**Última atualização:** 22/02/2025
+
+Ao acessar e usar nossos sites estáticos, você concorda com os seguintes termos de uso:
+
+**Conteúdo:**
+
+Todo o conteúdo dos nossos sites é fornecido "como está", sem garantias de qualquer tipo.
+
+**Uso do Site:**
+
+Você concorda em usar nossos sites apenas para fins legais e de acordo com estes termos de uso, em conformidade com as leis brasileiras.
+
+**Propriedade Intelectual:**
+
+Todo o conteúdo dos nossos sites é protegido por direitos autorais e outras leis de propriedade intelectual, conforme a Lei nº 9.610/98 (Lei de Direitos Autorais).
+
+**Limitação de Responsabilidade:**
+
+Não somos responsáveis por quaisquer danos diretos, indiretos, incidentais, consequenciais ou punitivos decorrentes do uso de nossos sites.
+
+**Links para Sites de Terceiros:**
+
+Nossos sites podem conter links para sites de terceiros. Não somos responsáveis pelo conteúdo ou pelas práticas de privacidade desses sites.
+
+**Alterações nestes Termos de Uso:**
+
+Podemos atualizar estes Termos de Uso periodicamente. Recomendamos que você revise estes termos regularmente para estar ciente de quaisquer alterações.
+
+**Lei Aplicável:**
+
+Estes Termos de Uso são regidos e interpretados de acordo com as leis da República Federativa do Brasil, com foro na cidade de São Paulo, SP.
+
+**Contato:**
+
+Se você tiver alguma dúvida sobre estes Termos de Uso, entre em contato conosco em: privacy@geanramos.com.br.
