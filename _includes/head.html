@@ -36,16 +36,15 @@
   <meta name="twitter:creator" content="@geanramos">
   <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta name="twitter:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}"> {% if page.image %}
-  <meta name="twitter:image" content="https://images.weserv.nl/?w=1200&h=630&output=webp&q=70&t=square&url={{ page.image | absolute_url }}" />{% else %}
+  <meta name="twitter:image" content="{{ page.image | absolute_url }}" />{% else %}
   <meta name="twitter:image" content="{{ site.image | absolute_url }}" />{% endif %}
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="https://tisha.geanramos.com.br/atom.xml">
-  <link rel="icon" sizes="16x16" href="https://tisha.geanramos.com.br/favicon.ico">
+  <link rel="icon" sizes="16x16" href="https://tisha.geanramos.com.br/favicon.png">
   <link rel="icon" type="image/x-icon" href="https://tisha.geanramos.com.br/favicon.png">
-  <link href="https://tisha.geanramos.com.br/favicon.ico" rel="icon" type="image/x-icon" />
+  <link href="https://tisha.geanramos.com.br/favicon.png" rel="icon" type="image/x-icon" />
   <link rel="icon" href="https://tisha.geanramos.com.br/favicon.png" />
 
   <!-- CSS & fonts -->
-  <style> img, iframe, embed { border-radius: 8px; } </style>
   <link rel="stylesheet" href="https://tisha.geanramos.com.br/css/main.css?v=250222">
   <link rel="stylesheet" href="https://tisha.geanramos.com.br/css/custom.css?v=250222">
   <link rel="stylesheet" href="https://cdn.plyr.io/3.6.8/plyr.css" />
@@ -54,35 +53,30 @@
   <!-- RSS -->
   <link href="https://tisha.geanramos.com.br/atom.xml" type="application/atom+xml" rel="alternate" title="{{ site.title }} - Feed" />
   <link href="https://feeds.feedburner.com/tishanews" type="application/atom+xml" rel="alternate" title="{{ site.title }} - RSS" />
-  <style>#header:after {
-  display:block;
-  content:'';
-  width:5rem;
-  height:1px;
-  margin:1px auto;
-  background-color:#d5d5d5
-}</style>
   <style>
+img, iframe, embed { border-radius: 8px; }
+#header:after {
+  display: block;
+  content: '';
+  width: 5rem;
+  height: 1px;
+  margin: 1px auto;
+  background-color: #d5d5d5;
+}
 .footer {
-  text-align: center; /* Centraliza o conteúdo */
-  
-  color: #fff; /* Cor do texto padrão */
-  font-size: 14px; /* Tamanho da fonte */
-  font-weight: 400; /* Peso da fonte */
+  text-align: center;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 400;
 }
-
 .footer a {
-  color: #fff; /* Cor dos links */
-  text-decoration: none; /* Remove sublinhado padrão dos links */
-
+  color: #fff;
+  text-decoration: none;
 }
-
 .footer a:hover {
-  color: #d5d5d5; /* Cor dos links no hover */
+  color: #d5d5d5;
 }
-
 </style>
-
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-TZBPFV014K"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
