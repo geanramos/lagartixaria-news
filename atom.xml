@@ -3,7 +3,7 @@ layout: null
 ---
 
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
 
  <title>{{ site.title }}</title>
  <link href="{{ site.url }}/atom.xml" rel="self"/>
@@ -23,6 +23,9 @@ layout: null
    <id>{{ site.url }}{{ post.id }}</id>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <content type="html">{{ post.content | xml_escape | truncatewords:50 }}</content>
+   {% if post.image %}
+   <media:content url="{{ post.image | absolute_url }}" medium="image" />
+   {% endif %}
  </entry>
 
  {% endfor %}
