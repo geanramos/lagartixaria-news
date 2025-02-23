@@ -11,13 +11,12 @@ Gente, o Presidente Trump não cansa de causar! 😂 Na sua mais recente apariç
 
 Para quem está por fora do babado, vamos dar um mergulho nessa história! 🏊‍♂️
 
-Primeiro, o que a gente precisa entender é o quanto esses personagens são polêmicos. Trump, ex-presidente dos Estados Unidos, é conhecido por suas declarações explosivas e controversas. Dessa vez, ele resolveu mandar um alô para o ex-presidente do Brasil, Jair Bolsonaro, e ainda rasgou elogios ao filho do meio, Eduardo Bolsonaro. Para completar a novela, Milei, uma figura controversa na política argentina, soltou o verbo sobre as eleições brasileiras, afirmando que houve fraude. 😱🗳️
+Primeiro, o que a gente precisa entender é o quanto esses personagens são polêmicos. Trump, presidente dos Estados Unidos, é conhecido por suas declarações explosivas e controversas. Dessa vez, ele resolveu mandar um alô para o ex-presidente do Brasil, Jair Bolsonaro, e ainda rasgou elogios ao filho do meio, Eduardo Bolsonaro. Para completar a novela, Milei, uma figura controversa na política argentina, soltou o verbo sobre as eleições brasileiras, afirmando que houve fraude. 😱🗳️
 
 **Mas espera aí, fraude? O que é isso mesmo?**
 
-Fraude eleitoral é uma tentativa de alterar os resultados de uma eleição através de meios ilegais ou não-éticos. Isso pode incluir desde votos falsificados até manipulação de contagem de votos. Vale lembrar que alegações de fraude devem ser investigadas com seriedade e rigor, mas afirmar sem provas concretas pode levar a desinformação e divisão social. 🧐
-
-Agora, imagine como isso pode impactar a imagem do Brasil e a confiança nas instituições democráticas. Tais declarações, quando não fundamentadas, podem minar a credibilidade do processo eleitoral e inflamar os ânimos de uma população já dividida. 😬
+Mas afirmar sem provas concretas pode levar a desinformação e divisão social. 🧐
+Tais declarações, quando não fundamentadas, podem minar a credibilidade do processo eleitoral e inflamar os ânimos de uma população já dividida. 😬
 
 E é claro, você deve estar se perguntando como Lula e Alexandre de Moraes estão reagindo a tudo isso... Bom, fontes dizem que ambos devem estar espumando pela boca com essas declarações. Não é pra menos, né? 😂
 
