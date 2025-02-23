@@ -20,8 +20,7 @@ layout: null
    <updated>{{ post.date | date_to_xmlschema }}</updated>
    <summary type="html">{% if post.description %}{{ post.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}</summary>
    <content type="html">{{ post.content | xml_escape | truncatewords:50 }}</content>{% if post.image %}
-   <media:content url="{{ post.image | absolute_url }}" medium="image" />
-   {% endif %}
+   <media:content url="{{ post.image | absolute_url }}" medium="image" />{% endif %}
  </entry>
  {% endfor %}
 </feed>
