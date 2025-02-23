@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "Termos de uso / politica de Privacidade"
 date: 2025-02-22 20:00:00 -03:00
 description: "Política de Privacidade e Termos de Uso, em conformidade com a LGPD. Protegemos seus dados e garantimos seus direitos. Confira!"
