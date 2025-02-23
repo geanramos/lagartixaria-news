@@ -3,7 +3,7 @@ title: "Lula admite: Nem o ministério sabe o que o governo faz! 🤔"
 date: 2025-02-22 22:43:00 -03:00
 description: "Lula revela que nem o ministério sabia das ações do governo! e expõe falta de comunicação no governo"
 tags: [politica]
-image: "https://i.imgur.com/UbhwqQ5.jpeg"
+image: "https://i.imgur.com/UBGrZ2j.png"
 ---
 **🚨 *Breaking News* 🚨**
 
