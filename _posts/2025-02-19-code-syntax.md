@@ -53,7 +53,7 @@ Codigo embed - Youtube
 
 ### video vimeo
 
-<div class="plyr__cite plyr__cite--vimeo" id="player">   
-<iframe src="https://player.vimeo.com/video/867950660" allowfullscreen allowtransparency allow="autoplay"></iframe>
+<div class="video-wrapper">
+  <div id="vimeo-player" data-plyr-provider="vimeo" data-plyr-embed-id="152044992"></div>
 </div>
 
