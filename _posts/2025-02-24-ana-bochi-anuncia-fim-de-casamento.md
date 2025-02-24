@@ -13,8 +13,16 @@ Parece que o casal estava enfrentando problemas há algum tempo, mas agora é of
 
 Gente, segura essa bomba! 💣 Ana Bochi anunciou o término do casamento de 12 anos com José e explicou tudinho em um vídeo. Parece coisa de novela, né?
 
+![Separação de Ana Bochi: os detalhes do término com José](./img/ana-bochi-anuncia-fim-de-casamento.webp)
+
 Ana contou que muita gente estava cobrando um posicionamento dela porque o José sumiu das redes sociais. Segundo ela, o casamento sempre foi levado a sério, mas as coisas começaram a ficar estranhas. Mesmo sem brigas, a distância entre eles foi aumentando, e José confessou que já não estava feliz há algum tempo. Nem a mudança para a praia nem a casa maior conseguiram salvar o relacionamento. 🏖️🏠
 
+<div class="video-wrapper">
+<div class="plyr__video-embed" id="youtube-player">
+<iframe src="https://www.youtube.com/embed/jokftEqMvqg" allowfullscreen="" allowtransparency="" allow="autoplay"></iframe>
+</div>
+</div>
+<br />
 Ela tentou de tudo para reverter a situação: ofereceu terapia, viagens... Mas José já tinha decidido que era o fim. A separação foi tranquila, sem escândalos, mas dolorosa para a Ana, que não esperava essa decisão. José arrumou suas coisas e saiu de casa, deixando Ana sozinha, refletindo sobre o término e sentindo falta dos momentos juntos.
 
 Durante esse período difícil, Ana continuou a trabalhar e recebeu o apoio dos amigos, especialmente do Michel, que ficou com ela para ajudar. A falta de comunicação foi um dos principais fatores que levou ao fim do relacionamento. Embora ainda houvesse amor, eles não conseguiram resolver os problemas com conversas.
