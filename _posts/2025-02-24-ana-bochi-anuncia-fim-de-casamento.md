@@ -30,6 +30,7 @@ Durante esse período difícil, Ana continuou a trabalhar e recebeu o apoio dos 
 ---
 
 🌟 Receba as principais notícias direto no WhatsApp! <a href="https://www.whatsapp.com/channel/0029VaiPYBPLo4heVf0U3u2d" target="_blank" rel="noopener noreferrer">Inscreva-se no canal da Tisha</a> 📲
+
 ---
 
 Ana deu um conselho valioso para os casais que enfrentam dificuldades: a comunicação é essencial para evitar que pequenos problemas se tornem grandes. Ela pediu que os seguidores não especulem sobre os motivos do término, deixando claro que não foi por aparência ou comportamentos superficiais. A decisão foi dolorosa, mas necessária, e ela pede respeito e compreensão.
