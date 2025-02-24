@@ -1,3 +1,4 @@
+
 ---
 title: "Sintaxe de Código"
 date: 2025-02-19 20:00:00 -03:00
@@ -51,11 +52,10 @@ Codigo embed - Youtube
     </div><br>
 
 ### video vimeo
-    <div class="plyr__video-embed" id="player">
-        <iframe src="https://player.vimeo.com/video/867950660" allowfullscreen allowtransparency allow="autoplay"></iframe>
-    </div>
-
-    <script src="<script src="https://cdn.plyr.io/3.6.8/plyr.polyfilled.js"></script>"></script>
+    
+<iframe src="https://player.vimeo.com/video/867950660" allowfullscreen allowtransparency allow="autoplay"></iframe>
+<script src="https://cdn.plyr.io/3.6.8/plyr.polyfilled.js"></script>
     <script>
         const player = new Plyr('#player');
     </script>
+
