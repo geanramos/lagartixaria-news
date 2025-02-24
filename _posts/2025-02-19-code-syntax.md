@@ -49,9 +49,12 @@ end
 
 Codigo embed - Youtube
 
-    <div class="plyr__video-embed" id="player">
-     <!--7IcGYHU8WBo-->
-    </div><br>
+    <div class="video-wrapper">
+    <div class="plyr__video-embed" id="youtube-player">
+    <!--7IcGYHU8WBo-->
+    </div>
+    </div>
+
 
 ### video vimeo
 
