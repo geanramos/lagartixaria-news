@@ -50,14 +50,3 @@ Codigo embed - Youtube
      <!--7IcGYHU8WBo-->
     </div><br>
 
-<div class="plyr__video-embed" id="player">
- <iframe src="https://player.vimeo.com/video/152044992" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-</div>
-<script>  const player = new Plyr('#player'); </script>
-
-Codigo embed - Vimeo
-
-    <div class="plyr__video-embed" id="player">
-     <!--152044992-->
-    </div>
-    <script>  const player = new Plyr('#player'); </script>
