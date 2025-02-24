@@ -1,6 +1,6 @@
 ---
 title: "Papa Francisco últimas notícias, leve melhora, diz Vaticano"
-date: 2025-02-24 20:00:00 -03:00
+date: 2025-02-24 14:51:00 -03:00
 description: "Situação do Papa Francisco estável. Veja as últimas notícias sobre a saúde do pontífice. 💒"
 tags: [saude]
 image: "https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2025/02/22/379375978-67b6aea5258c7a8d-1400x823-1.jpg"
