@@ -1,6 +1,6 @@
 ---
 title: "Guerra na Ucrânia, O Drama de Zelensky e Trump!"
-date: 2025-02-18 20:00:00 -03:00
+date: 2025-02-23 20:18:00 -03:00
 description: "Trump chama Zelensky de ditador e sugere novas eleições na Ucrânia. Zelensky considera renunciar em troca de paz. Saiba mais sobre essa tensão política!"
 tags: [politica]
 image: "https://i.imgur.com/eZZz5Yz.jpeg"
