@@ -1,6 +1,6 @@
 ---
 title: "Papa Francisco, Entenda o estado de saúde atual e as atualizações! 🙏"
-date: 2025-02-18 20:00:00 -03:00
+date: 2025-02-24 07:00:00 -03:00
 description: "O estado de saúde do Papa Francisco ainda é crítico. Entenda tudo sobre o quadro dele e os tratamentos que está recebendo."
 tags: [saude]
 image: "https://operamundi.uol.com.br/wp-content/uploads/2025/02/52316655855_849c5b0f59_k.jpg"
