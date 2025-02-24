@@ -35,7 +35,9 @@ Nas últimas semanas, ela estava super animada para o Carnaval 2025, treinando m
 
 Aline morreu *muito cedo*, mas deixa um legado de paixão, superação e amor. E agora, o que resta é a saudade de uma mulher que se entregava ao que amava, que via na vida e no samba a sua forma de viver plenamente. 💖
 
-🎥 Se você se emocionou com essa história, compartilhe com os amigos e ajude a manter viva a memória dessa musa! 
+> 🎥 Se você se emocionou com essa história, compartilhe com os amigos e ajude a manter viva a memória dessa musa! 
+
+---
 
 🌟 **Receba as principais notícias direto no WhatsApp!** <a href="https://www.whatsapp.com/channel/0029VaiPYBPLo4heVf0U3u2d" target="_blank" rel="noopener noreferrer">Inscreva-se no canal da Tisha</a> 📲
 
