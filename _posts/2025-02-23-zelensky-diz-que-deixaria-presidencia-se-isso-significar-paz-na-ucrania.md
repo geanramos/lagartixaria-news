@@ -10,7 +10,11 @@ image: "https://i.imgur.com/eZZz5Yz.jpeg"
 
 E aí, galera! 🚨 Pega a pipoca porque a treta internacional tá pegando fogo e vou te contar tudinho!
 
-💣 *Imagina se a Argentina invadisse o Brasil e pegasse o Rio Grande do Sul.* Aí os Estados Unidos falassem: "Ah, é só um pedaço de terra, entrega logo pra acabar a guerra!" 😲 Bom, é isso que o Trump tá falando pro Zelensky sobre a Ucrânia e a Rússia. E sim, tá injusto demais!
+💣 *Imagina se a Argentina invadisse o Brasil e pegasse o Santa Catariana e Rio Grande do Sul.* Aí os Estados Unidos falassem: "Ah, é só um pedaço de terra, entrega logo pra acabar a guerra!" 😲 Bom, é isso que o Trump tá falando pro Zelensky sobre a Ucrânia e a Rússia. E sim, tá injusto demais!
+
+<div class="plyr__video-embed" id="player">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BVEFKEr6Pt4?si=MvD77Zc3i09dcxHM&amp;start=260" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div><br>
 
 Zelensky, o presidente ucraniano, tá lutando contra a invasão russa desde 2022 e agora diz que até renunciaria se isso significasse o fim da guerra ou a entrada da Ucrânia na Otan. 🌍💥
 
