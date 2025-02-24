@@ -57,7 +57,5 @@ Codigo embed - Youtube
 <iframe src="https://player.vimeo.com/video/152044992" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 </div>
 <script src="https://cdn.plyr.io/3.6.8/plyr.polyfilled.js"></script>
-    <script>
-        const player = new Plyr('#player');
-    </script>
+<script> const player = new Plyr('#player'); </script>
 
