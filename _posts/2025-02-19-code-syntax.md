@@ -54,7 +54,7 @@ Codigo embed - Youtube
 ### video vimeo
 
 <div class="plyr__video-embed" id="player">   
-<iframe src="https://player.vimeo.com/video/152044992" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/7IcGYHU8WBo?origin=https://tisha.geanramos.com.br" allowfullscreen allowtransparency allow="autoplay"></iframe>
 </div>
 <script src="https://cdn.plyr.io/3.6.8/plyr.polyfilled.js"></script>
 <script> const player = new Plyr('#player'); </script>
