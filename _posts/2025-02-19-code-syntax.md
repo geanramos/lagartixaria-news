@@ -64,3 +64,11 @@ Codigo embed - Youtube
 </div>
 </div>
 
+Codigo embed - Vimeo
+
+    <div class="video-wrapper">
+    <div class="plyr__video-embed" id="youtube-player">
+    <!--7IcGYHU8WBo-->
+    </div>
+    </div>
+
