@@ -46,7 +46,7 @@ end
 <iframe src="https://www.youtube.com/embed/7IcGYHU8WBo" allowfullscreen allowtransparency allow="autoplay"></iframe>
 </div>
 </div>
-
+<br>
 Codigo embed - Youtube
 
     <div class="video-wrapper">
@@ -63,11 +63,11 @@ Codigo embed - Youtube
 <iframe src="https://player.vimeo.com/video/152044992" allowfullscreen allowtransparency allow="autoplay"></iframe>
 </div>
 </div>
-
+<br>
 Codigo embed - Vimeo
 
     <div class="video-wrapper">
-    <div class="plyr__video-embed" id="youtube-player">
+    <div class="plyr__video-embed" id="vimeo-player">
     <!--152044992-->
     </div>
     </div>
