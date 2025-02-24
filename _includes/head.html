@@ -53,7 +53,9 @@
   {% else %}
   <meta name="twitter:image" content="{{ site.image | absolute_url }}">
   {% endif %}
-
+<meta name="twitter:image:alt" content="https://images.weserv.nl/?w=1200&h=630&output=webp&q=70&t=square&url={{ page.image | absolute_url }}">
+<meta name="twitter:image:width" content="1200">
+<meta name="twitter:image:height" content="630">
   <!-- Favicon e RSS -->
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="https://tisha.geanramos.com.br/atom.xml">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="https://feeds.feedburner.com/tishanews">
