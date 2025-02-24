@@ -27,11 +27,11 @@ O diretor de musas da Boa Vista, Alex Alves, lembrou com muito carinho da primei
 
 Nas últimas semanas, ela estava super animada para o Carnaval 2025, treinando muito e envolvida com os ensaios. *Aline estava mais do que nunca entregue ao enredo* e à escola que chamava de "sua casa". 🏠✨
 
-    <div class="video-wrapper">
-        <video id="local-video" controls poster="https://midias.agazeta.com.br/2025/02/24/aline-bianca-38-anos-musa-da-boa-vista-morreu-na-tarde-de-domingo-23-2623605-article.jpg">
-            <source src="https://cdn.jwplayer.com/videos/D9c5iN3t-9DeJdxxG.mp4" type="video/mp4" />
-        </video>
-    </div><br>
+<div class="video-wrapper">
+<video id="local-video" controls poster="https://midias.agazeta.com.br/2025/02/24/aline-bianca-38-anos-musa-da-boa-vista-morreu-na-tarde-de-domingo-23-2623605-article.jpg">
+<source src="https://cdn.jwplayer.com/videos/D9c5iN3t-9DeJdxxG.mp4" type="video/mp4" />
+</video>
+</div><br>
 
 Aline morreu *muito cedo*, mas deixa um legado de paixão, superação e amor. E agora, o que resta é a saudade de uma mulher que se entregava ao que amava, que via na vida e no samba a sua forma de viver plenamente. 💖
 
