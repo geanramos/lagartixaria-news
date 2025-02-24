@@ -6,12 +6,10 @@ tags: [celebridade]
 image: "https://i.ytimg.com/vi/jokftEqMvqg/maxres2.jpg"
 ---
 
-💔 Vamos fofocar um pouquinho sobre a treta do momento, amiga! 
-Sabia que a **Ana Bochi** e o José se separaram depois de 12 anos de casados? Sim, isso mesmo! 😱 
+💔 Gente, segura essa bomba! 💣 
+**Ana Bochi** anunciou o término do casamento de 12 anos com José e explicou tudinho em um vídeo. Parece coisa de novela, né? 😱 
 
 Parece que o casal estava enfrentando problemas há algum tempo, mas agora é oficial. E claro, ela decidiu abrir o coração e contar tudo para os seguidores. Vamos conferir os detalhes?
-
-Gente, segura essa bomba! 💣 Ana Bochi anunciou o término do casamento de 12 anos com José e explicou tudinho em um vídeo. Parece coisa de novela, né?
 
 ![Separação de Ana Bochi: os detalhes do término com José](./img/ana-bochi-anuncia-fim-de-casamento.webp)
 
