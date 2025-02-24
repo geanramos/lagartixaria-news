@@ -10,6 +10,9 @@ image: "https://p2.trrsf.com/image/fget/cf/774/0/images.terra.com/2025/02/22/379
 
 Gente, segura essa! O Papa Francisco, de 88 anos, está internado no hospital Agostino Gemelli, em Roma, desde o dia 14 de fevereiro, devido a uma pneumonia bilateral e uma infecção polimicrobiana. As coisas estavam bem complicadas, mas a boa notícia é que ele apresenta uma "leve melhora" e não teve crises respiratórias nesta segunda-feira (24). Ufa! 😅
 
+![Atualização da saúde do Papa Francisco: leve melhora](https://i.imgur.com/b38jrOC.jpeg)
+    Foto: VATICAN MEDIA / AFP
+
 Segundo o boletim divulgado pelo Vaticano, a insuficiência renal registrada no domingo (23) também não é motivo de preocupação. Ele continua recebendo oxigenoterapia por meio de um cateter nasal, mas com fluxos reduzidos. A situação é delicada, mas os médicos estão otimistas. 🙏
 
 ---
