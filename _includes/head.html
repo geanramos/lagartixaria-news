@@ -88,6 +88,17 @@
   color: #d5d5d5;
 }
 </style>
+<script async type="application/javascript" src="https://news.google.com/swg/js/v1/swg-basic.js"></script>
+<script>
+  (self.SWG_BASIC = self.SWG_BASIC || []).push( basicSubscriptions => {
+    basicSubscriptions.init({
+      type: "NewsArticle",
+      isPartOfType: ["Product"],
+      isPartOfProductId: "CAowhLDaCw:openaccess",
+      clientOptions: { theme: "light", lang: "pt-BR" },
+    });
+  });
+</script>
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-TZBPFV014K"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
