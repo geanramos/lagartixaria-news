@@ -41,9 +41,11 @@ end
 
 {% endhighlight %}
 
-<div class="plyr__cite plyr__cite--youtube" id="player">
- <iframe src="https://www.youtube.com/embed/7IcGYHU8WBo?origin=https://tisha.geanramos.com.br" allowfullscreen allowtransparency allow="autoplay"></iframe>
-</div><br>
+<div class="video-wrapper">
+<div class="plyr__video-embed" id="youtube-player">
+<iframe src="https://www.youtube.com/embed/7IcGYHU8WBo" allowfullscreen allowtransparency allow="autoplay"></iframe>
+</div>
+</div>
 
 Codigo embed - Youtube
 
@@ -54,6 +56,8 @@ Codigo embed - Youtube
 ### video vimeo
 
 <div class="video-wrapper">
-  <div id="vimeo-player" data-plyr-provider="vimeo" data-plyr-embed-id="152044992"></div>
+<div class="plyr__video-embed" id="vimeo-player">
+<iframe src="https://player.vimeo.com/video/152044992" allowfullscreen allowtransparency allow="autoplay"></iframe>
+</div>
 </div>
 
