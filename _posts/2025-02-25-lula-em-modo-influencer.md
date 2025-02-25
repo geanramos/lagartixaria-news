@@ -35,13 +35,14 @@ E qual o contexto? 🤔 Nada menos que o Orçamento de 2025, que está empacado.
 
 🌟 **Agora eu quero saber:** essas medidas realmente ajudam a recuperar a popularidade de Lula ou são apenas um "band-aid" político? Comenta aí! 👇
 
---
+---
 
 🚀 **Receba as principais notícias direto no WhatsApp!** <a href="https://www.whatsapp.com/channel/0029VaiPYBPLo4heVf0U3u2d" target="_blank" rel="noopener noreferrer">**Entre no canal da Tisha News**</a> 📲
 
 ---
 
 ### 🔥 **Categorias:**
+
 Política Nacional
 Governo e Sociedade
 Economia e Benefícios Sociais
