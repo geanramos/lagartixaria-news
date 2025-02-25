@@ -1,6 +1,7 @@
 ---
 layout: null
 ---
+
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <title>{{ site.title }}</title>
@@ -12,6 +13,7 @@ layout: null
     <uri>{{ site.author.url }}</uri>
     <email>{{ site.author.email }}</email>
   </author>
+
   {% for post in site.posts limit: 100 %}
   <entry>
     <title>{{ post.title }}</title>
@@ -22,12 +24,10 @@ layout: null
       {% if post.description %}
         {{ post.description | strip_html | strip_newlines | truncate: 160 }}
       {% else %}
-        {{ site.description }}
+        {{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}
       {% endif %}
     </summary>
-    <content type="html">
-      {{ post.content | xml_escape | truncatewords:50 }}
-    </content>
+    <content type="html">{{ post.content | xml_escape }}</content>
     {% if post.image %}
       <media:content url="{{ post.image | absolute_url }}" medium="image" />
     {% endif %}
