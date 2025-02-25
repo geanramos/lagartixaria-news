@@ -20,6 +20,13 @@ Sim, minha gente, além de governo, agora temos um verdadeiro guru da prosperida
 
 Mas nem tudo são flores no mundo político. 🌎 O pronunciamento veio logo após uma pesquisa do **Datafolha** apontar que a popularidade de Lula deu aquela *escorregada na casca de banana*: a aprovação caiu de **35% para 24%**, enquanto a reprovação subiu para **41%**. 😬
 
+<div class="video-wrapper">
+<div class="plyr__video-embed" id="youtube-player">
+<iframe src="https://www.youtube.com/embed/SnS3-aWHoq0" allowfullscreen="" allowtransparency="" allow="autoplay"></iframe>
+</div>
+</div>
+<p>
+
 📢 **E tem mais bastidores!**
 
 Após a polêmica carta do advogado Kakay dizendo que Lula estava "isolado e capturado", o presidente resolveu botar panos quentes. Chamou **Davi Alcolumbre** (Senado) e **Hugo Motta** (Câmara) para assistir um filminho em casa e fortalecer os laços políticos. Só faltou a pipoca! 🍿
