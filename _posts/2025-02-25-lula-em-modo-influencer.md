@@ -25,7 +25,7 @@ Mas nem tudo são flores no mundo político. 🌎 O pronunciamento veio logo ap�
 <iframe src="https://www.youtube.com/embed/SnS3-aWHoq0" allowfullscreen="" allowtransparency="" allow="autoplay"></iframe>
 </div>
 </div>
-<p>
+<br/>
 
 📢 **E tem mais bastidores!**
 
