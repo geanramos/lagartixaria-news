@@ -1,6 +1,6 @@
 ---
 title: "Lula vira influencer e anuncia medidas populares na TV!"
-date: 2025-02-25 07:10:00 -03:00
+date: 2025-02-24 22:48:00 -03:00
 description: "Grana para os estudantes e remédios grátis! Lula tenta recuperar aprovação com medidas populares."
 tags: [politica]
 image: "https://i.imgur.com/YeKMv7R.jpeg"
