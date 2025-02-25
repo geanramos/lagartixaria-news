@@ -42,9 +42,8 @@ E qual o contexto? 🤔 Nada menos que o Orçamento de 2025, que está empacado.
 ---
 
 ### 🔥 Categorias:
-
-Política Nacional
-Governo e Sociedade
-Economia e Benefícios Sociais
-Estratégias Políticas
-Notícias e Atualidades
+ 1. Política Nacional 
+ 2. Governo e Sociedade 
+ 3. Economia e Benefícios Sociais
+ 4. Estratégias Políticas 
+ 5. Notícias e Atualidades
