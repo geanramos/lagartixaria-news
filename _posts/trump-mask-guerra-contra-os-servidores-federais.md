@@ -3,7 +3,7 @@ title: "Trump, Musk e a guerra contra os servidores federais!"
 date: 2025-02-25 11:00:00 -03:00
 description: "Responda esse e-mail ou perca seu emprego!, Musk e Trump estão pressionando servidores nos EUA! 😳"
 tags: [politica mundial]
-image: "https://i.imgur.com/O5YHpaW.jpeg"
+image: "https://i.imgur.com/2VLUNRG.jpeg"
 ---
 
 🦎 **Elon Musk agora está demitindo gente?** Como assim, Brasil?! 😱
@@ -17,6 +17,8 @@ E adivinha quem puxou essa ideia? Ele mesmo, **Elon Musk**, que agora comanda o 
 A verdade é que **não está claro** se Musk tem mesmo poder legal para fazer isso, até porque algumas dessas agências lidam com **informações confidenciais**. O sindicato dos servidores federais já disse que vai lutar contra "demissões ilegais", e algumas agências **simplesmente ignoraram** a ordem.
 
 🔥 **Por trás da treta...**
+
+![Musk quer demitir? Entenda a polêmica nos EUA!](https://i.imgur.com/2VLUNRG.jpeg)
 
 Isso tudo acontece porque Trump quer **reduzir drasticamente o tamanho do governo**, cortando custos e afastando quem ele considera "ineficiente". Mas o problema é que esse processo está tão desorganizado que já levou a **demissões erradas** e à necessidade de recontratar gente essencial, como **especialistas em segurança nuclear e defesa**. Um caos!
 
