@@ -1,5 +1,5 @@
 ---
-title: "Tráfico em Castanhal: irmãs presas em operação policial!"
+title: "Tráfico em Castanhal, irmãs presas em operação policial!"
 date: 2025-02-26 07:14:00 -03:00
 description: "Polícia captura irmãs apontadas como chefes do tráfico no Pará! "Vascaína" e "Palmeirense" tentaram fugir, mas a casa caiu! 🚨"
 tags: [policia]
