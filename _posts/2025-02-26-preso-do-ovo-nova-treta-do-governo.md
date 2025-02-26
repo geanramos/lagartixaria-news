@@ -17,13 +17,20 @@ image: "https://i.imgur.com/zAOGTEb.jpeg"
 👀 Você não vai acreditar, mas o preço do ovo subiu 70%! E não é só isso, tem uma portaria do governo que virou munição para a oposição. 
 E o Sidônio que lute porque a única coisa que ouvi o Lula falar nas últimas semanas foi que ele está comendo ovo de ema e quer experimentar ovo de jabuti. Já teve deputado pedindo para a procuradoria geral da República investigar se é crime ambiental. **E quem foi fritada mesmo foi a Nísia.**
 
+<div class="video-wrapper">
+<div class="plyr__video-embed" id="youtube-player">
+<iframe src="https://www.youtube.com/embed/iPqlC72tBOo?si=DWT-epnf96L-92mD&amp;start=130" allowfullscreen="" allowtransparency="" allow="autoplay"></iframe>
+</div>
+</div>
+<p><br /></p>
+
 👀 Lembra daquela portaria que alterava uma regra da Receita Federal e causou o pânico do Pix? Pois é, agora acharam outra portaria com potencial de crise: a do carimbo do ovo. Com o preço do ovo nas alturas, tá fácil colar o problema no Lula de novo.
 
 **Pêlo em Ovo?**
 
 <div class="video-wrapper">
 <div class="plyr__video-embed" id="youtube-player">
-<iframe src="[https://www.youtube.com/embed/SnS3-aWHoq0](https://www.youtube.com/embed/F5s45rAVidQ?si=iTlfNlsH4Zi0cPF-&amp;start=105)" allowfullscreen="" allowtransparency="" allow="autoplay"></iframe>
+<iframe src="https://www.youtube.com/embed/F5s45rAVidQ?si=iTlfNlsH4Zi0cPF-&amp;start=105" allowfullscreen="" allowtransparency="" allow="autoplay"></iframe>
 </div>
 </div>
 <p><br /></p>
@@ -38,7 +45,7 @@ E o Sidônio que lute porque a única coisa que ouvi o Lula falar nas últimas s
 
 👀 Na sexta, Flavio Bolsonaro disse que ia entrar com um projeto de lei para acabar com a medida (que até já mudou). No sábado, Bolsonaro fez coro dizendo que o preço do ovo vai ficar mais caro com o carimbo do ovo. Hoje, o Luciano Hang entrou na história dizendo: preço dos ovos dispara 70% e nova regra pode impactar pequenos produtores.
 
-👀 Só sei que uma coisa não é fake: o preço do ovo já subiu mesmo quase 70%. E só nesse ano. Daqui a pouco fica mais caro que picanha. Claro que tem um monte de culpados, até uma gripe aviária nos Estados Unidos que fez a oferta de ovos despencar no mundo todo. Lá na terra do Orange (o Trump, darling), ovo virou artigo de luxo.
+👀 Só sei que uma coisa não é fake: o preço do ovo já subiu mesmo quase 70%. E só nesse ano. Daqui a pouco fica mais caro que picanha. Claro que tem um monte de culpados, até uma gripe aviária nos Estados Unidos que fez a oferta de ovos despencar no mundo todo. Lá na terra do Orange (o Trump), ovo virou artigo de luxo.
 
 **Ovo Frito e Bem Passado**
 
@@ -47,6 +54,8 @@ E o Sidônio que lute porque a única coisa que ouvi o Lula falar nas últimas s
 👀 Mas quis o destino que seu substituto seja Alexandre Padilha, um homem também sem resultados. Ele vai deixar de ser ministro da desarticulação institucional, digo, de Relações Institucionais. Mas qual foi mesmo o resultado do Padilha nesses dois anos nas relações institucionais com o Congresso? Ah, lembrei, ele foi fritado pelo presidente da Câmara que se recusava a falar com ele e falava só com Lula. Grande desarticulador.
 
 **Ah, Esses Ovos Verdes Fritos**
+
+![# Lula demite Nísia, confirma Padilha na Saúde](https://i.imgur.com/ubbA6DP.jpeg)
 
 👀 E quis também o destino que Nísia fosse demitida no dia que anunciou a vacina da dengue. Lula nem discursou. Já ela foi ovacionada no evento do anúncio, que ficou lotado de servidores do Ministério da Saúde.
 
