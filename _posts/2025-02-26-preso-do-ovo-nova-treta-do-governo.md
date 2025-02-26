@@ -1,30 +1,31 @@
 ---
 title: "🥚 O Preço do Ovo e a Nova Treta do Governo: Entenda Tudo!"
-date: 2025-02-26 11:00:00 -03:00
+date: 2025-02-26 02:11:00 -03:00
 description: "O preço do ovo subiu 70%! Saiba tudo sobre a nova treta do governo e as teorias da conspiração."
 tags: [economia]
-image: "https://uploads.metroimg.com/wp-content/uploads/2025/02/20144857/foto-pessoa-compra-ovos-bandeja-de-ovo-duzia-de-ovo.jpg"
+image: "https://i.imgur.com/zAOGTEb.jpeg"
 ---
-
-1. "O Preço do Ovo e a Nova Treta do Governo: Entenda Tudo!"
-2. "Portaria do Carimbo: A Polêmica que Está Mexendo com o Brasil"
-3. "Ovos, Crises e Conspirações: O Que Está Acontecendo?"
-
-**Sugestões de Descrições:**
-1. "Descubra como a portaria do carimbo e o aumento do preço dos ovos estão causando polêmica no Brasil."
-2. "Entenda a crise do preço dos ovos e a nova portaria do governo que está dando o que falar."
-3. "O preço do ovo subiu 70%! Saiba tudo sobre a nova treta do governo e as teorias da conspiração."
-
 
 > Vamos lá, Senta que lá vem fofoca dos ovos! 🥚
 
 **O Preço do Ovo e a Portaria do Carimbo: A Nova Treta do Governo**
+
+![O preço do ovo e mais uma portaria no modo Pix](https://i.imgur.com/zAOGTEb.jpeg)
+
+    Brandon Bell/Getty Images
 
 👀 Você não vai acreditar, mas o preço do ovo subiu 70%! E não é só isso, tem uma portaria do governo que virou munição para a oposição. É ovo de ema, ovo de jabuti, e quem foi fritada mesmo foi a Nísia.
 
 👀 Lembra daquela portaria que alterava uma regra da Receita Federal e causou o pânico do Pix? Pois é, agora acharam outra portaria com potencial de crise: a do carimbo do ovo. Com o preço do ovo nas alturas, tá fácil colar o problema no Lula de novo.
 
 **Pêlo em Ovo?**
+
+<div class="video-wrapper">
+<div class="plyr__video-embed" id="youtube-player">
+<iframe src="[https://www.youtube.com/embed/SnS3-aWHoq0](https://www.youtube.com/embed/F5s45rAVidQ?si=iTlfNlsH4Zi0cPF-&amp;start=105)" allowfullscreen="" allowtransparency="" allow="autoplay"></iframe>
+</div>
+</div>
+<p><br /></p>
 
 👀 A treta é a seguinte: o Ministério da Agricultura resolveu que, a partir de 4 de março, todo produtor tinha que carimbar a data de validade nos ovos. (A regra do Pix também era de setembro. Socorro! Alguém olha as outras portarias de setembro aí? Agradeço.)
 
