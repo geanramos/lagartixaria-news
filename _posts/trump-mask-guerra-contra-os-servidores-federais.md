@@ -1,7 +1,7 @@
 ---
 title: "Trump, Musk e a guerra contra os servidores federais!"
 date: 2025-02-25 11:00:00 -03:00
-description: "Responda esse e-mail ou perca seu emprego!" Musk e Trump estão pressionando servidores nos EUA! 😳"
+description: "Responda esse e-mail ou perca seu emprego!, Musk e Trump estão pressionando servidores nos EUA! 😳"
 tags: [politica mundial]
 image: "https://i.imgur.com/O5YHpaW.jpeg"
 ---
