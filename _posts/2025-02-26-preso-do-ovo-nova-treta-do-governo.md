@@ -67,7 +67,7 @@ E o Sidônio que lute porque a única coisa que ouvi o Lula falar nas últimas s
 
 ---
 
-🌟 Receba as principais notícias direto no WhatsApp! [Inscreva-se no canal da Tisha](https://www.whatsapp.com/channel/0029VaiPYBPLo4heVf0U3u2d) 📲
+🌟 Receba as principais notícias direto no WhatsApp!</strong> <a href="https://www.whatsapp.com/channel/0029VaiPYBPLo4heVf0U3u2d" target="_blank" rel="noopener noreferrer"><strong>Entre no canal da Tisha News</strong></a> 📲
 
 ---
 
