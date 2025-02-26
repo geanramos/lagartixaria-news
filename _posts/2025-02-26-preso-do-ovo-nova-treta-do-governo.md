@@ -3,7 +3,7 @@ title: "🥚 O Preço do Ovo e a Nova Treta do Governo: Entenda Tudo!"
 date: 2025-02-26 11:00:00 -03:00
 description: "O preço do ovo subiu 70%! Saiba tudo sobre a nova treta do governo e as teorias da conspiração."
 tags: [economia]
-image: "https://i.imgur.com/O5YHpaW.jpeg"
+image: "https://uploads.metroimg.com/wp-content/uploads/2025/02/20144857/foto-pessoa-compra-ovos-bandeja-de-ovo-duzia-de-ovo.jpg"
 ---
 
 1. "O Preço do Ovo e a Nova Treta do Governo: Entenda Tudo!"
