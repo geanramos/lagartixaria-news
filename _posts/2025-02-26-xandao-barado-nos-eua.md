@@ -1,6 +1,6 @@
 ---
 title: "EUA Querem Barrar Xandao: Entenda a Polêmica!"
-date: 2025-02-18 20:00:00 -03:00
+date: 2025-02-26 17:00:00 -03:00
 description: "EUA aprovam projeto que pode barrar entrada de Moraes no país. Entenda a polêmica! 🇺🇸🚫"
 tags: [mundo]
 image: "https://i.imgur.com/ksj1xIy.jpeg"
