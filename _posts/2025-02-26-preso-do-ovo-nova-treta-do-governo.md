@@ -24,6 +24,9 @@ E o Sidônio que lute porque a única coisa que ouvi o Lula falar nas últimas s
 </div>
 <p><br /></p>
 
+    avance o video para 02:10
+
+
 👀 Lembra daquela portaria que alterava uma regra da Receita Federal e causou o pânico do Pix? Pois é, agora acharam outra portaria com potencial de crise: a do carimbo do ovo. Com o preço do ovo nas alturas, tá fácil colar o problema no Lula de novo.
 
 **Pêlo em Ovo?**
@@ -34,6 +37,8 @@ E o Sidônio que lute porque a única coisa que ouvi o Lula falar nas últimas s
 </div>
 </div>
 <p><br /></p>
+
+    avance o video para 01:45
 
 👀 A treta é a seguinte: o Ministério da Agricultura resolveu que, a partir de 4 de março, todo produtor tinha que carimbar a data de validade nos ovos. (A regra do Pix também era de setembro. Socorro! Alguém olha as outras portarias de setembro aí? Agradeço.)
 
