@@ -14,7 +14,8 @@ image: "https://i.imgur.com/zAOGTEb.jpeg"
 
     Brandon Bell/Getty Images
 
-👀 Você não vai acreditar, mas o preço do ovo subiu 70%! E não é só isso, tem uma portaria do governo que virou munição para a oposição. É ovo de ema, ovo de jabuti, e quem foi fritada mesmo foi a Nísia.
+👀 Você não vai acreditar, mas o preço do ovo subiu 70%! E não é só isso, tem uma portaria do governo que virou munição para a oposição. 
+E o Sidônio que lute porque a única coisa que ouvi o Lula falar nas últimas semanas foi que ele está comendo ovo de ema e quer experimentar ovo de jabuti. Já teve deputado pedindo para a procuradoria geral da República investigar se é crime ambiental. **E quem foi fritada mesmo foi a Nísia.**
 
 👀 Lembra daquela portaria que alterava uma regra da Receita Federal e causou o pânico do Pix? Pois é, agora acharam outra portaria com potencial de crise: a do carimbo do ovo. Com o preço do ovo nas alturas, tá fácil colar o problema no Lula de novo.
 
