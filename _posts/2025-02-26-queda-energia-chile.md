@@ -30,10 +30,9 @@ A galera ficou sem luz por horas, o trânsito virou um caos e até o metrô de S
 
     Crédito, Getty Images
     
-🌟 Quer ficar por dentro de todas as novidades? Receba as principais notícias direto no WhatsApp! Inscreva-se no canal da Tisha  📲
-
 ---
 
+🌟 Receba as principais notícias direto no WhatsApp! <a href="https://www.whatsapp.com/channel/0029VaiPYBPLo4heVf0U3u2d" target="_blank" rel="noopener noreferrer">Entre no canal da Tisha News</a> 📲
 
 ---
 
