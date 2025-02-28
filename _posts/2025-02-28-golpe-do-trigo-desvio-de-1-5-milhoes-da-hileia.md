@@ -49,9 +49,20 @@ A Hileia, que já tem um compromisso com a responsabilidade social, **não parou
 
 Bom, você viu o que aconteceu com a Hileia e Hélio Melo. Mas, e agora? **Como você acha que a Hileia pode se reerguer após esse escândalo?** E, principalmente: **Será que o golpe de Hélio Melo é só a ponta do iceberg?** Deixe sua opinião nos comentários! 📝👇
 
+
+**Fonte:** [Naldo Lobo](https://www.instagram.com/naldo_lobo_/p/DGnhmVPglYS/)
+
 ---
 
 🌟 Fique por dentro das últimas notícias e novidades! Entre no nosso canal de WhatsApp para saber tudo de primeira mão!
 📲 [**Inscreva-se no canal da Tisha**](./tisha-no-whatsapp.html)
 
 ---
+
+### **Categorias:**
+
+1.  Fraudes Corporativas
+2.  Investigação e Justiça
+3.  Empresas e Negócios
+4.  Notícias de Atualidade
+5.  Histórias Reais de Golpes
