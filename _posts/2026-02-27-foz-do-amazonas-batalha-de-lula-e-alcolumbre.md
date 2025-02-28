@@ -30,7 +30,11 @@ Olha, a grande questão por trás de tudo isso é que a exploração de petróle
 
 Agora, quem tem a missão mais difícil de todas é o Agostinho Carrara, digo, Rodrigo Agostinho (presidente do Ibama). Ele está com a responsabilidade de decidir entre a técnica (rejeitar a licença) ou a política (liberar a exploração para agradar os poderosos). E não é que esse dilema político pode até ter efeitos lá na frente, em 2026, quando as eleições chegarem? 📅
 
-#### 🍿 Tisha, é o outro Tarcísio. Não, Tisha, não é o Tarcísio pai. É o outro.
+![enter image description here](https://media1.tenor.com/m/3LpMuErJjeQAAAAC/tarc%C3%ADsio-filho-chocolate-com-pimenta-novela.gif)
+
+    Imagem: Tenor/AcervyGifsNovelas
+
+#### 🍿 Tisha, é o outro Tarcísio. Não, Tisha, não é o Tarcísio Filho. É o outro.
 
 A verdade é que o petróleo da Foz do Amazonas virou moeda de troca para Lula em 2026, já que ele não está apenas tentando manter a governabilidade no Congresso, mas também garantido apoio crucial de Alcolumbre e seus aliados para 2026.
 
@@ -48,18 +52,6 @@ Lula e Alcolumbre estão apostando alto, mas será que vale a pena colocar a Ama
 <a href="./tisha-no-whatsapp.html" target="_blank" rel="noopener noreferrer">Inscreva-se no canal da Tisha 📲</a>  
 
 ---
-
-### Sugestões de Títulos:
-
-1. **"Foz do Amazonas: Lula, Alcolumbre e o dilema do petróleo!"**
-2. **"Vai que é tua, Agostinho! O embate sobre a Foz do Amazonas!"**
-3. **"Lula e Alcolumbre em jogo estratégico para 2026: petróleo na Foz do Amazonas!"**
-
-### Sugestões de Descrições:
-
-1. **"Entenda o jogo político por trás da exploração de petróleo na Foz do Amazonas. Quem vai ganhar: Agostinho ou Alcolumbre?"**
-2. **"Lula, Alcolumbre e Agostinho: qual será o destino do petróleo da Foz do Amazonas?"**
-3. **"Política e petróleo: Lula joga para 2026 e Agostinho enfrenta o dilema ambiental na Foz do Amazonas."**
 
 ### Categorias:
 
