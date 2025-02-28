@@ -1,6 +1,6 @@
 ---
 title: "Foz do Amazonas: A Nova Batalha de Lula e Alcolumbre!"
-date: 2025-02-27 21:00:00 -03:00
+date: 2025-02-27 19:32:00 -03:00
 description: "Entenda o jogo político por trás da exploração de petróleo na Foz do Amazonas. Quem vai ganhar: Agostinho ou Alcolumbre?"
 tags: [politica]
 image: "https://i.imgur.com/1S9Q3Nx.jpeg"
@@ -48,12 +48,11 @@ Lula e Alcolumbre estão apostando alto, mas será que vale a pena colocar a Ama
 
 ---
 
-💥 **Receba as principais notícias direto no WhatsApp!**  
-<a href="./tisha-no-whatsapp.html" target="_blank" rel="noopener noreferrer">Inscreva-se no canal da Tisha 📲</a>  
+💥 **Receba as principais notícias direto no WhatsApp!** <a href="./tisha-no-whatsapp.html" target="_blank" rel="noopener noreferrer">Inscreva-se no canal da Tisha 📲</a>  
 
 ---
 
-### Categorias:
+### **Categorias:**
 
 1. Política Brasileira
 2. Meio Ambiente
