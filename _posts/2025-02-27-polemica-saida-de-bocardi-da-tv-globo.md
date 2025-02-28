@@ -27,10 +27,6 @@ Segundo apurações do setor de *Compliance* da Globo, Bocardi teria solicitado 
 
 Essas revelações não só abalaram a imagem pública do jornalista, mas também deixaram muita gente chocada. Imagina só, um jornalista renomado usando seu poder para lucrar com o silêncio? Para muitos, isso foi um golpe na confiança que tinham nas notícias da TV Globo. 😨📰
 
-### 💡 Por que isso importa?
-
-Essas acusações vão além do impacto imediato na carreira de Bocardi. Elas levantam questões importantes sobre a ética no jornalismo e a transparência das informações que recebemos diariamente. Quando um jornalista é acusado de aceitar suborno, toda a credibilidade da emissora é posta em xeque. 🕵️‍♀️🔍
-
 ### 🔍 Quem é o responsável?
 
 A responsabilidade recai sobre as práticas de fiscalização interna da emissora e, claro, nas ações individuais de Rodrigo Bocardi. A Globo tem protocolos rígidos para evitar esse tipo de comportamento, mas essa situação mostra que falhas podem ocorrer. Agora, o caso deve seguir para os tribunais, onde será avaliado de maneira mais detalhada. ⚖️🏛️
