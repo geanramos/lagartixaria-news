@@ -30,7 +30,7 @@ Olha, a grande questão por trás de tudo isso é que a exploração de petróle
 
 Agora, quem tem a missão mais difícil de todas é o Agostinho Carrara, digo, Rodrigo Agostinho (presidente do Ibama). Ele está com a responsabilidade de decidir entre a técnica (rejeitar a licença) ou a política (liberar a exploração para agradar os poderosos). E não é que esse dilema político pode até ter efeitos lá na frente, em 2026, quando as eleições chegarem? 📅
 
-#### 🍿 Tixa, é o outro Tarcísio. Não, Tixa, não é o Tarcísio pai. É o outro.
+#### 🍿 Tisha, é o outro Tarcísio. Não, Tisha, não é o Tarcísio pai. É o outro.
 
 A verdade é que o petróleo da Foz do Amazonas virou moeda de troca para Lula em 2026, já que ele não está apenas tentando manter a governabilidade no Congresso, mas também garantido apoio crucial de Alcolumbre e seus aliados para 2026.
 
