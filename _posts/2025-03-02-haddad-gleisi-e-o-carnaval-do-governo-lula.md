@@ -15,7 +15,6 @@ Vamos explicar a treta da vez: Lula acaba de nomear Gleisi Hoffmann para o cargo
 
 Parece uma mudança simples, mas no fundo, o PT está todo desorganizado, e a disputa por poder está esquentando!
 
----
 
 ![Haddad, Gleisi e o Carnaval do Governo Lula: O Xadrez Político no PT](https://i.imgur.com/30qSkKW.jpeg)
 
