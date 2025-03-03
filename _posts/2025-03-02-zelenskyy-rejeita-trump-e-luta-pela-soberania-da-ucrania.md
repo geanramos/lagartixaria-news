@@ -75,7 +75,8 @@ Deixe sua opinião nos comentários e compartilhe esse post com os amigos para c
 
 ---
 
-**🌟 Receba as principais notícias direto no WhatsApp! [Inscreva-se no canal da Tisha News](https://www.whatsapp.com/channel/0029VaiPYBPLo4heVf0U3u2d) 📲**
+**🌟 Receba as principais notícias direto no seu WhatsApp!
+[Inscreva-se no canal da Tisha](https://www.whatsapp.com/channel/0029VaiPYBPLo4heVf0U3u2d) 📲**
 
 ---
 
