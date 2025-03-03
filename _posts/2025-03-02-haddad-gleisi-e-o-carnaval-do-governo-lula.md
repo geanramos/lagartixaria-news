@@ -18,7 +18,7 @@ Parece uma mudança simples, mas no fundo, o PT está todo desorganizado, e a di
 
 ![Haddad, Gleisi e o Carnaval do Governo Lula: O Xadrez Político no PT](https://i.imgur.com/30qSkKW.jpeg)
 
-    Foto: Brenno Carvalho / Agência O Globo
+    Foto: Brenno Carvalho / O Globo
 
 
 🎭 Gleisi na articulação política? 
