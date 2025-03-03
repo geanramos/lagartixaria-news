@@ -278,4 +278,7 @@ html[dark-mode="yes"] .tn-whatsapp-info {
     color: white !important; /* Cor do texto para contraste */
     cursor: pointer !important; /* Alteração opcional para o cursor */
 }
+.fb-comments * {
+    font-family: 'Poppins', sans-serif !important;
+}
 
