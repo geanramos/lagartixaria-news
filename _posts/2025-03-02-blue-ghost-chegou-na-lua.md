@@ -57,7 +57,7 @@ Se tiver alguma foto do ET posando com o *Blue Ghost*, vou ser o primeiro a divu
 
 ---
 
-**Receba as principais notícias direto no WhatsApp!** <a href="https://www.whatsapp.com/channel/0029VaiPYBPLo4heVf0U3u2d" target="_blank" rel="noopener noreferrer">Entre no canal da Tisha News</strong></a> 📲
+**Receba as principais notícias direto no WhatsApp!** <a href="https://www.whatsapp.com/channel/0029VaiPYBPLo4heVf0U3u2d" target="_blank" rel="noopener noreferrer">Entre no canal da Tisha News</a> 📲
 
 ---
 
