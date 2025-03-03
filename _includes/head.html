@@ -46,7 +46,7 @@
   <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
   <meta name="twitter:description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   {% if page.image %} <meta name="twitter:image" content="{{ page.image | absolute_url }}"> {% else %} <meta name="twitter:image" content="{{ site.image | absolute_url }}"> {% endif %}
-  <meta name="twitter:image:alt" content="https://images.weserv.nl/?w=1200&h=630&output=webp&q=70&t=square&url={{ page.image | absolute_url }}">
+  <meta name="twitter:image:alt" content="{{ page.image | absolute_url }}">
   <meta name="twitter:image:width" content="1200">
   <meta name="twitter:image:height" content="630">
   <!-- Favicon e RSS -->
@@ -64,51 +64,11 @@
 
   <!-- CSS & fonts -->
   <link rel="stylesheet" href="https://tisha.geanramos.com.br/css/main.css?v=250222">
-  <link rel="stylesheet" href="https://tisha.geanramos.com.br/css/custom.css?v=250222">
+  <link rel="stylesheet" href="https://tisha.geanramos.com.br/css/custom.css?v=250302">
   <link rel="stylesheet" href="https://cdn.plyr.io/3.6.12/plyr.css">
   <script src="https://cdn.plyr.io/3.6.12/plyr.polyfilled.js"></script>
-  <script src="https://tisha.geanramos.com.br/js/no-ar.js"></script>
   <link href='https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,700;0,900;1,300;1,700;1,900&display=swap' rel='stylesheet' type='text/css'>
-<!-- Header -->
-<!-- Link para a fonte -->
-<style>
-  @font-face {
-    font-family: 'Chomsky';
-    src: url('https://dev.geanramos.com.br/18011975/Chomsky.otf?v=01') format('opentype');
-  }
 
-  /* Aplicando a fonte no título */
-  #header h1 {
-    font-family: 'Chomsky', Poppins;
-    font-size: 3.1em;
-    line-height: 1.3333em;
-    padding:0.33335em 0;
-  }
-</style>
-
-  <style>
-#header:after {
-  display: block;
-  content: '';
-  width: 5rem;
-  height: 1px;
-  margin: 1px auto;
-  background-color: #d5d5d5;
-}
-.footer {
-  text-align: center;
-  color: #fff;
-  font-size: 14px;
-  font-weight: 400;
-}
-.footer a {
-  color: #fff;
-  text-decoration: none;
-}
-.footer a:hover {
-  color: #d5d5d5;
-}
-</style>
 <script async type="application/javascript" src="https://news.google.com/swg/js/v1/swg-basic.js"></script>
 <script>
   (self.SWG_BASIC = self.SWG_BASIC || []).push( basicSubscriptions => {
