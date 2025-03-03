@@ -55,6 +55,9 @@ Além disso, Zelenskyy também deixou claro que só aceitaria um cessar-fogo se 
 ---
 
 ### **O Que Esperar das Negociações Internacionais** 🌍💬
+![reunião com membros da mídia nos arredores de Londres](https://i.imgur.com/SgVY14z.jpeg)
+
+    Carlos Jasso/Reuters
 
 Após o tenso encontro com Trump, Zelenskyy viajou para o Reino Unido, onde se encontrou com líderes europeus. Ele se reuniu com aliados como Turquia e os países nórdicos, buscando apoio para a segurança de sua nação. A situação está longe de ser resolvida, e a proposta de uma trégua de um mês, feita por países como a França e o Reino Unido, ainda está em análise. Zelenskyy, como sempre, cauteloso, preferiu não se comprometer sem garantias claras. 🤐
 
