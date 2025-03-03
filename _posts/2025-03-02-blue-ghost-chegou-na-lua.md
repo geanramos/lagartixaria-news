@@ -2,7 +2,7 @@
 title: "A Blue Ghost chegou na Lua, e a NASA tá de olho! 🚀🌕"
 date: 2025-03-02 09:32:00 -03:00
 description: "O Blue Ghost fez história na Lua! Agora só falta uma selfie com os ETs para completar o rolê cósmico."
-tags: [geopolitica]
+tags: [nasa]
 image: "https://i.imgur.com/j0TutnS.jpeg"
 ---
 
@@ -21,7 +21,7 @@ Isso mesmo, a navezinha não caiu igual ao lander da Intuitive Machines, nem fez
 A missão rolou neste domingo, 2 de março de 2025, às 3h34 da manhã (hora de Brasília, acredite, quem tava acordado vai ser o novo herói do dia). 
 A nave estava cheia de experimentos científicos da NASA e, meu amigo, nem a gravidade lunar conseguiu impedir a aterrissagem de sucesso! 💥🌑
 
-![enter image description here](https://i1.wp.com/www.nasa.gov/wp-content/uploads/2025/03/blue-ghost-first-image-1.jpg?resize=750,450)
+![Blue Ghost Toca a Lua: Nova Era das Explorações Privadas!](https://i1.wp.com/www.nasa.gov/wp-content/uploads/2025/03/blue-ghost-first-image-1.jpg?resize=750,450)
 
     Credito: Firefly Aerospace
 
@@ -33,12 +33,13 @@ E o melhor? Não foi só para tirar fotos e fazer bonito! O *Blue Ghost* trouxe 
 A nave viajou mais de 4,5 milhões de km (sim, é isso mesmo!) até pousar perto de Mons Latreille, um vulcão lunar, e agora vai operar por 14 dias na superfície. 
 E claro, *spoiler alert*: vai até capturar imagens do eclipse total de 14 de março! Porque, né, quem não gostaria de dar aquela espiadinha básica no eclipse da Terra, direto da Lua? 🌍🌑🌞
 
-![enter image description here](https://i1.wp.com/npr-brightspot.s3.amazonaws.com/f1/d8/62782ee447cc9a23881999f5eb98/ap25061422614302.jpg?resize=750,450)
+![Primeira Nave Privada a Pousar na Lua: A Era Comercial Começou!](https://i1.wp.com/npr-brightspot.s3.amazonaws.com/f1/d8/62782ee447cc9a23881999f5eb98/ap25061422614302.jpg?resize=750,450)
 
 `AP/NASA/Firefly Aerospace`
 
 
-Vamos ficar de olho! Os próximos dias prometem mais imagens incríveis e dados que podem até fazer a NASA repensar suas próximas jogadas. Mas uma coisa é certa: a Lua agora tem uma visita ilustre... e ela não veio para fazer turismo. 👏🚀
+Vamos ficar de olho! Os próximos dias prometem mais imagens incríveis e dados que podem até fazer a NASA repensar suas próximas jogadas. 
+Mas uma coisa é certa: a Lua agora tem uma visita ilustre... e ela não veio para fazer turismo. 👏🚀
 
 
 ---
@@ -53,3 +54,17 @@ e a primeira nave a ser interrompida por um "oi, você tem um minutinho?" de um 
 
 Fica a dúvida: será que os aliens estão monitorando a gente pela primeira vez ou só estavam esperando um tour guiado até o ponto de encontro? 🛸✨ 
 Se tiver alguma foto do ET posando com o *Blue Ghost*, vou ser o primeiro a divulgar! Quem sabe o próximo grande lançamento não seja um álbum de selfies com extraterrestres na Lua?
+
+---
+
+Receba as principais notícias direto no WhatsApp!</strong> <a href="https://www.whatsapp.com/channel/0029VaiPYBPLo4heVf0U3u2d" target="_blank" rel="noopener noreferrer"><strong>Entre no canal da Tisha News</strong></a> 📲
+
+---
+
+###  **Categorias:**
+
+1.  Exploração Espacial
+2.  Tecnologia Aeroespacial
+3.  Inovações Científicas
+4.  NASA e Missões Lunares
+5.  Empresas Privadas no Espaço
