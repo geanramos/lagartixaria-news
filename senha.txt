@@ -6,6 +6,17 @@ tags: [geopolitica]
 image: "https://i.imgur.com/xKdDTyB.jpeg"
 
 
+🌟 Receba as principais notícias direto no seu WhatsApp! <a href="https://www.whatsapp.com/channel/0029VaiPYBPLo4heVf0U3u2d" target="_blank" rel="noopener noreferrer">Siga o canal da Tisha</a> 📲
+
+
+<div class="video-wrapper">
+<div class="plyr__video-embed" id="youtube-player">
+<iframe src="https://www.youtube.com/embed/idvideo" allowfullscreen="" allowtransparency="" allow="autoplay"></iframe>
+</div>
+</div>
+<br />
+
+
 https://downsub.com/
 https://zeemo.ai/pt/tools/youtube-transcript
 
