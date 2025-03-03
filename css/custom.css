@@ -147,6 +147,12 @@ html[dark-mode="yes"] .tn-whatsapp-info {
   #tn-banner-whatsapp .hide-mobile {
     display:none!important;
   }
+
+  .fb-comments {
+    width: 100%; 
+    max-width: 676px; 
+    margin: 0 auto; 
+}
   #tn-banner-whatsapp .btn-tb {
     width:max-content;
     max-width:max-content;
