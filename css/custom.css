@@ -273,6 +273,9 @@ html[dark-mode="yes"] .tn-whatsapp-info {
     max-width: 676px; /* Define uma largura máxima para evitar que a caixa fique muito larga */
     margin: 0 auto; /* Centraliza a caixa */
 }
-._517h:hover {
-    background-color: #008a3c;
+.fb-comments button:hover {
+    background-color: #008a3c !important; /* Cor desejada em hover */
+    color: white !important; /* Cor do texto para contraste */
+    cursor: pointer !important; /* Alteração opcional para o cursor */
 }
+
