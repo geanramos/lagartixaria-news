@@ -19,5 +19,6 @@ image: "https://i.imgur.com/xKdDTyB.jpeg"
 
 https://downsub.com/
 https://zeemo.ai/pt/tools/youtube-transcript
+https://temp-mail.org/pt/
 
 xv1051409isf = @Caw2025
