@@ -267,3 +267,9 @@ html[dark-mode="yes"] .tn-whatsapp-info {
 .footer a:hover {
   color: #d5d5d5;
 }
+
+.fb-comments {
+    width: 100%; /* Permite que a caixa ocupe 100% da largura disponível */
+    max-width: 676px; /* Define uma largura máxima para evitar que a caixa fique muito larga */
+    margin: 0 auto; /* Centraliza a caixa */
+}
