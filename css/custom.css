@@ -177,19 +177,17 @@ html[dark-mode="yes"] .tn-whatsapp-info {
 .navbar {
     background-color: #ffcc00;  /* Cor de fundo amarela */
     color: #000000;  /* Cor do texto preta */
-    padding: 15px 20px;  /* Espaçamento ao redor do texto */
+    padding: 5px 20px;  /* Navbar mais fina */
     font-family: Arial, sans-serif;  /* Fonte simples */
     text-align: center;
-    font-size: 16px;  /* Tamanho da fonte */
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
+    font-size: 14px;  /* Tamanho da fonte ajustado */
+    position: relative;
+    transition: top 0.3s;  /* Suaviza a transição de desaparecimento */
     z-index: 1000;  /* Garante que a navbar fique no topo */
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
-    padding-right: 20px;
+    width: 100%;
 }
 
 .navbar-text {
@@ -200,11 +198,12 @@ html[dark-mode="yes"] .tn-whatsapp-info {
 .btn-blog {
     background-color: #000000;  /* Cor de fundo do botão */
     color: #ffcc00;  /* Cor do texto do botão */
-    padding: 10px 20px;
+    padding: 8px 15px;
     text-decoration: none;
     font-weight: bold;
     border-radius: 5px;
-    font-size: 14px;
+    font-size: 12px;
+    margin-left: 20px;  /* Espaçamento entre o texto e o botão */
     transition: background-color 0.3s ease;
 }
 
@@ -215,11 +214,50 @@ html[dark-mode="yes"] .tn-whatsapp-info {
 
 @media (max-width: 600px) {
     .navbar {
-        font-size: 14px;  /* Menor tamanho de fonte em telas pequenas */
+        font-size: 12px;  /* Menor tamanho de fonte em telas pequenas */
     }
 
     .btn-blog {
-        font-size: 12px;  /* Menor tamanho de fonte para o botão */
+        font-size: 10px;  /* Menor tamanho de fonte para o botão */
     }
 }
 
+/* Link para a fonte */
+
+  @font-face {
+    font-family: 'Chomsky';
+    src: url('https://dev.geanramos.com.br/18011975/Chomsky.otf') format('opentype');
+  }
+
+  /* Aplicando a fonte no título */
+  #header h1 {
+    font-family: 'Chomsky', Poppins;
+    font-size: 3.1em;
+    line-height: 1.3333em;
+    padding:0.33335em 0;
+  }
+
+
+/* nao lembro, melhor nao apagar */
+
+#header:after {
+  display: block;
+  content: '';
+  width: 5rem;
+  height: 1px;
+  margin: 1px auto;
+  background-color: #d5d5d5;
+}
+.footer {
+  text-align: center;
+  color: #fff;
+  font-size: 14px;
+  font-weight: 400;
+}
+.footer a {
+  color: #fff;
+  text-decoration: none;
+}
+.footer a:hover {
+  color: #d5d5d5;
+}
