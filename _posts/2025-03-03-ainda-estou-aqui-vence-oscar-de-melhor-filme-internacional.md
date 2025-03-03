@@ -26,6 +26,10 @@ Para quem não lembra, o filme **“Orfeu Negro”**, de 1960, até levou um Osc
 
 O filme não só emocionou os jurados, mas também trouxe um retrato poderoso da resistência feminina em tempos de opressão. 🌱
 
+![O Brasil fez história no Oscar 2025 com “Ainda Estou Aqui”, conquistando seu primeiro prêmio de Melhor Filme Internacional](https://i1.wp.com/images.terra.com/2025/03/03/gettyimages-2202941831-r1a0nyuz1smv.jpg?resize=750,450)
+
+    Foto: Arturo Holmes/WireImage
+
 O elenco é de arrasar! Temos as gigantes **Fernanda Torres** e **Fernanda Montenegro**, que interpretam Eunice Paiva em diferentes fases da vida. O filme também conta com outros nomes de peso como **Selton Mello**, **Marjorie Estiano** e **Antonio Saboia**. 💫
 
 Esta vitória vai muito além do prêmio. Ela representa uma luta, a resistência de mulheres, a força do povo brasileiro e, claro, o reconhecimento mundial do nosso cinema. 🇧🇷🌍  
