@@ -7,10 +7,14 @@ image: "https://i.imgur.com/Wdq1cHm.png"
 ---
 
 Alexandre de Moraes e a Treta Internacional: Prepare a Pipoca! 🍿
+
 Elon Musk, STF e Congresso dos EUA: a treta internacional que está pegando fogo. Vem entender esse caos! 🚀
 
 
-🚨 *"Quando você acha que já viu de tudo, vem a política brasileira e te surpreende de novo!"* Alexandre de Moraes, Elon Musk, advogados gringos, Itamaraty e até o Congresso dos EUA estão no mesmo balaio. Parece roteiro de série, mas é a realidade. Vamos destrinchar essa treta que já virou internacional? 🔥
+🚨 *"Quando você acha que já viu de tudo, vem a política brasileira e te surpreende de novo!"* 
+
+Alexandre de Moraes, Elon Musk, advogados gringos, Itamaraty e até o Congresso dos EUA estão no mesmo balaio. Parece roteiro de série, mas é a realidade. 
+Vamos destrinchar essa treta que já virou internacional? 🔥
 
 
 Tudo começou com advogados estrangeiros processando Alexandre de Moraes. Até aí, nada muito fora do comum, certo? Errado! 
