@@ -28,7 +28,11 @@ O discurso de Moraes, recheado de acusações contra a extrema direita, chamou a
 
 Ele afirmou que as redes sociais são usadas para corroer a democracia, amplificando discursos de ódio e ideologias fascistas. 
 
-Mas, claro, isso não passou batido. Elon Musk e outros críticos rebateram, dizendo que as redes sociais apenas refletem o que as pessoas pensam do governo e do STF. 
+Mas, claro, isso não passou batido. 
+
+> Elon Musk e outros críticos rebateram, dizendo que as redes sociais apenas refletem o que as pessoas pensam do governo e do STF.
+
+ 
 
 E não para por aí! O Congresso dos EUA está avaliando um **projeto para barrar Alexandre de Moraes no país**, com base na **Lei Magnitsky**, que permite sanções contra violações de direitos humanos e corrupção. 💥
 
@@ -46,9 +50,13 @@ A situação ganhou ainda mais força com a participação de figuras internacio
 
 O deputado Rich McCormick e o senador Mike Lee não pouparam críticas, acusando Moraes de instrumentalizar o sistema judicial para influenciar a política eleitoral. 
 
-McCormick chegou a afirmar que *Moraes é uma ameaça à democracia* e à liberdade de expressão, pedindo sanções severas contra ele. 
+**McCormick** chegou a afirmar que *Moraes é uma ameaça à democracia* e à liberdade de expressão, pedindo sanções severas contra ele. 
 
 E, para apimentar ainda mais, o Congresso americano, dominado por trumpistas, está confiante de que o projeto para barrar Moraes será aprovado com facilidade.
+
+![enter image description here](https://i.imgur.com/Ju2twcl.jpeg)
+
+    Foto: Wilton Junior/Estadão Conteúdo
 
 Enquanto isso, o Itamaraty tenta apagar o incêndio, 🔥 mas a estratégia de envolver a diplomacia brasileira pode acabar reforçando as acusações de politização do STF. 
 
