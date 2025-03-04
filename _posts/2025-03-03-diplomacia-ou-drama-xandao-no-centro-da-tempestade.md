@@ -1,4 +1,3 @@
-
 ---
 title: "Diplomacia ou Drama? Xandão no Centro da Tempestade! 🌪️"
 date: 2025-03-02 11:32:00 -03:00
