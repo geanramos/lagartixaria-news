@@ -1,6 +1,6 @@
 ---
 title: "Diplomacia ou Drama? Xandão no Centro da Tempestade! 🌪️"
-date: 2025-03-02 11:32:00 -03:00
+date: 2025-03-03 18:32:00 -03:00
 description: "Quando a política vira série: STF, Elon Musk e EUA em um só enredo. Prepare-se para o drama internacional que ninguém previu! 🔥"
 tags: [geopolitica]
 image: "https://i.imgur.com/Wdq1cHm.png"
