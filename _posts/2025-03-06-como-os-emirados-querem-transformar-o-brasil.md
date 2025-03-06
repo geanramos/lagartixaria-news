@@ -41,7 +41,7 @@ Esse investimento pode **acelerar o desenvolvimento** em áreas-chave como trans
 
 Independente disso, uma coisa é certa: o Brasil está chamando a atenção do mercado internacional – e dessa vez, com um investimento de peso!
 
-**E você, o que acha? Esse investimento pode mudar o jogo? Comenta aqui!** 👇💬
+*E você, o que acha? Esse investimento pode mudar o jogo? Comenta aqui!* 👇💬
 
 ---
 
