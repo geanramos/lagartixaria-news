@@ -31,6 +31,7 @@ Os Estados Unidos, [que têm grandes interesses nesse ponto estratégico](https:
 - O país, que supervisionou a construção do canal no início do século XX, já havia se livrado do controle formal sobre a via aquática em 1999. **Mas, como sempre, os olhos continuam atentos.**
 
 O consórcio que agora assume inclui não apenas a BlackRock, mas também sua subsidiária Global Infrastructure Partners. Este movimento pode dar aos EUA não apenas o controle de uma infraestrutura estratégica, mas também um novo posicionamento diante das críticas que vinham da administração Trump.
+
 ---
 
 🌟 Receba as principais notícias direto no seu WhatsApp! <a href="https://www.whatsapp.com/channel/0029VaiPYBPLo4heVf0U3u2d" target="_blank" rel="noopener noreferrer">Siga o canal da Tisha</a> 📲
