@@ -34,16 +34,6 @@ O consórcio que agora assume inclui não apenas a BlackRock, mas também sua su
 
 ---
 
-### **Sugestões de Títulos:**
-1. "Canal do Panamá: Novo Controle, Nova Era"
-2. "BlackRock Assume o Comando do Canal do Panamá"
-3. "Geopolítica e Comércio: A Nova Era do Canal do Panamá"
-
-### **Sugestões de Descrições:**
-1. ""
-2. "A CK Hutchison vende sua participação no Canal do Panamá. O que isso significa para o comércio global?"
-3. "Entenda a importância da mudança de controle no Canal do Panamá e suas implicações geopolíticas."
-
 ### **Categorias:**
 1. Geopolítica
 2. Comércio Internacional
@@ -54,5 +44,3 @@ O consórcio que agora assume inclui não apenas a BlackRock, mas também sua su
 ### **Fontes:**
 - [AP News](https://apnews.com/article/hong-kong-panama-canal-beijing-hutchison-blackrock-rubio-d02a8439cc63d9e740e5154d4e0c56f6)
 - [DW](https://www.dw.com/pt-br/por-que-trump-amea%C3%A7a-tomar-o-canal-do-panam%C3%A1/a-71257711)
-
-🌟 Receba as principais notícias direto no WhatsApp! [Inscreva-se no canal da Tisha](https://www.whatsapp.com/channel/0029VaiPYBPLo4heVf0U3u2d) 📲
