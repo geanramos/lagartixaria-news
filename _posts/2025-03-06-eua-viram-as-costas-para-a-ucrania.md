@@ -3,7 +3,7 @@ title: "EUA viram as costas para a Ucrânia? Entenda a treta!🔥"
 date: 2025-03-06 14:32:00 -03:00
 description: "Zelensky na Berlinda! Trump corta apoio dos EUA, Ucrânia pode ficar vulnerável na guerra. 😨"
 tags: [mundo]
-image: "[https://i1.wp.com/media.beehiiv.com/uploads/asset/file/f301324d-dcbc-46e0-9b4e-dab63a77cf6c/image.png?resize=750,375)"
+image: "https://i.imgur.com/OjBHtqH.png"
 ---
 
 **🇺🇦🚫 Trump Corta a Inteligência para a Ucrânia! O Clima Azedou de Vez?**
@@ -15,7 +15,7 @@ O motivo? Trump quer saber se Zelensky tá realmente na paz ou só jogando um ve
 Mas calma que essa história tem mais camadas que cebola! 🧅 
 Bora entender tudo?
 
-![EUA viram as costas para a Ucrânia? Entenda a treta!](https://i1.wp.com/media.beehiiv.com/uploads/asset/file/f301324d-dcbc-46e0-9b4e-dab63a77cf6c/image.png?resize=750,375)
+![EUA viram as costas para a Ucrânia? Entenda a treta!](https://i.imgur.com/OjBHtqH.png)
 
     Imagem: REUTERS
 
@@ -63,7 +63,7 @@ O que ele fez?
 
 A estratégia tá funcionando? Até agora, sim. Mas em 2017, no primeiro governo dele, **o mesmo aconteceu... e em 2019 rolou um caos imigratório!** Será que a história vai se repetir? 🧐
 
-![Mandou ainda mais tropas para as fronteiras](https://i1.wp.com/images.axios.com/Vjsdh4n5PAHuSUsjS9zM7JawX_c=/0x0:8667x4875/1920x1080/2025/01/16/1737058860527.jpg?resize=750,375)
+![Mandou ainda mais tropas para as fronteiras](https://i.imgur.com/Smvxunt.jpeg)
 
 ### **👀 O que esperar agora?**
 
@@ -88,7 +88,7 @@ Com Trump dobrando a aposta na política externa e nas fronteiras, os próximos 
 
 ### **📚 Fontes:**
 
-📖 <a href="https://www.nytimes.com/2025/03/03/us/politics/trump-ukraine-military-aid.html" target="_blank" rel="noopener noreferrer">The New York Times</a>
-📖 <a href="https://www.bbc.com/news/articles/c4gde1zj5pyo" target="_blank" rel="noopener noreferrer">BBC News</a>
-📖 [Axios](https://www.axios.com/2025/03/04/illegal-border-crossings-february-decline-trump)  
-📖 [The Guardian](https://www.theguardian.com/us-news/2025/jan/22/trump-troops-border-immigration)
+- <a href="https://www.nytimes.com/2025/03/03/us/politics/trump-ukraine-military-aid.html" target="_blank" rel="noopener noreferrer">The New York Times</a>
+- <a href="https://www.bbc.com/news/articles/c4gde1zj5pyo" target="_blank" rel="noopener noreferrer">BBC News</a>
+- <a href="https://www.axios.com/2025/03/04/illegal-border-crossings-february-decline-trump" target="_blank" rel="noopener noreferrer">Axios</a>
+- <a href="https://www.theguardian.com/us-news/2025/jan/22/trump-troops-border-immigration" target="_blank" rel="noopener noreferrer">The Guardian</a>
