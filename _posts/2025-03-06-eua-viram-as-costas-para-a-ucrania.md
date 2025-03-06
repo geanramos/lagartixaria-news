@@ -65,6 +65,8 @@ A estratégia tá funcionando? Até agora, sim. Mas em 2017, no primeiro governo
 
 ![Mandou ainda mais tropas para as fronteiras](https://i.imgur.com/Smvxunt.jpeg)
 
+    Imagem: Brandon Bell/Getty Images
+
 ### **👀 O que esperar agora?**
 
 Com Trump dobrando a aposta na política externa e nas fronteiras, os próximos meses prometem ser tensos. **Será que Zelensky vai conseguir manter o apoio americano?** **E a imigração, vai se tornar uma crise de novo?**
