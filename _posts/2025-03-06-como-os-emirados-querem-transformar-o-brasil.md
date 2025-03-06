@@ -1,6 +1,6 @@
 ---
 title: "Investimento bilionário: Como os Emirados querem transformar o Brasil. 💰✈️"
-date: 2025-03-02 11:32:00 -03:00
+date: 2025-03-06 16:32:00 -03:00
 description: "O Brasil entrou no radar dos Emirados Árabes! Veja como o investimento pode transformar o país."
 tags: [economia]
 image: "https://i.imgur.com/G0ci6Aa.jpeg"
