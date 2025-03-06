@@ -14,13 +14,13 @@ image: "https://i.imgur.com/KzqIRr5.png"
 
 **⚓ Controle de um dos maiores corredores comerciais do mundo.**
 
-A CK Hutchison, conglomerado de Hong Kong, está se desfazendo de sua participação majoritária em portos críticos ao redor do Canal do Panamá. Quem vai assumir o leme dessa operação é um [consórcio liderado pela gigante americana BlackRock](#foot) — a maior gestora de capitais do mundo.
+A CK Hutchison, conglomerado de Hong Kong, está se desfazendo de sua participação majoritária em portos críticos ao redor do Canal do Panamá. Quem vai assumir o leme dessa operação é um [consórcio liderado pela gigante americana BlackRock](#fontes — a maior gestora de capitais do mundo.
 
 - O que está por trás da transação de **US$ 23 bi** não é apenas dinheiro — mas também geopolítica.
 
 **🌍** A mudança de controle desses portos não é um simples negócio financeiro. São 43 portos espalhados por diferentes países, incluindo os **principais terminais em ambos os extremos do Canal do Panamá** — Balboa e Cristobal.
 
-Os Estados Unidos, [que têm grandes interesses nesse ponto estratégico](#foot), já levantaram a preocupação de que a China teria influência demais sobre a região. A venda dessas operações parece ter sido, em parte, uma resposta a esse cenário tenso.
+Os Estados Unidos, [que têm grandes interesses nesse ponto estratégico](#fontes), já levantaram a preocupação de que a China teria influência demais sobre a região. A venda dessas operações parece ter sido, em parte, uma resposta a esse cenário tenso.
 
 ![BlackRock Assume o Comando do Canal do Panamá](https://i.imgur.com/KQpElem.jpeg)
 
