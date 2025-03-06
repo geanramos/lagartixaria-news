@@ -3,12 +3,12 @@ title: "O Canal do Panama sob nova Direção"
 date: 2025-03-06 16:00:00 -03:00
 description: "Descubra como a BlackRock está assumindo o controle do Canal do Panamá e o impacto geopolítico dessa mudança."
 tags: [geopolitica]
-image: "https://i.imgur.com/xKdDTyB.jpeg"
+image: "https://i.imgur.com/KzqIRr5.png"
 ---
 
-### **O Canal do Panamá sob nova direcao*
+**O Canal do Panamá sob nova Direção*
 
-![](https://i1.wp.com/media.beehiiv.com/uploads/asset/file/825010ef-0453-4901-997c-bbd1abff98ec/canal-do-panama-foto-pancanal.png?resize=750,375)
+![Entenda a importância da mudança de controle no Canal do Panamá e suas implicações geopolíticas.](https://i.imgur.com/KzqIRr5.png)
 
 Imagem: Valor Econômico
 
