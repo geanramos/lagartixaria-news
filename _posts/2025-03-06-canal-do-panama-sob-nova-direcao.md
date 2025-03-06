@@ -6,11 +6,11 @@ tags: [geopolitica]
 image: "https://i.imgur.com/KzqIRr5.png"
 ---
 
-**O Canal do Panamá sob nova Direção*
+**O Canal do Panamá sob nova Direção**
 
 ![Entenda a importância da mudança de controle no Canal do Panamá e suas implicações geopolíticas.](https://i.imgur.com/KzqIRr5.png)
 
-Imagem: Valor Econômico
+`Imagem: Valor Econômico`
 
 **⚓ Controle de um dos maiores corredores comerciais do mundo.**
 
@@ -24,7 +24,7 @@ Os Estados Unidos, [que têm grandes interesses nesse ponto estratégico](https:
 
 ![BlackRock Assume o Comando do Canal do Panamá](https://i.imgur.com/KQpElem.jpeg)
 
-AP Photo/Matias Delacroix
+`AP Photo/Matias Delacroix`
 
 **Por que isso é importante?** Porque o Canal do Panamá não é só um ponto de passagem para mercadorias, mas um elo vital para o comércio global. Aproximadamente **70% do tráfego que transita por lá** está vinculado aos Estados Unidos.
 
