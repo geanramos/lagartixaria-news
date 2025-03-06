@@ -14,7 +14,7 @@ image: "https://i.imgur.com/KzqIRr5.png"
 
 **⚓ Controle de um dos maiores corredores comerciais do mundo.**
 
-A CK Hutchison, conglomerado de Hong Kong, está se desfazendo de sua participação majoritária em portos críticos ao redor do Canal do Panamá. Quem vai assumir o leme dessa operação é um [consórcio liderado pela gigante americana BlackRock](#fontes — a maior gestora de capitais do mundo.
+A CK Hutchison, conglomerado de Hong Kong, está se desfazendo de sua participação majoritária em portos críticos ao redor do Canal do Panamá. Quem vai assumir o leme dessa operação é um [consórcio liderado pela gigante americana BlackRock](#fontes) — a maior gestora de capitais do mundo.
 
 - O que está por trás da transação de **US$ 23 bi** não é apenas dinheiro — mas também geopolítica.
 
