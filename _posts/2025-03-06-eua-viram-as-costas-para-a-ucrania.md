@@ -3,7 +3,7 @@ title: "EUA viram as costas para a Ucrânia? Entenda a treta!🔥"
 date: 2025-03-06 14:32:00 -03:00
 description: "Zelensky na Berlinda! Trump corta apoio dos EUA, Ucrânia pode ficar vulnerável na guerra. 😨"
 tags: [mundo]
-image: "https://media.beehiiv.com/uploads/asset/file/f301324d-dcbc-46e0-9b4e-dab63a77cf6c/image.png"
+image: "[https://i1.wp.com/media.beehiiv.com/uploads/asset/file/f301324d-dcbc-46e0-9b4e-dab63a77cf6c/image.png?resize=750,375)"
 ---
 
 **🇺🇦🚫 Trump Corta a Inteligência para a Ucrânia! O Clima Azedou de Vez?**
@@ -15,7 +15,7 @@ O motivo? Trump quer saber se Zelensky tá realmente na paz ou só jogando um ve
 Mas calma que essa história tem mais camadas que cebola! 🧅 
 Bora entender tudo?
 
-![EUA viram as costas para a Ucrânia? Entenda a treta!](https://media.beehiiv.com/uploads/asset/file/f301324d-dcbc-46e0-9b4e-dab63a77cf6c/image.png)
+![EUA viram as costas para a Ucrânia? Entenda a treta!](https://i1.wp.com/media.beehiiv.com/uploads/asset/file/f301324d-dcbc-46e0-9b4e-dab63a77cf6c/image.png?resize=750,375)
 
     Imagem: REUTERS
 
@@ -63,6 +63,7 @@ O que ele fez?
 
 A estratégia tá funcionando? Até agora, sim. Mas em 2017, no primeiro governo dele, **o mesmo aconteceu... e em 2019 rolou um caos imigratório!** Será que a história vai se repetir? 🧐
 
+![Mandou ainda mais tropas para as fronteiras](https://i1.wp.com/images.axios.com/Vjsdh4n5PAHuSUsjS9zM7JawX_c=/0x0:8667x4875/1920x1080/2025/01/16/1737058860527.jpg?resize=750,375)
 
 ### **👀 O que esperar agora?**
 
