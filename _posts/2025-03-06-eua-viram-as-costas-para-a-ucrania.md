@@ -43,6 +43,31 @@ Com Trump dobrando a aposta na política externa, os próximos meses prometem se
 
 Conta aqui nos comentários: **Trump tá certo em endurecer com a Ucrânia ou ele tá brincando de jogo perigoso?**
 
+### **Mudando (um pouco) de assunto…**
+
+Se Trump teve uma agenda cheia com a pauta Rússia x Ucrânia, ele pode ficar despreocupado com suas fronteiras, uma bandeira que ele levantou bastante durante sua campanha: o número de migrantes cruzando ilegalmente a fronteira sul dos EUA chegou ao menor nível em décadas.
+
+### **🚪 EUA fechando portas para imigrantes!**
+
+Se por um lado Trump tá pegando pesado com a Ucrânia, por outro ele já pode riscar uma promessa de campanha: o número de migrantes cruzando ilegalmente a fronteira sul dos EUA **chegou ao menor nível em décadas!** 😳
+
+![EUA fechando portas para imigrantes](https://media.beehiiv.com/uploads/asset/file/5500616a-51ee-4efc-bfde-d0cb57f8bbce/image.png)
+
+    Fonte: Axios
+
+📉 Os números já estavam caindo desde 2024, quando Biden aumentou as restrições. Mas agora, com Trump de volta, a tendência despencou mais rápido que ação na bolsa em dia de crise.
+
+O que ele fez?  
+✔️ Mandou ainda mais tropas para as fronteiras.  
+✔️ Acabou com o aplicativo CBP One, que facilitava a entrada legal de migrantes.
+
+A estratégia tá funcionando? Até agora, sim. Mas em 2017, no primeiro governo dele, **o mesmo aconteceu... e em 2019 rolou um caos imigratório!** Será que a história vai se repetir? 🧐
+
+
+### **👀 O que esperar agora?**
+
+Com Trump dobrando a aposta na política externa e nas fronteiras, os próximos meses prometem ser tensos. **Será que Zelensky vai conseguir manter o apoio americano?** **E a imigração, vai se tornar uma crise de novo?**
+
 ---
 
 🌟 **Receba as principais notícias direto no WhatsApp!**  
@@ -64,3 +89,5 @@ Conta aqui nos comentários: **Trump tá certo em endurecer com a Ucrânia ou el
 
 📖 <a href="https://www.nytimes.com/2025/03/03/us/politics/trump-ukraine-military-aid.html" target="_blank" rel="noopener noreferrer">The New York Times</a>
 📖 <a href="https://www.bbc.com/news/articles/c4gde1zj5pyo" target="_blank" rel="noopener noreferrer">BBC News</a>
+📖 [Axios](https://www.axios.com/2025/03/04/illegal-border-crossings-february-decline-trump)  
+📖 [The Guardian](https://www.theguardian.com/us-news/2025/jan/22/trump-troops-border-immigration)
