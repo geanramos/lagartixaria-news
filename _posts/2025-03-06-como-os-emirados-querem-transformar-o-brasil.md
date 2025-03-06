@@ -12,7 +12,7 @@ image: "https://i.imgur.com/G0ci6Aa.jpeg"
 
 Se você achava que só a gente ficava babando nos arranha-céus e ilhas artificiais de Dubai, saiba que os Emirados Árabes também estão de olho no Brasil! E não é só turismo, não. Eles estão trazendo um *cheque bilionário* para investir por aqui! 💵
 
-## **O que está acontecendo?**
+**O que está acontecendo?**
 
 ![Os árabes estão de olho no Brasil! Descubra por quê](https://i.imgur.com/GcZcrEp.png)
 
@@ -26,7 +26,7 @@ Se você mora no Rio de Janeiro, pode começar a se animar, porque parte desse i
 
 Além disso, eles querem colocar até **US$ 500 milhões** (sim, doletas!) no projeto da “supercana” do Eike Batista, que promete revolucionar a produção de biocombustíveis.
 
-## **Mas por que os Emirados querem investir tanto aqui?** 🤔
+ **Mas por que os Emirados querem investir tanto aqui?** 🤔
 
 Simples: **o Brasil é estratégico!** 🌍
 
@@ -35,7 +35,7 @@ Os Emirados Árabes são o **2º maior parceiro comercial do Brasil no Oriente M
 - Já investiram **R$ 15 bilhões** para extrair minerais essenciais para baterias (olho na transição energética! ⚡).  
 - O ADIG ajudou a financiar os projetos que transformaram Dubai e Abu Dhabi em verdadeiras potências econômicas. Agora querem fazer o mesmo aqui.
 
-## **O que isso significa para o Brasil?** 🇧🇷💡
+ **O que isso significa para o Brasil?** 🇧🇷💡
 
 Esse investimento pode **acelerar o desenvolvimento** em áreas-chave como transporte e energia limpa. Mas, como todo grande projeto, sempre tem desafios na execução. A grande questão é: *será que esse dinheiro será bem aplicado?* 🤨
 
