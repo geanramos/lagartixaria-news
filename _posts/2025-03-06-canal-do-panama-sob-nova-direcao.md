@@ -22,7 +22,7 @@ A CK Hutchison, conglomerado de Hong Kong, está se desfazendo de sua participa�
 
 Os Estados Unidos, [que têm grandes interesses nesse ponto estratégico](https://www.dw.com/pt-br/por-que-trump-amea%C3%A7a-tomar-o-canal-do-panam%C3%A1/a-71257711), já levantaram a preocupação de que a China teria influência demais sobre a região. A venda dessas operações parece ter sido, em parte, uma resposta a esse cenário tenso.
 
-![](https://i1.wp.com/assets.apnews.com/74/57/8314afed9072bae78c32874d6f99/a36fc703e7ab4aaea8ea81818f8b4156?resize=750,450)
+![BlackRock Assume o Comando do Canal do Panamá](https://i.imgur.com/KQpElem.jpeg)
 
 AP Photo/Matias Delacroix
 
