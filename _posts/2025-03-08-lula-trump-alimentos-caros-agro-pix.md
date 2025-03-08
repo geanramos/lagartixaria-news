@@ -1,3 +1,10 @@
+---
+title: "Lula, Trump: Alimentos caros, agro pistola e Pix em perigo! 😱"
+date: 2025-03-08 10:02:00 -03:00
+description: "Lula quer baixar os preços na marra, governadores não gostaram e Trump segue no modo doido. E o Pix? Pode sumir! 🆘💸"
+tags: [economia]
+image: "https://i.imgur.com/PyrElsJ.jpeg"
+---
 
 ## **🔥 O caldo entornou e o governo tá no modo "SOS"! 🔥**  
 
@@ -14,9 +21,18 @@ Sabe quando o protagonista começa a perder apoio, as alianças racham e o povo 
 Gente, **50,8% dos brasileiros** já tão de mal com o governo, segundo a pesquisa da AtlasIntel. E o vilão da vez? 
 **O preço dos alimentos!** 🍖☕🍞 Quem aguenta pagar **R$ 18 no quilo do ovo e vender um rim pelo café?** Tá difícil!  
 
-O presidente Lula percebeu o tamanho do **BO** e resolveu agir no modo "se nada der certo, eu viro coach". 🏋️‍♂️ A solução? **Zerar imposto de importação em vários produtos básicos**, tipo carne, café, açúcar, milho e óleo. **Mas será que isso resolve ou só passa um perfuminho na situação?** 🤔  
+O presidente Lula percebeu o tamanho do **BO** e resolveu agir no modo "se nada der certo, eu viro coach". 🏋️‍♂️ A solução? 
+**Zerar imposto de importação em vários produtos básicos**, tipo carne, café, açúcar, milho e óleo. 
+**Mas será que isso resolve ou só passa um perfuminho na situação?** 🤔  
+**Spoilers**: não resolve, mas isso é assunto para um novo post. Este aqui: por que não resolve?
 
-E tem mais! Lula **quer dividir a conta com os governadores**, jogando no colo deles a ideia de **reduzir o ICMS da cesta básica**. **O que os governadores disseram?** "HAHAHAHA! TÁ LOUCO?!" 🤡💸 Alguns até já isentaram (Amazonas, Ceará, Maranhão, Piauí, Rio de Janeiro e São Paulo), mas o resto tá na defensiva. Afinal, perder imposto significa **menos dinheiro em caixa** e mais treta fiscal. **Bora ver quem cede primeiro!** 😬🔥  
+E tem mais! Lula **quer dividir a conta com os governadores**, jogando no colo deles a ideia de **reduzir o ICMS da cesta básica**. 
+
+**O que os governadores disseram?** "HAHAHAHA! TÁ LOUCO?!" 🤡💸 
+Alguns até já fazem isso (Amazonas, Ceará, Maranhão, Piauí, Rio de Janeiro e São Paulo), e ai como fica? 
+
+Afinal, perder imposto significa **menos dinheiro em caixa** e mais treta fiscal. 
+**Bora ver quem cede primeiro!** 😬🔥  
 
 ---  
 
@@ -28,13 +44,19 @@ E não para por aí, não! Lula soltou no evento do MST:
 
 TRADUZINDO: **ou os preços caem no amor, ou caem na força!** 😨  
 
-O pessoal do agronegócio, que já não é fã do governo, ficou com o alerta vermelho piscando. 🚨 O ministro da Agricultura, Carlos Fávaro, veio tentar abafar o incêndio dizendo que **não é bem assim, que o governo tá de boas**. Mas convenhamos: **o agro é pop, mas também é vingativo**. Se bater de frente, pode esperar retaliação. 🚜💣  
+O pessoal do agronegócio, que já não é fã do governo, ficou com o alerta vermelho piscando. 🚨 
+
+O ministro da Agricultura, Carlos Fávaro, veio tentar abafar o incêndio dizendo que **não é bem assim, que o governo tá de boas**. 
+
+Mas convenhamos: **o agro é pop, mas também é vingativo**. Se bater de frente, pode esperar retaliação. 🚜💣  
 
 ---  
 
 ### **🤑 Haddad e Tebet chutados do rolê e os gastos só aumentam!**  
 
-Se tem treta, tem racha no governo! E dessa vez, **Fernando Haddad e Simone Tebet ficaram de fora da reunião decisiva sobre o preço dos alimentos**. O motivo? Dizem as más línguas que a equipe econômica tava insistindo que a inflação da comida é resultado de fatores externos:  
+Se tem treta, tem racha no governo! E dessa vez, **Fernando Haddad e Simone Tebet ficaram de fora da reunião decisiva sobre o preço dos alimentos**. 
+
+O motivo? Dizem as más línguas que a equipe econômica tava insistindo que a inflação da comida é resultado de fatores externos:  
 
 ✔️ **Clima maluco** causando quebra de safra 🌦️  
 ✔️ **Trump e sua boca grande** ferrando o câmbio 💸  
@@ -48,9 +70,15 @@ Ou seja: **o governo tá parecendo aquele amigo que promete pagar o lanche e esq
 
 ### **💳 Seu Pix pode sumir! Banco Central quer cortar chaves irregulares!**  
 
-E para você que achou que as notícias ruins tinham acabado... 🚨 **O Banco Central decidiu que vai excluir as chaves Pix de quem tiver pendências na Receita Federal!**  
+E para você que achou que as notícias ruins tinham acabado... 🚨 
 
-Tisha, mas e eu que vivo esquecendo de pagar o carnê? **Miga, correee!** 🏃‍♀️💸 A ideia é **evitar fraudes**, mas já tem gente dizendo que isso pode acabar ferrando quem só tá tentando sobreviver nesse caos. **Mais um motivo pra ficar de olho na sua vida financeira!** 👀  
+**O Banco Central decidiu que vai excluir as chaves Pix de quem tiver pendências na Receita Federal!**  
+
+Tisha, mas e eu que vivo esquecendo de pagar o carnê? **Miga, correee!** 🏃‍♀️💸 
+
+A ideia é **evitar fraudes**, mas já tem gente dizendo que isso pode acabar ferrando quem só tá tentando sobreviver nesse caos. 
+
+**Mais um motivo pra ficar de olho na sua vida financeira!** 👀  
 
 ---  
 
@@ -70,7 +98,9 @@ E lá vem ele de novo… **Trump, o presidente da imprevisibilidade!** 🇺🇸
 
 **ALGUÉM DÁ UM RIVOTRIL PRA ESSE HOMEM!** 💊  
 
-E como se não bastasse, ele ainda soltou que **mandou uma cartinha pro Irã** para negociar o rolê das armas nucleares. 📝 **TRADUZINDO: tá jogando verde pra ver quem morde!** Esse Trump tá mais imprevisível que preço do tomate na feira! 🍅📉  
+E como se não bastasse, ele ainda soltou que **mandou uma cartinha pro Irã** para negociar o rolê das armas nucleares. 📝 
+
+**TRADUZINDO: tá jogando verde pra ver quem morde!** Esse Trump tá mais imprevisível que preço do tomate na feira! 🍅📉  
 
 ---  
 
@@ -84,7 +114,8 @@ Se tem uma coisa que a gente aprendeu com esse resumão, é que:
 4️⃣ **Se você tem pendência na Receita, seu Pix tá em perigo** 💳⚠️  
 5️⃣ **Trump continua sendo o Trump, ou seja, um caos ambulante** 😵  
 
-A única certeza? **A treta não para!** 🚨 E a Tisha segue de olho, porque **se tem babado político, tem Tisha fofoqueira de plantão!** 😏💅  
+A única certeza? **A treta não para!** 🚨 
+E a Tisha segue de olho, porque **se tem babado político, tem Tisha fofoqueira de plantão!** 😏💅  
 
 ---
 
