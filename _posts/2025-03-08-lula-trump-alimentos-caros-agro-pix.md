@@ -24,7 +24,10 @@ Gente, **50,8% dos brasileiros** já tão de mal com o governo, segundo a pesqui
 O presidente Lula percebeu o tamanho do **BO** e resolveu agir no modo "se nada der certo, eu viro coach". 🏋️‍♂️ A solução? 
 **Zerar imposto de importação em vários produtos básicos**, tipo carne, café, açúcar, milho e óleo. 
 **Mas será que isso resolve ou só passa um perfuminho na situação?** 🤔  
-**Spoilers**: não resolve, mas isso é assunto para um novo post. Este aqui: por que não resolve?
+
+**Spoilers**: não resolve, mas isso é assunto para um novo post. Este aqui: 
+[Comida importada sem imposto: solução ou cilada?](./zerar-imposto-de-comida-pode-piorar-e-muito)
+
 
 E tem mais! Lula **quer dividir a conta com os governadores**, jogando no colo deles a ideia de **reduzir o ICMS da cesta básica**. 
 
