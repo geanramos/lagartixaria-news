@@ -5,8 +5,15 @@ description: "Lula quer baixar os preços na marra, governadores não gostaram e
 tags: [economia]
 image: "https://i.imgur.com/PyrElsJ.jpeg"
 ---
-
-## **🔥 O caldo entornou e o governo tá no modo "SOS"! 🔥**  
+   <!-- Audio Player -->
+    <div class="player">
+        <audio id="player-audio" controls>
+            <source src="./audio/2025-03-08-lula-trump-alimentos-caros-agro-pix-p1.mp3" type="audio/mpeg">
+            Seu navegador não suporta áudio.
+        </audio>
+    </div>
+    
+**🔥 O caldo entornou e o governo tá no modo "SOS"! 🔥**  
 
 Se tem crise, tem fofoca. E se tem fofoca, a Tisha tá na área! 
 😏 Pegue a pipoca 🍿 porque o Brasil tá parecendo aqueles episódios tensos de série política. 
@@ -37,9 +44,9 @@ Alguns até já fazem isso (Amazonas, Ceará, Maranhão, Piauí, Rio de Janeiro 
 Afinal, perder imposto significa **menos dinheiro em caixa** e mais treta fiscal. 
 **Bora ver quem cede primeiro!** 😬🔥  
 
----  
 
-### **👨‍🌾 Agro pistola! Lula ameaçou, o campo tremeu!**  
+
+**👨‍🌾 Agro pistola! Lula ameaçou, o campo tremeu!**  
 
 E não para por aí, não! Lula soltou no evento do MST:  
 
@@ -53,9 +60,9 @@ O ministro da Agricultura, Carlos Fávaro, veio tentar abafar o incêndio dizend
 
 Mas convenhamos: **o agro é pop, mas também é vingativo**. Se bater de frente, pode esperar retaliação. 🚜💣  
 
----  
+ 
 
-### **🤑 Haddad e Tebet chutados do rolê e os gastos só aumentam!**  
+**🤑 Haddad e Tebet chutados do rolê e os gastos só aumentam!**  
 
 Se tem treta, tem racha no governo! E dessa vez, **Fernando Haddad e Simone Tebet ficaram de fora da reunião decisiva sobre o preço dos alimentos**. 
 
@@ -69,12 +76,20 @@ Enquanto isso, quem tá tentando aparecer no rolê é **Alexandre Silveira, mini
 
 Ou seja: **o governo tá parecendo aquele amigo que promete pagar o lanche e esquece a carteira em casa.** 🍔💰  
 
----  
 
-### **💳 Seu Pix pode sumir! Banco Central quer cortar chaves irregulares!**  
+
+**💳 Seu Pix pode sumir! Banco Central quer cortar chaves irregulares!**  
 
 E para você que achou que as notícias ruins tinham acabado... 🚨 
 
+   <!-- Audio Player -->
+    <div class="player">
+        <audio id="player-audio" controls>
+            <source src="./audio/2025-03-08-lula-trump-alimentos-caros-agro-pix-p2.mp3" type="audio/mpeg">
+            Seu navegador não suporta áudio.
+        </audio>
+    </div>
+    
 **O Banco Central decidiu que vai excluir as chaves Pix de quem tiver pendências na Receita Federal!**  
 
 Tisha, mas e eu que vivo esquecendo de pagar o carnê? **Miga, correee!** 🏃‍♀️💸 
@@ -89,7 +104,7 @@ A ideia é **evitar fraudes**, mas já tem gente dizendo que isso pode acabar fe
 
 ---
 
-### **🌍 Trump no modo "esquizofrenia política"!**  
+**🌍 Trump no modo "esquizofrenia política"!**  
 
 E lá vem ele de novo… **Trump, o presidente da imprevisibilidade!** 🇺🇸  
 
@@ -105,9 +120,9 @@ E como se não bastasse, ele ainda soltou que **mandou uma cartinha pro Irã** p
 
 **TRADUZINDO: tá jogando verde pra ver quem morde!** Esse Trump tá mais imprevisível que preço do tomate na feira! 🍅📉  
 
----  
 
-### **🚀 E AGORA, BRASIL?**  
+
+**🚀 E AGORA, BRASIL?**  
 
 Se tem uma coisa que a gente aprendeu com esse resumão, é que:  
 
