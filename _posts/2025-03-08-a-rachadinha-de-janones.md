@@ -127,16 +127,6 @@ E aí, o que você achou dessa treta? Comenta aí antes que o Janones parcele o 
 
 ---
 
-### Títulos
-1. "Janones e a Rachadinha: Nome Sujo e Cartão Alheio"
-2. "Escândalo Janones: Confissão, Negação e Acordo Milionário"
-3. "Rachadinha do Janones: Uma Novela Política Brasileira"
-
-### Descrições
-1. "André Janones admite usar cartão de assessor por nome sujo e fecha acordo milionário. Entenda o escândalo!"
-2. "Deputado Janones confessa rachadinha e promete devolver R$ 157,8 mil. Veja os detalhes dessa novela política."
-3. "Nome sujo, cartão emprestado e rachadinha: o escândalo de André Janones explicado com humor e indignação."
-
 ### Categorias
 1. Política Brasileira
 2. Escândalos Políticos
