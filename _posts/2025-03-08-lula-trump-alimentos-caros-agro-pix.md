@@ -10,7 +10,7 @@ image: "https://i.imgur.com/PyrElsJ.jpeg"
 <source src="./audio/2025-03-08-lula-trump-alimentos-caros-agro-pix-p1.mp3" type="audio/mpeg">
 Seu navegador não suporta áudio.
 </audio>
-
+<br/>
     
 **🔥 O caldo entornou e o governo tá no modo "SOS"! 🔥**  
 
@@ -86,7 +86,7 @@ E para você que achou que as notícias ruins tinham acabado... 🚨
 <source src="./audio/2025-03-08-lula-trump-alimentos-caros-agro-pix-p2.mp3" type="audio/mpeg">
 Seu navegador não suporta áudio.
 </audio>
-
+<br/>
     
 **O Banco Central decidiu que vai excluir as chaves Pix de quem tiver pendências na Receita Federal!**  
 
