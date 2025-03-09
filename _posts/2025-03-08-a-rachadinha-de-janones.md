@@ -1,4 +1,11 @@
-### 💸 Janones, a Rachadinha e o "Nome Negativado": Uma Novela da Vida Real 🎭  
+title: "Janones e a Rachadinha: Nome Sujo e Cartão Alheio"
+date: 2025-03-08 21:32:00 -03:00
+description: "Deputado Janones confessa rachadinha e promete devolver R$ 157,8 mil. Veja os detalhes dessa novela política."
+tags: [politica]
+image: "https://i.imgur.com/xKdDTyB.jpeg"
+---
+
+ 💸 Janones, a Rachadinha e o "Nome Negativado": Uma Novela da Vida Real 🎭  
 
 Se tem uma coisa que brasileiro adora, além de um bom café e uma fofoca no grupo da família, é um escândalo político bem temperado. 
 
@@ -111,10 +118,7 @@ Mas fica tranquila, amiga, porque enquanto houver babado político, o **Tisha Ne
 
 E aí, o que você achou dessa treta? Comenta aí antes que o Janones parcele o próprio escândalo de novo! 😂💬
 
-
-
-
-
+---
 
 ### Títulos
 1. "Janones e a Rachadinha: Nome Sujo e Cartão Alheio"
