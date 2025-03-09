@@ -6,6 +6,12 @@ tags: [politica]
 image: "https://i.ytimg.com/vi/fnSNeGfN-e4/maxresdefault.jpg"
 ---
 
+<audio id="player-audio" controls>
+<source src="./audio/2025-03-08-janones-confessa-rachadinha-e-promete-devolver-rs-131-mil-p1.mp3" type="audio/mpeg">
+Seu navegador não suporta áudio.
+</audio>
+<br>
+
  **💸 Janones, a Rachadinha e o "Nome Negativado": Uma Novela da Vida Real 🎭**
 
 Se tem uma coisa que brasileiro adora, além de um bom café e uma fofoca no grupo da família, é um escândalo político bem temperado. 
@@ -49,6 +55,12 @@ Se você não tá acostumada com essa expressão, deixa eu te explicar rapidinho
 Esse golpe não é novidade. Pois é, a *rachadinha* já virou um clássico da política brasileira, tipo novela das nove – só que com final repetido e sem mocinho pra torcer. 🎭📺  
 
 Agora, no caso do Janones, não foi *exatamente* isso. Ele não pegava o dinheiro do salário dos assessores, mas usava o cartão de um deles como se fosse um *"crédito premium sem limite"*. No final, a prática se encaixa no mesmo esquema de desvio de dinheiro público. 💳🚨  
+
+<audio id="player-audio" controls>
+<source src="./audio/2025-03-08-janones-confessa-rachadinha-e-promete-devolver-rs-131-mil-p2.mp3" type="audio/mpeg">
+Seu navegador não suporta áudio.
+</audio>
+<br>
 
 **Nome sujo, cartão emprestado e a confissão** 🏦❌  
 A justificativa do deputado foi simplesmente **surreal**! Segundo a própria PGR, ele confessou que *precisou* recorrer ao cartão do assessor porque tava com o nome negativado.  
@@ -103,6 +115,12 @@ Quanto mais desiludido o povo fica, menos pressão eles sofrem. E assim a corrup
 🌟 Receba as principais notícias direto no seu WhatsApp! <a href="https://www.whatsapp.com/channel/0029VaiPYBPLo4heVf0U3u2d" target="_blank" rel="noopener noreferrer">Siga o canal da Tisha</a> 📲
 
 ---
+
+<audio id="player-audio" controls>
+<source src="./audio/2025-03-08-janones-confessa-rachadinha-e-promete-devolver-rs-131-mil-p3.mp3" type="audio/mpeg">
+Seu navegador não suporta áudio.
+</audio>
+<br>
 
  **O que podemos tirar disso?** 🤔💡  
  
