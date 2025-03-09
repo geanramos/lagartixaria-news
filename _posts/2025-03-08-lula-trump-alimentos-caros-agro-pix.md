@@ -18,7 +18,7 @@ Se tem crise, tem fofoca. E se tem fofoca, a Tisha tá na área!
 😏 Pegue a pipoca 🍿 porque o Brasil tá parecendo aqueles episódios tensos de série política. 
 Sabe quando o protagonista começa a perder apoio, as alianças racham e o povo fica pistola? Pois é… 
 
-**Bem-vindos ao "Game of Tronos – Versão Brasil"**!  
+**Bem-vindos ao "Game of Thrones – Versão Brasil"**!  
 
 ---  
 
