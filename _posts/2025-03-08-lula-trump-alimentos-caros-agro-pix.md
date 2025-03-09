@@ -6,10 +6,10 @@ tags: [economia]
 image: "https://i.imgur.com/PyrElsJ.jpeg"
 ---
 
-        <audio id="player-audio" controls>
-            <source src="./audio/2025-03-08-lula-trump-alimentos-caros-agro-pix-p1.mp3" type="audio/mpeg">
-            Seu navegador não suporta áudio.
-        </audio>
+<audio id="player-audio" controls>
+<source src="./audio/2025-03-08-lula-trump-alimentos-caros-agro-pix-p1.mp3" type="audio/mpeg">
+Seu navegador não suporta áudio.
+</audio>
 
     
 **🔥 O caldo entornou e o governo tá no modo "SOS"! 🔥**  
@@ -82,10 +82,10 @@ Ou seja: **o governo tá parecendo aquele amigo que promete pagar o lanche e esq
 E para você que achou que as notícias ruins tinham acabado... 🚨 
 
 
-        <audio id="player-audio" controls>
-            <source src="./audio/2025-03-08-lula-trump-alimentos-caros-agro-pix-p2.mp3" type="audio/mpeg">
-            Seu navegador não suporta áudio.
-        </audio>
+<audio id="player-audio" controls>
+<source src="./audio/2025-03-08-lula-trump-alimentos-caros-agro-pix-p2.mp3" type="audio/mpeg">
+Seu navegador não suporta áudio.
+</audio>
 
     
 **O Banco Central decidiu que vai excluir as chaves Pix de quem tiver pendências na Receita Federal!**  
