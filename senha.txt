@@ -16,9 +16,42 @@ image: "https://i.imgur.com/xKdDTyB.jpeg"
 </div>
 <br />
 
+    <!-- YouTube Player -->
+    <div class="player">
+        <div class="plyr__video-embed" id="player-youtube">
+            <iframe
+                src="https://www.youtube.com/embed/o6xSHpTrUvg"
+                allowfullscreen
+                allow="autoplay"
+            ></iframe>
+        </div>
+    </div>
 
+<!-- Local Video Player -->
+    <div class="player">
+        <video id="player-local" controls poster="https://cdn.jsdelivr.net/gh/geanramos/18011975/img/minions2_trailer.jpg">
+            <source src="https://www.universalpics.com.br/tl_files/content/hero/minions2_trailer.mp4">
+            Seu navegador não suporta a tag de vídeo.
+        </video>
+    </div>
+
+    <!-- Audio Player -->
+    <div class="player">
+        <audio id="player-audio" controls>
+            <source src="https://cdn.jsdelivr.net/gh/geanramos/18011975/img/ymca-despicable-me.mp3" type="audio/mpeg">
+            Seu navegador não suporta a tag de áudio.
+        </audio>
+    </div>
+
+
+https://luvvoice.com/br
 https://downsub.com/
 https://zeemo.ai/pt/tools/youtube-transcript
 https://temp-mail.org/pt/
 
 xv1051409isf = @Caw2025
+
+
+    <script> const players = Plyr.setup('.plyr__video-embed, video, audio'); </script>
+    <script>  const player = new Plyr('#player'); </script>
+    <script>  const players = Plyr.setup('.plyr__video-embed,.video-wrapper div, #local-video, #player, audio'); </script>
