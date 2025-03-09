@@ -98,6 +98,12 @@ E é exatamente ISSO que os corruptos querem!
 Quanto mais desiludido o povo fica, menos pressão eles sofrem. E assim a corrupção segue firme e forte, igual temporada nova de reality show 
 – todo ano tem um escândalo novo! 🎭💀  
 
+---
+
+🌟 Receba as principais notícias direto no seu WhatsApp! <a href="https://www.whatsapp.com/channel/0029VaiPYBPLo4heVf0U3u2d" target="_blank" rel="noopener noreferrer">Siga o canal da Tisha</a> 📲
+
+---
+
  **O que podemos tirar disso?** 🤔💡  
  
 Tá, amiga, depois de tanta treta, você pode estar se perguntando: *“Tá bom, mas o que a gente faz com essa informação?”*  
