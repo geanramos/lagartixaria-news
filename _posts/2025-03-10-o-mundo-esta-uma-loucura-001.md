@@ -9,7 +9,10 @@ image: "https://i.ytimg.com/vi/hWWiIXIqiio/maxresdefault.jpg"
 > A Europa se arma, o Talibã se arma, todo mundo se arma…  
 > Mas a paz vem para a Ucrânia! Com armas até os dentes!  
 
-
+<audio id="player-audio" controls>
+<source src="./audio/o-mundo-esta-uma-loucura-001-p1.mp3" type="audio/mpeg">
+Seu navegador não suporta áudio.
+</audio><br>
 
 Essa semana prometia ser cheia de arco-íris e unicórnios. Começou até que bem, com Trump puxando o tapete de Zelensky, uma guerra prestes a acabar e diplomatas esfregando as mãos felizes com o fim de um dos conflitos mais tensos da atualidade. MAS… sempre tem um para melar o rolê, e dessa vez foi o **Emmanuel “Falastrão” Macron**.  
 
@@ -41,7 +44,10 @@ Então, respira fundo e **bora para o giro global do surto**!
 - No dia seguinte, a Ucrânia **suspendeu operações aéreas e terrestres**. Tradução? O exército ucraniano simplesmente **parou**.  
 - **O Reino Unido ainda tenta bancar o herói**, com Keir Starmer prometendo ajuda militar. Mas né? Ninguém respeita o Reino Unido desde 1945…  
 
-
+<audio id="player-audio" controls>
+<source src="./audio/o-mundo-esta-uma-loucura-001-p2.mp3" type="audio/mpeg">
+Seu navegador não suporta áudio.
+</audio><br>
 
 ### 🇪🇺 EUROPA: ENTRE A OTAN E A REVANCHE NUCLEAR  
 
