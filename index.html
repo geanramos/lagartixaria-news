@@ -13,11 +13,15 @@ layout: default
       </h2>
       <time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">{{ post.date | date_to_string }}</time>
       <div class="post-content" style="display: flex; align-items: center; gap: 15px; flex-wrap: wrap;">
-        <!-- Display post image if available -->
+        <!-- Display post image with link -->
         {% if post.image %}
-          <img src="{{ post.image | absolute_url }}" alt="{{ post.title }}" class="post-image">
+          <a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">
+            <img src="{{ post.image | absolute_url }}" alt="{{ post.title }}" class="post-image">
+          </a>
         {% else %}
-          <img src="{{ site.image | absolute_url }}" alt="{{ post.title }}" class="post-image">
+          <a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">
+            <img src="{{ site.image | absolute_url }}" alt="{{ post.title }}" class="post-image">
+          </a>
         {% endif %}
         <div style="flex: 1; min-width: 200px;">
           <p>{{ post.content | strip_html | truncatewords:50 }}</p>
