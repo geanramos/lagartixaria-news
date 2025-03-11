@@ -17,11 +17,12 @@ Meninaaa, segura essa: na China, um robô professor já tá dando aula e viraliz
 
 O robô, que mais parece saído de um episódio de Black Mirror, liderou a "Primeira Aula do Semestre" e ainda filosofou sobre o espírito de NeZha (um personagem lendário da cultura chinesa). A ideia parece bonita e inovadora, mas a real é que muita gente já tá preocupada. Afinal, como fica o lado humano da educação? Será que os professores vão ser substituídos por máquinas ou isso vai ser só um complemento? 🤯  
 
-<div class="player">
-<video id="player-local" controls poster="./img/yt-mi2HjULdias.jpg">
-<source src="./audio/yt-mi2HjULdias.mp4">
+<div class="video-wrapper">
+<video id="local-video" controls="" poster="./img/yt-mi2HjULdias.jpg">
+<source src="./audio/yt-mi2HjULdias.mp4" type="video/mp4" />
 </video>
-</div><br>
+</div>
+<br>
 
 O debate está lançado, darling! A tecnologia avança, mas ensinar envolve mais que despejar conteúdo. Vai que um dia os robôs aprendem a dar bronca por dever de casa não entregue? Aí sim podemos entrar em pânico! 😂  
 
