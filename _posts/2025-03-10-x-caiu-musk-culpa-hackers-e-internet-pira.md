@@ -41,10 +41,11 @@ Como todo bom caos na internet, teorias da conspiração já estão rolando solt
 
 E você, acha que foi ataque hacker real ou só mais um bug na terra do passarinho que virou X? Deixa sua opinião! 🗣️💬
 
+---
 ### Categorias:
 
-    **Tecnologia**
-    **Redes Sociais**
-    **Elon Musk**
-    **Cibersegurança**
-   ** Notícias da Internet**
+ **Tecnologia**
+ **Redes Sociais**
+ **Elon Musk**
+ **Cibersegurança**
+ **Notícias da Internet**
