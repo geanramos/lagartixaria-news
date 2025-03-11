@@ -15,9 +15,9 @@ layout: default
       <div style="display: flex; align-items: center; gap: 15px;">
         <!-- Display post image if available -->
         {% if post.image %}
-          <img src="{{ post.image | absolute_url }}" alt="Miniatura do post" style="width: 200px; aspect-ratio: 16/9; object-fit: cover;">
+          <img src="{{ post.image | absolute_url }}" alt="{{ post.title }}" style="width: 200px; aspect-ratio: 16/9; object-fit: cover;">
         {% else %}
-          <img src="{{ site.image | absolute_url }}" alt="Miniatura padrão do post" style="width: 200px; aspect-ratio: 16/9; object-fit: cover;">
+          <img src="{{ site.image | absolute_url }}" alt="{{ post.title }}" style="width: 200px; aspect-ratio: 16/9; object-fit: cover;">
         {% endif %}
         <div>
           <p>{{ post.content | strip_html | truncatewords:50 }}</p>
