@@ -6,6 +6,11 @@ tags: [politica]
 image: "https://i.imgur.com/HW7oIHd.jpeg"
 ---
 
+<audio id="player-audio" controls="">
+<source src="./audio/narizinho-ministra-pt-em-treta-e-centr-o-dando-perdido-p1.mp3" type="audio/mpeg" />
+Seu navegador não suporta áudio.
+</audio>
+<br>
 
 **Narizinho no Poder, Frango Azedando e PT Pegando Fogo! 🔥🐓**  
 
@@ -43,7 +48,13 @@ E, pelo visto, o papo não foi dos mais amigáveis, porque o Edinho descobriu qu
 
 Pera… "Greise"? É Narizinho ou Greise? Ele trocou até o nome da mulher, gente! A tensão foi tanta que até o autocorretor bugou! 😂📱  
 
+![A Posse da Narizinho: Beijos, Alisadas e Boicotes](https://i.imgur.com/HW7oIHd.jpeg)
 
+<audio id="player-audio" controls="">
+<source src="./audio/narizinho-ministra-pt-em-treta-e-centr-o-dando-perdido-p2.mp3" type="audio/mpeg" />
+Seu navegador não suporta áudio.
+</audio>
+<br>
 
 ### A Posse da Narizinho: Beijos, Alisadas e Boicotes 💄  
 
@@ -98,7 +109,11 @@ A justificativa? **"Modernizar a infraestrutura"**. Aham, sei. Só esqueceram de
 Agora fica a dúvida: os desembargadores vão continuar com seus iPhones "ultrapassados" ou vão meter um Pix pro Apple Store? 🤭📲  
 
 
-
+<audio id="player-audio" controls="">
+<source src="./audio/narizinho-ministra-pt-em-treta-e-centr-o-dando-perdido-p3.mp3" type="audio/mpeg" />
+Seu navegador não suporta áudio.
+</audio>
+<br>
 ### Rompendo o Dique (E A Paciência de Todo Mundo) 🌊  
 
 E pra fechar com chave de ouro, olha essa do **governador Romeu Zema, de Minas Gerais**: ele vendeu **4 hidrelétricas para os irmãos Batista** (os donos da J&F), sem fazer referendo popular e sem consultar a Assembleia Legislativa!  
