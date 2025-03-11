@@ -4,14 +4,26 @@ layout: default
 <!-- Posts -->
 <ul id="posts">
 
-	{% for post in paginator.posts %}
-
-	  <li class="post">
-	  	<h2><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{{ post.title }}</a></h2>
-	  	<time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">{{ post.date | date_to_string }}</time>
-	  	<p>{{ post.content | strip_html | truncatewords:50 }}</p>
-	  </li>
-
-    {% endfor %}
+  {% for post in paginator.posts %}
+    <li class="post">
+      <h2>
+        <a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">
+          {{ post.title }}
+        </a>
+      </h2>
+      <time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">{{ post.date | date_to_string }}</time>
+      <div style="display: flex; align-items: center; gap: 15px;">
+        <!-- Display post image if available -->
+        {% if post.image %}
+          <img src="{{ post.image | absolute_url }}" alt="Miniatura do post" style="width: 200px; aspect-ratio: 16/9; object-fit: cover;">
+        {% else %}
+          <img src="{{ site.image | absolute_url }}" alt="Miniatura padrão do post" style="width: 200px; aspect-ratio: 16/9; object-fit: cover;">
+        {% endif %}
+        <div>
+          <p>{{ post.content | strip_html | truncatewords:50 }}</p>
+        </div>
+      </div>
+    </li>
+  {% endfor %}
 
 </ul>
