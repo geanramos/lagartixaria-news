@@ -5,7 +5,10 @@ description: "Robô dando aula na China, mini-crash em Wall Street e Frei Gilson
 tags: [resumo]
 image: "https://i.imgur.com/t9H76yX.jpeg"
 ---
-
+<audio id="player-audio" controls>
+<source src="./audio/crash-pol-mica-e-professor-rob-os-babados-do-dia-p1.mp3" type="audio/mpeg">
+Seu navegador não suporta a tag de áudio.
+</audio><br>
 
  **1️⃣ Professor robô na China: futuro da educação ou Black Mirror? 🤖🎓**  
 
@@ -47,7 +50,11 @@ A galera progressista acusa o Frei de ter influência política e o associa ao b
 **👉 O QUE DIZ A DIREITA:**  
 Os conservadores saíram em defesa do Frei, alegando que ele está sendo perseguido pela esquerda por mobilizar cristãos. Até figuras como Bolsonaro e Nikolas Ferreira entraram na briga, dizendo que as críticas são, na verdade, uma perseguição religiosa.  
 
-Curiosidade: o Brasil lidera o ranking de países onde mais pessoas acreditam em Deus (89% da população). E quase um terço dos religiosos mudou de crença ao longo da vida. 😲  
+<audio id="player-audio" controls>
+<source src="./audio/crash-pol-mica-e-professor-rob-os-babados-do-dia-p2.mp3" type="audio/mpeg">
+Seu navegador não suporta a tag de áudio.
+</audio><br>
+**Curiosidade:** o Brasil lidera o ranking de países onde mais pessoas acreditam em Deus (89% da população). E quase um terço dos religiosos mudou de crença ao longo da vida. 😲  
 
 O babado é forte e a treta promete render. No fim, cada um segue sua fé… ou sua treta na internet! 😂
 
