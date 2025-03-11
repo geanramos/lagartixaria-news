@@ -55,3 +55,31 @@ xv1051409isf = @Caw2025
     <script> const players = Plyr.setup('.plyr__video-embed, video, audio'); </script>
     <script>  const player = new Plyr('#player'); </script>
     <script>  const players = Plyr.setup('.plyr__video-embed,.video-wrapper div, #local-video, #player, audio'); </script>
+
+
+<ul id="posts">
+  <li class="post">
+        <h2><a href="/crash-pol-mica-e-professor-rob-os-babados-do-dia">Crash, polêmica e professor robô: os babados do dia!</a></h2>
+        <time datetime="2025-03-11T16:00:00+00:00" class="by-line">11 Mar 2025</time>
+    <div style="display: flex; align-items: center; gap: 15px;">
+      <img src="https://i.imgur.com/t9H76yX.jpeg" alt="Miniatura do post" style="width: 200px; aspect-ratio: 16/9; object-fit: cover;">
+      <div>
+        <p>Seu navegador não suporta a tag de áudio. Professor robô na China: futuro da educação ou Black Mirror? Meninaaa, segura essa: na China, um robô professor já tá dando aula e viralizou...</p>
+      </div>
+    </div>
+  </li>
+  
+  <li class="post">
+        <h2><a href="/x-caiu-musk-culpa-hackers-e-internet-pira">X Caiu! Musk Culpa Hackers e Internet Pira</a></h2>
+        <time datetime="2025-03-10T20:32:00+00:00" class="by-line">10 Mar 2025</time>
+    <div style="display: flex; align-items: center; gap: 15px;">
+      <img src="https://i.imgur.com/t9H76yX.jpeg" alt="Miniatura do post" style="width: 200px; aspect-ratio: 16/9; object-fit: cover;">
+      <div>
+
+        <p>Seu navegador não suporta áudio. X Caiu! Musk Culpando Hackers e a Tisha Aqui Pra Fofocar! Se você tentou abrir o X (antigo Twitter) e deu ruim...</p>
+      </div>
+    </div>
+  </li>
+
+  <!-- Adicione mais posts seguindo o mesmo padrão -->
+</ul>
