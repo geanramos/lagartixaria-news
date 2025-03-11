@@ -1,6 +1,6 @@
 ---
 title: "Narizinho ministra, PT em treta e Centrão dando perdido! 🔥"
-date: 2025-03-02 11:32:00 -03:00
+date: 2025-03-10 17:32:00 -03:00
 description: "Gleisi virou ministra, Edinho foi barrado no PT e o Centrão tá saindo de fininho. E ainda tem grana na cueca e iPhones pro tribunal! 🐓💸📱"
 tags: [politica]
 image: "https://i.imgur.com/HW7oIHd.jpeg"
