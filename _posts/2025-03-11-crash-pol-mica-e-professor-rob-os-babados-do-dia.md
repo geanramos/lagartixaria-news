@@ -17,6 +17,11 @@ O robô, que mais parece saído de um episódio de Black Mirror, liderou a "Prim
 
 O debate está lançado, darling! A tecnologia avança, mas ensinar envolve mais que despejar conteúdo. Vai que um dia os robôs aprendem a dar bronca por dever de casa não entregue? Aí sim podemos entrar em pânico! 😂  
 
+---
+
+🌟 Receba as principais notícias direto no seu WhatsApp! <a href="https://www.whatsapp.com/channel/0029VaiPYBPLo4heVf0U3u2d" target="_blank" rel="noopener noreferrer">Siga o canal da Tisha</a> 📲
+
+---
 
 ### **2️⃣ Mini-crash em Wall Street: bilionários choram no banho 💸📉**  
 
