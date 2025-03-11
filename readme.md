@@ -1,7 +1,7 @@
 ## Sobre
 Tisha é um tema minimalista criado para Jekyll. O principal objetivo de Tisha é fornecer um tema claro para aqueles que querem um blog pronto para usar, focado no conteúdo e no mobile-first.
 
-![Tisha](/img/tisha01.png "Tisha")
+![Tisha](/img/tisha01.jpg "Tisha")
 
 ## Configuração e uso
 Tisha pode ser instalado simplesmente baixando a pasta .zip do [repositório no Github](https://github.com/geanramos/lagartixaria-news/archive/master.zip).
