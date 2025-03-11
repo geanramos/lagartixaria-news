@@ -1,5 +1,11 @@
+User-agent: Googlebot
+Disallow:
+
+User-agent: Bingbot
+Disallow:
+
 User-agent: *
-Allow: /
+Disallow:
 
 Sitemap: https://tisha.geanramos.com.br/atom.xml
 Sitemap: https://feeds.feedburner.com/tishanews
