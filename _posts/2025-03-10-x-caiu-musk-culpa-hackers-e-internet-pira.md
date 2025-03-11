@@ -6,6 +6,11 @@ tags: [tecnologia]
 image: "https://i.imgur.com/ECEsLRe.jpeg"
 ---
 
+<audio id="player-audio" controls>
+<source src="./audio/x-caiu-musk-culpa-hackers-e-internet-pira.mp3" type="audio/mpeg">
+Seu navegador não suporta áudio.
+</audio><br>
+
 **X Caiu! Musk Culpando Hackers e a Tisha Aqui Pra Fofocar!**
 
 🚨 **ATENÇÃO, MEU POVO!** 🚨 
