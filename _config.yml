@@ -9,7 +9,7 @@ author:
   url: "https://tisha.geanramos.com.br"
 
 # Build settings
-baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
+baseurl: https://tisha.geanramos.com.br # Change this to your relative path (ex: /blog/), or leave just a /
 markdown: kramdown
 source: .
 destination: ./_site
