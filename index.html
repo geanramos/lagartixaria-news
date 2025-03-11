@@ -2,24 +2,24 @@
 layout: default
 ---
 <!-- Posts -->
-<ul id="posts">
+<ul id="posts" style="list-style: none; padding: 0;">
 
   {% for post in paginator.posts %}
-    <li class="post">
+    <li class="post" style="margin-bottom: 20px;">
       <h2>
         <a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">
           {{ post.title }}
         </a>
       </h2>
       <time datetime="{{ post.date | date_to_xmlschema }}" class="by-line">{{ post.date | date_to_string }}</time>
-      <div style="display: flex; align-items: center; gap: 15px;">
+      <div class="post-content" style="display: flex; align-items: center; gap: 15px; flex-wrap: wrap;">
         <!-- Display post image if available -->
         {% if post.image %}
           <img src="{{ post.image | absolute_url }}" alt="{{ post.title }}" style="width: 200px; aspect-ratio: 16/9; object-fit: cover;">
         {% else %}
           <img src="{{ site.image | absolute_url }}" alt="{{ post.title }}" style="width: 200px; aspect-ratio: 16/9; object-fit: cover;">
         {% endif %}
-        <div>
+        <div style="flex: 1; min-width: 200px;">
           <p>{{ post.content | strip_html | truncatewords:50 }}</p>
         </div>
       </div>
@@ -27,3 +27,27 @@ layout: default
   {% endfor %}
 
 </ul>
+
+<style>
+  /* Estilos gerais */
+  #posts {
+    margin: 0;
+    padding: 0;
+  }
+  .post-content {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+  }
+
+  /* Estilos para mobile */
+  @media (max-width: 768px) {
+    .post-content {
+      flex-direction: column; /* Alinha os elementos verticalmente no mobile */
+    }
+    .post-content img {
+      width: 100%; /* Faz a imagem ocupar toda a largura disponível */
+      max-width: none;
+    }
+  }
+</style>
