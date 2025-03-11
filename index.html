@@ -15,9 +15,9 @@ layout: default
       <div class="post-content" style="display: flex; align-items: center; gap: 15px; flex-wrap: wrap;">
         <!-- Display post image if available -->
         {% if post.image %}
-          <img src="{{ post.image | absolute_url }}" alt="{{ post.title }}" style="width: 200px; aspect-ratio: 16/9; object-fit: cover;">
+          <img src="{{ post.image | absolute_url }}" alt="{{ post.title }}" class="post-image">
         {% else %}
-          <img src="{{ site.image | absolute_url }}" alt="{{ post.title }}" style="width: 200px; aspect-ratio: 16/9; object-fit: cover;">
+          <img src="{{ site.image | absolute_url }}" alt="{{ post.title }}" class="post-image">
         {% endif %}
         <div style="flex: 1; min-width: 200px;">
           <p>{{ post.content | strip_html | truncatewords:50 }}</p>
@@ -39,14 +39,19 @@ layout: default
     align-items: center;
     gap: 15px;
   }
+  .post-image {
+    width: 200px;
+    aspect-ratio: 16/9;
+    object-fit: cover;
+  }
 
   /* Estilos para mobile */
   @media (max-width: 768px) {
     .post-content {
       flex-direction: column; /* Alinha os elementos verticalmente no mobile */
     }
-    .post-content img {
-      width: 100%; /* Faz a imagem ocupar toda a largura disponível */
+    .post-image {
+      width: 80%; /* Ocupa 80% da largura da tela no mobile */
       max-width: none;
     }
   }
