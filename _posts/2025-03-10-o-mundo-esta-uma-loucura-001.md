@@ -14,7 +14,7 @@ image: "https://i.ytimg.com/vi/hWWiIXIqiio/maxresdefault.jpg"
 Seu navegador não suporta áudio.
 </audio><br>
 
-Essa semana prometia ser cheia de arco-íris e unicórnios. Começou até que bem, com Trump puxando o tapete de Zelensky, uma guerra prestes a acabar e diplomatas esfregando as mãos felizes com o fim de um dos conflitos mais tensos da atualidade. MAS… sempre tem um para melar o rolê, e dessa vez foi o **Emmanuel “Falastrão” Macron**.  
+Essa semana prometia ser cheia de arco-íris e unicórnios.🦄 Começou até que bem, com Trump puxando o tapete de Zelensky, uma guerra prestes a acabar e diplomatas esfregando as mãos felizes com o fim de um dos conflitos mais tensos da atualidade. MAS… sempre tem um para melar o rolê, e dessa vez foi o **Emmanuel “Falastrão” Macron**.  
 
 Sim, o presidente francês resolveu bancar o valentão e dizer que a Europa precisa de um exército próprio, independente da OTAN. O objetivo? "Garantir a paz na Ucrânia", mandando tropas para lá. Eu sei, parece piada. Mas segura que essa edição ainda tem mais desgraça: vamos passear por Israel, Tajiquistão, Groenlândia e até pelos EUA, onde Trump está reimpondo e retirando tarifas como quem troca de roupa.  
 
@@ -105,16 +105,6 @@ E se você sobreviveu até aqui, parabéns! **Manda esse post para os amigos e v
 
 #OMundoEstáUmaLoucura 🌎🔥
 
----
-### 📌 **Descrições para o post**  
-
-1️⃣ **O mundo não tem um dia de paz!** 🌎🔥 Da Europa querendo se armar até Trump brincando de tarifar o México como quem troca de roupa, essa semana foi um surto global. E claro, o Tisha News traz tudo de um jeito leve, divertido e cheio de ironia. Vem rir (ou chorar) com a gente! 😂🚀 #OMundoEstáUmaLoucura  
-
-2️⃣ **Macron quer um exército europeu, Trump cancela ajuda à Ucrânia, Israel bloqueia Gaza (de novo) e a Groenlândia vai votar.** Sim, é sério! O mundo está um caos e o Tisha News veio contar tudo do jeito mais divertido possível. 🌍🔥 Corre pra conferir essa edição cheia de reviravoltas!  
-
-3️⃣ **A paz chegou! Mas só pra quem acredita em contos de fadas.** 🦄💥 Enquanto um lado fala em acabar com a guerra, o outro já prepara novas armas. E o resto do planeta? Só tenta não surtar! 🤡🔥 Vem conferir o resumo mais debochado da semana no Tisha News!  
-
----
 
 ### 🏷 **Categorias**  
 
