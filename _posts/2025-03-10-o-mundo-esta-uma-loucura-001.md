@@ -104,3 +104,22 @@ Nos EUA, Trump fez mais um daqueles discursos sem sentido. Nada de novo, só mai
 E se você sobreviveu até aqui, parabéns! **Manda esse post para os amigos e vamos rir da desgraça juntos!**  
 
 #OMundoEstáUmaLoucura 🌎🔥
+
+---
+### 📌 **Descrições para o post**  
+
+1️⃣ **O mundo não tem um dia de paz!** 🌎🔥 Da Europa querendo se armar até Trump brincando de tarifar o México como quem troca de roupa, essa semana foi um surto global. E claro, o Tisha News traz tudo de um jeito leve, divertido e cheio de ironia. Vem rir (ou chorar) com a gente! 😂🚀 #OMundoEstáUmaLoucura  
+
+2️⃣ **Macron quer um exército europeu, Trump cancela ajuda à Ucrânia, Israel bloqueia Gaza (de novo) e a Groenlândia vai votar.** Sim, é sério! O mundo está um caos e o Tisha News veio contar tudo do jeito mais divertido possível. 🌍🔥 Corre pra conferir essa edição cheia de reviravoltas!  
+
+3️⃣ **A paz chegou! Mas só pra quem acredita em contos de fadas.** 🦄💥 Enquanto um lado fala em acabar com a guerra, o outro já prepara novas armas. E o resto do planeta? Só tenta não surtar! 🤡🔥 Vem conferir o resumo mais debochado da semana no Tisha News!  
+
+---
+
+### 🏷 **Categorias**  
+
+✅ **Notícias Internacionais** 🌎  
+✅ **Política Global** 🏛  
+✅ **Geopolítica** 🌍  
+✅ **Análises Irônicas** 😂  
+✅ **Tisha News – Edição Especial** 🚀
