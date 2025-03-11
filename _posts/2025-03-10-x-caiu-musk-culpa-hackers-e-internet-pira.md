@@ -6,7 +6,7 @@ tags: [tecnologia]
 image: "https://i.imgur.com/ECEsLRe.jpeg"
 ---
 
-# X Caiu! Musk Culpando Hackers e a Tisha Aqui Pra Fofocar!  
+**X Caiu! Musk Culpando Hackers e a Tisha Aqui Pra Fofocar!**
 
 🚨 **ATENÇÃO, MEU POVO!** 🚨 
 Se você tentou abrir o X (antigo Twitter) e deu ruim, não foi só com você! Elon Musk já sacou o megafone e gritou: "FOMOS ATACADOS!" 😱💻  
