@@ -7,7 +7,7 @@ image: "https://i.imgur.com/t9H76yX.jpeg"
 ---
 
 
-### **1️⃣ Professor robô na China: futuro da educação ou Black Mirror? 🤖🎓**  
+ **1️⃣ Professor robô na China: futuro da educação ou Black Mirror? 🤖🎓**  
 
 ![Professor robô na China: futuro da educação ou Black Mirror?](https://i.imgur.com/t9H76yX.jpeg)
 
@@ -23,7 +23,7 @@ O debate está lançado, darling! A tecnologia avança, mas ensinar envolve mais
 
 ---
 
-### **2️⃣ Mini-crash em Wall Street: bilionários choram no banho 💸📉**  
+ **2️⃣ Mini-crash em Wall Street: bilionários choram no banho 💸📉**  
 
 ![Mini-crash em Wall Street: bilionários choram no banho](https://i.imgur.com/1BbPixp.jpeg)
 
@@ -35,7 +35,7 @@ Agora é esperar pra ver se foi só um susto ou se essa recessão vem com força
 
 
 
-### **3️⃣ Frei Gilson: entre orações e polêmicas ⛪🔥**  
+ **3️⃣ Frei Gilson: entre orações e polêmicas ⛪🔥**  
 
 ![Frei Gilson: entre orações e polêmicas](https://i.imgur.com/oO1tf7M.jpeg)
 
