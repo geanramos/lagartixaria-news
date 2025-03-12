@@ -1,9 +1,7 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Página Inspirada no LINE TODAY</title>
+---
+layout: default
+---
+
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -74,12 +72,7 @@
       margin-top: 20px;
     }
   </style>
-</head>
-<body>
-  <div class="container">
-    <header>
-      <h1>Página Inspirada</h1>
-    </header>
+
 
     <ul id="posts">
       {% for post in paginator.posts %}
@@ -106,10 +99,3 @@
         </li>
       {% endfor %}
     </ul>
-
-    <footer>
-      <p>&copy; 2025 - Página Inspirada no LINE TODAY</p>
-    </footer>
-  </div>
-</body>
-</html>
