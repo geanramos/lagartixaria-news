@@ -57,10 +57,10 @@
   <!-- Favicon e RSS -->
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ site.url }}/atom.xml">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="https://feeds.feedburner.com/tishanews">
-  <link rel="icon" sizes="16x16" href="{{ site.url }}/favicon.png?v=02">
-  <link rel="icon" type="image/x-icon" href="{{ site.url }}/favicon.png?v=02">
+  <link rel="icon" sizes="16x16" href="{{ site.url }}/favicon.ico">
+  <link rel="icon" type="image/x-icon" href="{{ site.url }}/favicon.ico">
   <link href="{{ site.url }}/favicon.ico" rel="icon" type="image/x-icon">
-  <link rel="icon" href="{{ site.url }}/favicon.png?v=02">
+  <link rel="icon" href="{{ site.url }}/favicon.ico">
 
     <link rel="apple-touch-icon-precomposed" sizes="512x512" href="{{ site.url }}/favicon.png?v=02">
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{{ site.url }}/favicon.png?v=02">
@@ -69,7 +69,7 @@
 
   <!-- CSS & fonts -->
   <link rel="stylesheet" href="{{ site.url }}/css/main.css?v=250222">
-  <link rel="stylesheet" href="{{ site.url }}/css/custom.css?v=2503034">
+  <link rel="stylesheet" href="{{ site.url }}/css/custom.css?v=250311">
   <link rel="stylesheet" href="https://cdn.plyr.io/3.6.12/plyr.css">
   <script src="https://cdn.plyr.io/3.6.12/plyr.polyfilled.js"></script>
   <link href='https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,700;0,900;1,300;1,700;1,900&display=swap' rel='stylesheet' type='text/css'>
@@ -94,44 +94,4 @@
     'cookie_domain': 'auto'
   });
 </script>
-  <style>
-/* Plyr Audio Player - Fundo personalizado */
-.plyr--audio {
-    background-color: #008A3C;
-}
-
-/* Ajustes adicionais para a interface do player */
-.plyr--audio .plyr__controls {
-    background-color: #008A3C;
-}
-
-
-.plyr--audio .plyr__controls input {
-    color: #fff;
-}
-
-.plyr--audio .plyr__progress input {
-    background-color: #008A3C;
-}
-
-.plyr--audio .plyr__volume input {
-    background-color: #008A3C;
-}
-
-.plyr--audio .plyr__control:hover,
-.plyr--audio .plyr__control[aria-expanded=true] {
-  background:#00b3ff;
-  background:var(--plyr-audio-control-background-hover,var(--plyr-color-main,var(--plyr-color-main,#01A247)));
-  color:#fff;
-  color:var(--plyr-audio-control-color-hover,#fff);
-}
-.plyr--audio .plyr__controls {
-
-  color:#4a5464;
-  color:var(--plyr-audio-control-color,#fff);
-}
- .plyr {
-  border-radius: 5px;
-}
-  </style>
 </head>
