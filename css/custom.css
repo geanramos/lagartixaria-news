@@ -8,6 +8,42 @@
   --plyr-audio-range-thumb-active-shadow-color: rgba(0, 128, 0, 0.1); /* Verde (barra de progresso ativo) */
 }
 
+/* Plyr Audio Player - Fundo personalizado */
+.plyr--audio {
+background-color: #008a3c;
+}
+
+/* Ajustes adicionais para a interface do player */
+.plyr--audio .plyr__controls {
+background-color: #008a3c;
+}
+.plyr--audio .plyr__controls input {
+color: #fff;
+}
+.plyr--audio .plyr__progress input {
+background-color: #008a3c;
+}
+.plyr--audio .plyr__volume input {
+background-color: #008a3c;
+}
+.plyr--audio .plyr__control:hover,
+.plyr--audio .plyr__control[aria-expanded="true"] {
+background: #00b3ff;
+background: var(
+--plyr-audio-control-background-hover,
+var(--plyr-color-main, var(--plyr-color-main, #01a247))
+);
+color: #fff;
+color: var(--plyr-audio-control-color-hover, #fff);
+}
+.plyr--audio .plyr__controls {
+color: #4a5464;
+color: var(--plyr-audio-control-color, #fff);
+}
+.plyr {
+border-radius: 5px;
+}
+
 #tn-banner-whatsapp {
   background:var(--bg-whatsapp);
   border-radius:5px;
