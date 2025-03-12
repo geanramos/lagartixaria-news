@@ -12,7 +12,6 @@
 .plyr--audio {
 background-color: #008a3c;
 }
-
 /* Ajustes adicionais para a interface do player */
 .plyr--audio .plyr__controls {
 background-color: #008a3c;
@@ -304,17 +303,29 @@ html[dark-mode="yes"] .tn-whatsapp-info {
   color: #d5d5d5;
 }
 
-.fb-comments {
-    width: 100%; /* Permite que a caixa ocupe 100% da largura disponível */
-    max-width: 676px; /* Define uma largura máxima para evitar que a caixa fique muito larga */
-    margin: 0 auto; /* Centraliza a caixa */
+/* Estilos gerais */
+#posts {
+margin: 0;
+padding: 0;
 }
-.fb-comments button:hover {
-    background-color: #008a3c !important; /* Cor desejada em hover */
-    color: white !important; /* Cor do texto para contraste */
-    cursor: pointer !important; /* Alteração opcional para o cursor */
+.post-content {
+display: flex;
+align-items: center;
+gap: 15px;
 }
-.fb-comments * {
-    font-family: 'Poppins', sans-serif !important;
+.post-image {
+width: 200px;
+aspect-ratio: 16/9;
+object-fit: cover;
 }
 
+/* Estilos para mobile */
+@media (max-width: 768px) {
+.post-content {
+flex-direction: column; /* Alinha os elementos verticalmente no mobile */
+}
+.post-image {
+width: 100%; /* Ocupa 80% da largura da tela no mobile */
+max-width: none;
+}
+}
