@@ -81,34 +81,44 @@
       <h1>Página Inspirada</h1>
     </header>
 
-    <ul id="posts" style="list-style: none; padding: 0;">
-      {% for post in paginator.posts %}
-        <li class="post">
-          <!-- Link na imagem -->
-          <a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">
-            {% if post.image %}
-              <img src="{{ post.image | absolute_url }}" alt="Miniatura do Post">
-            {% else %}
-              <img src="https://i1.wp.com/zirtec.com.br/img/no-image.jpg?resize=112,64" alt="Miniatura do Post">
-            {% endif %}
-          </a>
-          <div class="post-content">
-            <!-- Link na descrição -->
-            <a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">
-              <p>{{ post.excerpt | strip_html | truncate: 120 }}</p>
-            </a>
-            <!-- Fonte do conteúdo -->
-            <span class="source">
-              {% if post.source %}
-                {{ post.source }}
-              {% else %}
-                Fonte desconhecida
-              {% endif %}
-            </span>
-          </div>
-        </li>
-      {% endfor %}
-    </ul>
+    <!-- Post 1 -->
+    <div class="post">
+      <a href="./crash-pol-mica-e-professor-rob-os-babados-do-dia" target="_blank">
+        <img src="https://i.imgur.com/t9H76yX.jpeg" alt="Miniatura do Post">
+      </a>
+      <div class="post-content">
+        <a href="./crash-pol-mica-e-professor-rob-os-babados-do-dia" target="_blank">
+          <p>Robô dando aula na China, mini-crash em Wall Street e Frei Gilson no centro das polêmicas. Vem entender os bafos que estão bombando! 😱🔥</p>
+        </a>
+        <span class="source">crash-pol-mica-e-professor-rob-os-babados-do-dia</span>
+      </div>
+    </div>
+
+    <!-- Post 2 -->
+    <div class="post">
+      <a href="./x-caiu-musk-culpa-hackers-e-internet-pira" target="_blank">
+        <img src="https://i.imgur.com/ECEsLRe.jpeg" alt="Miniatura do Post">
+      </a>
+      <div class="post-content">
+        <a href="./x-caiu-musk-culpa-hackers-e-internet-pira" target="_blank">
+          <p>lon Musk diz que o X sofreu um ataque cibernético massivo! Hackers, teorias da conspiração e caos total na internet. Vem entender!</p>
+        </a>
+        <span class="source">x-caiu-musk-culpa-hackers-e-internet-pira</span>
+      </div>
+    </div>
+
+    <!-- Post 3 -->
+    <div class="post">
+      <a href="./o-mundo-esta-uma-loucura-001" target="_blank">
+        <img src="https://i.ytimg.com/vi/hWWiIXIqiio/maxresdefault.jpg" alt="Miniatura do Post">
+      </a>
+      <div class="post-content">
+        <a href="./o-mundo-esta-uma-loucura-001" target="_blank">
+          <p>O mundo tá um caos e a gente veio fofocar! Guerras, tretas políticas e surpresas bizarras – vem rir (ou chorar) com o resumo mais debochado da semana! 😂🔥</p>
+        </a>
+        <span class="source">o-mundo-esta-uma-loucura-001</span>
+      </div>
+    </div>
 
     <footer>
       <p>&copy; 2025 - Página Inspirada no LINE TODAY</p>
