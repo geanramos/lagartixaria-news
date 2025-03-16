@@ -1,333 +1,267 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
- <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Tisha News</title>
-  <link rel="icon" href="https://i.imgur.com/dLQezK3.png" sizes="192x192" />
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap" rel="stylesheet">
-  <style>
-      @font-face {
-        font-family: 'Chomsky';
-        src: url('https://dev.geanramos.com.br/18011975/Chomsky.otf') format('opentype');
-      }
-   :root {
-    --font-family-base: 'Poppins', 'Segoe UI', Roboto, Arial, sans-serif;
-    --cor-fundo: #f5f8fa;
-    --cor-header: #2d3649;
-    --cor-primaria: #222;
-    --cor-secundaria: #292f33;
-    --cor-branca: #fcfcfc;
-    --cor-cinza: #2e3337;
-    --borda-arredondada: 8px;
-    --tamanho-fonte-md: 16px;
-    --tamanho-fonte-lg: 20px;
-    --espacamento-sm: 10px;
-    --espacamento-md: 20px;
-   }
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tisha News - Post</title>
+    <link rel="icon" href="https://i.imgur.com/dLQezK3.png" sizes="192x192" />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap" rel="stylesheet">
+    <style>
+        @font-face {
+            font-family: 'Chomsky';
+            src: url('https://dev.geanramos.com.br/18011975/Chomsky.otf') format('opentype');
+        }
+        :root {
+            --font-family-base: 'Poppins', 'Segoe UI', Roboto, Arial, sans-serif;
+            --cor-fundo: #f5f8fa;
+            --cor-header: #2d3649;
+            --cor-primaria: #222;
+            --cor-secundaria: #292f33;
+            --cor-branca: #fcfcfc;
+            --cor-cinza: #2e3337;
+            --borda-arredondada: 8px;
+            --tamanho-fonte-md: 16px;
+            --tamanho-fonte-lg: 20px;
+            --espacamento-sm: 10px;
+            --espacamento-md: 20px;
+        }
 
-   body {
-    font-family: var(--font-family-base);
-    background-color: var(--cor-fundo);
-    margin: 0;
-    padding: 0;
-    color: var(--cor-secundaria);
-   }
+        body {
+            font-family: var(--font-family-base);
+            background-color: var(--cor-fundo);
+            margin: 0;
+            padding: 0;
+            color: var(--cor-secundaria);
+        }
 
-   header {
-    background-color: #f5f8fa;
-   }
+        header {
+            background-color: #f5f8fa;
+        }
 
-   .capa-container {
-    max-width: 768px;
-    margin: 0 auto;
-    height: auto;
-   }
+        .capa-container {
+            max-width: 728px;
+            margin: 0 auto;
+            height: auto;
+        }
 
-   .capa {
-    width: 100%;
-    height: 25%;
-    object-fit: cover;
-   }
+        .capa {
+            width: 100%;
+            height: 276px;
+            object-fit: cover;
+        }
 
-   .avatar-container {
-    /*! position: relative; */
-    max-width: 768px;
-    margin: -40px auto 0;
-    display: flex;
-    align-items: flex-end;
-    background: #fcfcfc;
-   }
+        .avatar-container {
+            max-width: 728px;
+            margin: -40px auto 0;
+            display: flex;
+            align-items: flex-end;
+            background: #fcfcfc;
+        }
 
-   .avatar {
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-    border: 2px solid var(--cor-branca);
-    margin-left: var(--espacamento-md);
-   }
-   
-   .perfil-container {
-    padding: var(--espacamento-md);
-    max-width: 728px;
-    margin: 0 auto;
-    background-color: #fff;
-    border-bottom-left-radius: var(--borda-arredondada);
-    border-bottom-right-radius: var(--borda-arredondada);
-    z-index: 1;
-    }
-    
-    .perfil-header {
-    display: flex;
-    align-items: center; /* Alinha verticalmente */
-    justify-content: space-between; /* Coloca o botão no lado oposto */
-    margin-bottom: var(--espacamento-sm);
-    }
-    
-   .perfil-nome {
-    font-family: 'Chomsky', var(--font-family-base);
-    font-size: 2.2em;
-    font-weight: bold;
-    margin: 0;
-    }
+        .avatar {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            border: 2px solid var(--cor-branca);
+            margin-left: var(--espacamento-md);
+        }
+
+        .perfil-container {
+            padding: var(--espacamento-md);
+            max-width: 728px;
+            margin: 0 auto;
+            background-color: #fff;
+            border-bottom-left-radius: var(--borda-arredondada);
+            border-bottom-right-radius: var(--borda-arredondada);
+            z-index: 1;
+        }
+
+        .perfil-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: var(--espacamento-sm);
+        }
+
+        .perfil-nome {
+            font-family: 'Chomsky', var(--font-family-base);
+            font-size: 2.2em;
+            font-weight: bold;
+            margin: 0;
+        }
+
+        .botao-whatsapp {
+            background-color: #06c755;
+            color: white;
+            text-decoration: none;
+            padding: 6px 15px;
+            border-radius: 4px;
+            font-size: var(--tamanho-fonte-md);
+            font-weight: bold;
+        }
+
+        .botao-whatsapp:hover {
+            background-color: rgb(80, 215, 135);
+        }
+
+        .post-container {
+            max-width: 728px;
+            margin: var(--espacamento-md) auto;
+            background-color: var(--cor-branca);
+            border-radius: var(--borda-arredondada);
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            padding: var(--espacamento-md);
+        }
+
+        .post-title {
+            font-family: 'Poppings', var(--font-family-base);
+            font-size: 2.5em;
+            font-weight: bold;
+            margin: 0 0 var(--espacamento-sm) 0;
+            color: var(--cor-primaria);
+        }
+
+        .post-meta {
+            font-size: var(--tamanho-fonte-md);
+            color: var(--cor-cinza);
+            margin-bottom: var(--espacamento-md);
+        }
+
+        .post-content {
+            font-size: var(--tamanho-fonte-md);
+            line-height: 1.6;
+            color: var(--cor-secundaria);
+        }
+
+        footer {
+            max-width: 728px;
+            background-color: #008A3C;
+            color: var(--cor-branca);
+            text-align: center;
+            padding: var(--espacamento-md);
+            margin: var(--espacamento-md) auto;
+        }
+
+        a {
+            color: var(--cor-primaria);
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
         
-   .perfil-seguidores {
-    font-size: var(--tamanho-fonte-md);
-    color: var(--cor-cinza);
-   }
-
-   .container {
-    max-width: 728px;
-    margin: var(--espacamento-md) auto;
-    background-color: var(--cor-branca);
-    border-radius: var(--borda-arredondada);
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-    padding: var(--espacamento-md);
-   }
-
-   .cartao-artigo {
-    display: flex;
-    margin-bottom: var(--espacamento-md);
-    border-bottom: 1px solid var(--cor-cinza);
-    padding-bottom: var(--espacamento-sm);
-   }
-
-   .cartao-artigo img {
-    width: 112px;
-    height: auto;
-    border-radius: 4px;
-    cursor: pointer;
-   }
-
-   .cartao-artigo a {
-    text-decoration: none;
-    color: inherit;
-   }
-
-   .conteudo-artigo {
-    margin-left: var(--espacamento-sm);
-   }
-
-   .conteudo-artigo h3 {
-    font-size: var(--tamanho-fonte-md);
-    margin: 0 0 var(--espacamento-sm) 0;
-    color: var(--cor-secundaria);
-   }
-
-   .conteudo-artigo p {
-    font-size: var(--tamanho-fonte-md);
-    margin: 0;
-    color: var(--cor-cinza);
-   }
-
-   footer {
-    max-width: 728px;
-    background-color: #008A3C;
-    color: var(--cor-branca);
-    text-align: center;
-    padding: var(--espacamento-md);
-    margin: var(--espacamento-md) auto;
-   }
-
-   a {
-    color: var(--cor-primaria);
-    text-decoration: none;
-   }
-
-   a:hover {
-    text-decoration: none;
-   }
-
-   h3:hover {
-    color: #008a3c;
-   }
-
-   .avatar-container {
-    max-width: 768px;
-    margin: -40px auto 0;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    background: #fff;
-   }
-
-   .botao-whatsapp {
-    background-color: #06c755;
-    color: white;
-    text-decoration: none;
-    padding: 6px 15px;
-    border-radius: 4px;
-    font-size: var(--tamanho-fonte-md);
-    font-weight: bold;
-    }
-
-   .botao-whatsapp:hover {
-    background-color: rgb(80, 215, 135);
-   }
         .post-container img {
         border-radius: 4px;
         max-width: 676px;
         width: 100%;
         }
-  </style>
- </head>
- <body>
-  <header>
-   <div class="capa-container">
-    <img class="capa" src="https://i.imgur.com/ZymXe4a.png" alt="Capa">
-   </div>
-   <div class="avatar-container">
-    <a href="https://tisha.geanramos.com.br/">
-            <img class="avatar" src="https://tisha.geanramos.com.br/img/tisha.jpg" alt="Avatar">
-        </a>
-    
-   </div>
-  </header>
-  <section class="perfil-container">
-    <div class="perfil-header">
-        <a href="https://tisha.geanramos.com.br/" class="perfil-nome-link">
-            <h1 class="perfil-nome">Tisha News</h1>
-        </a>
-        <a href="https://whatsapp.com/channel/0029VaiPYBPLo4heVf0U3u2d" rel="nofollow noopener noreferrer" target="_blank" class="botao-whatsapp">Seguir</a>
-    </div>
-    <p class="perfil-descricao">Blog revelador e irreverente da Tisha, a lagartixa jornalista. Fofocas políticas e bastidores do poder. Descubra os segredos mais bem guardados da política!</p>
-    <p class="perfil-seguidores">334 mil seguidores</p>
-</section>
+    </style>
+</head>
+<body>
+    <header>
+        <div class="capa-container">
+            <img class="capa" src="https://i.imgur.com/ZymXe4a.png" alt="Capa">
+        </div>
+        <div class="avatar-container">
+            <a href="https://tisha.geanramos.com.br/">
+                <img class="avatar" src="https://tisha.geanramos.com.br/img/tisha.jpg" alt="Avatar">
+            </a>
+        </div>
+    </header>
+    <section class="perfil-container">
+        <div class="perfil-header">
+            <a href="https://tisha.geanramos.com.br/" class="perfil-nome-link">
+                <h1 class="perfil-nome">Tisha News</h1>
+            </a>
+            <a href="https://whatsapp.com/channel/0029VaiPYBPLo4heVf0U3u2d" rel="nofollow noopener noreferrer" target="_blank" class="botao-whatsapp">Seguir</a>
+        </div>
+        <p class="perfil-descricao">Robô dando aula na China, mini-crash em Wall Street e Frei Gilson no centro das polêmicas. Vem entender os bafos que estão bombando! 😱🔥</p>
+    </section>
 
-  <main class="container">
-   <div class="cartao-artigo">
-    <a href="https://tisha.geanramos.com.br/ovo-treta-e-praia-o-brasil-pegando-fogo-nesta-sexta">
-     <img src="https://i.ytimg.com/vi/02J7eTNhad0/maxresdefault.jpg" alt="Imagem da publicação">
-    </a>
-    <div class="conteudo-artigo">
-     <a href="https://tisha.geanramos.com.br/ovo-treta-e-praia-o-brasil-pegando-fogo-nesta-sexta">
-      <h3>Crash, polêmica e professor robô: os babados do dia!</h3>
-     </a>
-     <!--<p>SSSS!</p>-->
-    </div>
-   </div>
-   <div class="cartao-artigo">
-    <a href="https://tisha.geanramos.com.br/today-post.html">
-     <img src="https://i.imgur.com/t9H76yX.jpeg" alt="Imagem da publicação">
-    </a>
-    <div class="conteudo-artigo">
-     <a href="https://tisha.geanramos.com.br/today-post.html">
-      <h3>Crash, polêmica e professor robô: os babados do dia!</h3>
-     </a>
-     <!--<p>Robô dando aula na China, mini-crash em Wall Street e Frei Gilson no centro das polêmicas. Vem entender os bafos que estão bombando! 😱🔥</p>-->
-    </div>
-   </div>
-   <div class="cartao-artigo">
-    <a href="https://tisha.geanramos.com.br/x-caiu-musk-culpa-hackers-e-internet-pira">
-     <img src="https://i.imgur.com/ECEsLRe.jpeg" alt="Imagem da publicação">
-    </a>
-    <div class="conteudo-artigo">
-     <a href="https://tisha.geanramos.com.br/x-caiu-musk-culpa-hackers-e-internet-pira">
-      <h3>X Caiu! Musk Culpa Hackers e Internet Pira 🔥</h3>
-     </a>
-     <!--<p>Elon Musk diz que o X sofreu um ataque cibernético massivo! Hackers, teorias da conspiração e caos total na internet. Vem entender!</p>-->
-    </div>
-   </div>
-   <div class="cartao-artigo">
-    <a href="https://tisha.geanramos.com.br/o-mundo-esta-uma-loucura-001">
-     <img src="https://i.ytimg.com/vi/hWWiIXIqiio/maxresdefault.jpg" alt="Imagem da publicação">
-    </a>
-    <div class="conteudo-artigo">
-     <a href="https://tisha.geanramos.com.br/o-mundo-esta-uma-loucura-001">
-      <h3>O MUNDO ESTÁ UMA LOUCURA! – Edição #001 🌎🔥</h3>
-     </a>
-     <!--<p>O mundo tá um caos e a gente veio fofocar! Guerras, tretas políticas e surpresas bizarras – vem rir (ou chorar) com o resumo mais debochado da semana! 😂🔥</p>-->
-    </div>
-   </div>
-   <div class="cartao-artigo">
-    <a href="https://tisha.geanramos.com.br/narizinho-ministra-pt-em-treta-e-centr-o-dando-perdido">
-     <img src="https://i.imgur.com/HW7oIHd.jpeg" alt="Imagem da publicação">
-    </a>
-    <div class="conteudo-artigo">
-     <a href="https://tisha.geanramos.com.br/narizinho-ministra-pt-em-treta-e-centr-o-dando-perdido">
-      <h3>Narizinho ministra, PT em treta e Centrão dando perdido! 🔥</h3>
-     </a>
-     <!--<p>Gleisi virou ministra, Edinho foi barrado no PT e o Centrão tá saindo de fininho. E ainda tem grana na cueca e iPhones pro tribunal! 🐓💸📱</p>-->
-    </div>
-   </div>
-   <div class="cartao-artigo">
-    <a href="https://tisha.geanramos.com.br/janones-confessa-rachadinha-e-promete-devolver-rs-131-mil">
-     <img src="https://i.ytimg.com/vi/fnSNeGfN-e4/maxresdefault.jpg" alt="Imagem da publicação">
-    </a>
-    <div class="conteudo-artigo">
-     <a href="https://tisha.geanramos.com.br/janones-confessa-rachadinha-e-promete-devolver-rs-131-mil">
-      <h3>Janones e a Rachadinha: Nome Sujo e Cartão Alheio</h3>
-     </a>
-     <!--<p>Deputado Janones confessa rachadinha e promete devolver R$ 157,8 mil. Veja os detalhes dessa novela política.</p>-->
-    </div>
-   </div>
-   <div class="cartao-artigo">
-    <a href="https://tisha.geanramos.com.br/zerar-imposto-de-comida-pode-piorar-e-muito">
-     <img src="https://images.redetv.uol.com.br/public/jornalismo/redetvinoticias/20250306212231lQoPmTteyf.jpg" alt="Imagem da publicação">
-    </a>
-    <div class="conteudo-artigo">
-     <a href="https://tisha.geanramos.com.br/zerar-imposto-de-comida-pode-piorar-e-muito">
-      <h3>Zerar imposto de comida? Pode piorar e muito! 🤯</h3>
-     </a>
-     <!--<p>Zerar imposto de alimentos importados parece bom, mas pode ser um tiro no pé! Veja por que essa medida pode piorar os preços e prejudicar o Brasil.</p>-->
-    </div>
-   </div>
-   <div class="cartao-artigo">
-    <a href="https://tisha.geanramos.com.br/lula-trump-alimentos-caros-agro-pix">
-     <img src="https://i.imgur.com/PyrElsJ.jpeg" alt="Imagem da publicação">
-    </a>
-    <div class="conteudo-artigo">
-     <a href="https://tisha.geanramos.com.br/lula-trump-alimentos-caros-agro-pix">
-      <h3>Lula, Trump: Alimentos caros, agro pistola e Pix em perigo! 😱</h3>
-     </a>
-     <!--<p>Lula quer baixar os preços na marra, governadores não gostaram e Trump segue no modo doido. E o Pix? Pode sumir! 🆘💸</p>-->
-    </div>
-   </div>
-   <div class="cartao-artigo">
-    <a href="https://tisha.geanramos.com.br/homem-pede-comida-e-leva-tiro-em-castanhal">
-     <img src="https://i.imgur.com/N761U3f.jpeg" alt="Imagem da publicação">
-    </a>
-    <div class="conteudo-artigo">
-     <a href="https://tisha.geanramos.com.br/homem-pede-comida-e-leva-tiro-em-castanhal">
-      <h3>Homem pede comida e leva tiro em Castanhal! 😨</h3>
-     </a>
-     <!--<p>Um simples pedido de comida virou caso de polícia! Homem foi baleado ao pedir ajuda em Castanhal. O que está acontecendo com o mundo? 😨</p>-->
-    </div>
-   </div>
-   <div class="cartao-artigo">
-    <a href="https://tisha.geanramos.com.br/133-para-1">
-     <img src="https://i.imgur.com/OFff4Te.jpeg" alt="Imagem da publicação">
-    </a>
-    <div class="conteudo-artigo">
-     <a href="https://tisha.geanramos.com.br/133-para-1">
-      <h3>133 trabalhadores bancam 1 deputado! Vale a pena? 🏛️</h3>
-     </a>
-     <!--<p>133 brasileiros precisam trabalhar o ano todo para sustentar 1 deputado. 😱</p>-->
-    </div>
-   </div>
-  </main>
-  <footer>
-   <p>© 2025 Gean Ramos</p>
-  </footer>
- </body>
+    <main class="post-container">
+        <h1 class="post-title">🔥 Ovo, treta e praia: o Brasil pegando fogo nesta sexta! 🔥</h1>
+        <p class="post-meta">Publicado em 16 de março de 2025 por Tisha News</p>
+        <div class="post-content">
+            
+
+
+<audio id="player-audio" controls="">
+<source src="./audio/crash-pol-mica-e-professor-rob-os-babados-do-dia-p1.mp3" type="audio/mpeg" />
+</audio>
+<p><br /></p>
+<p><strong>1️⃣ Professor robô na China: futuro da educação ou Black Mirror? 🤖🎓</strong></p>
+
+<p><img src="https://i.imgur.com/t9H76yX.jpeg" alt="Professor robô na China: futuro da educação ou Black Mirror?"></p>
+
+<p>Meninaaa, segura essa: na China, um robô professor já tá dando aula e viralizou mais que receita de pão na AirFryer! O tal autômato fez sua estreia em Sichuan no dia 17 de fevereiro e já tá causando aquele rebuliço básico. A pergunta que não quer calar: será que a inteligência artificial vai tomar o lugar dos professores? Ou será que vai ser igual aqueles assistentes virtuais que erram tudo que a gente fala? 😂</p>
+
+<p>O robô, que mais parece saído de um episódio de Black Mirror, liderou a “Primeira Aula do Semestre” e ainda filosofou sobre o espírito de NeZha (um personagem lendário da cultura chinesa). A ideia parece bonita e inovadora, mas a real é que muita gente já tá preocupada. Afinal, como fica o lado humano da educação? Será que os professores vão ser substituídos por máquinas ou isso vai ser só um complemento? 🤯</p>
+
+<div class="video-wrapper">
+<video id="local-video" controls="" poster="./img/yt-mi2HjULdias.jpg">
+<source src="./audio/yt-mi2HjULdias.mp4" type="video/mp4" />
+</video>
+</div>
+<p><br /></p>
+
+<p>O debate está lançado, darling! A tecnologia avança, mas ensinar envolve mais que despejar conteúdo. Vai que um dia os robôs aprendem a dar bronca por dever de casa não entregue? Aí sim podemos entrar em pânico! 😂</p>
+
+<hr>
+
+<p>🌟 Receba as principais notícias direto no seu WhatsApp! <a href="https://www.whatsapp.com/channel/0029VaiPYBPLo4heVf0U3u2d" target="_blank" rel="noopener noreferrer">Siga o canal da Tisha</a> 📲</p>
+
+<hr>
+
+<p><strong>2️⃣ Mini-crash em Wall Street: bilionários choram no banho 💸📉</strong></p>
+
+<p><img src="https://i.imgur.com/1BbPixp.jpeg" alt="Mini-crash em Wall Street: bilionários choram no banho"></p>
+
+<p>Eita que o mercado financeiro teve um dia de cão! 🐕‍🦺 Depois que Trump levantou a possibilidade de uma recessão econômica nos EUA, Wall Street derreteu igual sorvete no sol. Resultado? US$ 1,5 trilhão evaporou como se nunca tivesse existido. Já pensou? Um dia você é bilionário, no outro, só milionário… que tragédia! 😭</p>
+
+<p>O pregão de ontem foi um dos piores dos últimos anos, com investidores correndo pra salvar o que dava. O Ibovespa, claro, sentiu o impacto e fechou em queda, enquanto o dólar deu aquela subidinha marota. Quem gosta de emoção tá vivendo um prato cheio, porque o mercado tá mais instável que um celular com 1% de bateria.</p>
+
+<p>Agora é esperar pra ver se foi só um susto ou se essa recessão vem com força. Enquanto isso, os traders choram e os memes na internet correm soltos! 😂</p>
+
+<p><strong>3️⃣ Frei Gilson: entre orações e polêmicas ⛪🔥</strong></p>
+
+<p><img src="https://i.imgur.com/oO1tf7M.jpeg" alt="Frei Gilson: entre orações e polêmicas"></p>
+
+<p>A internet pegou fogo com o Frei Gilson, que acorda mais cedo que passarinho pra rezar o Rosário às 4h da manhã e arrasta mais de 1,3 milhão de fiéis nessa jornada! Mas não é só de amém que vive a polêmica, e o Frei tá sendo criticado por algumas falas consideradas machistas.</p>
+
+<p><strong>👈 O QUE DIZ A ESQUERDA:</strong><br>
+A galera progressista acusa o Frei de ter influência política e o associa ao bolsonarismo. Além disso, frases como “O homem é o chefe da casa” e “A mulher nasceu para auxiliar o homem” geraram um verdadeiro rebuliço. E claro, resgataram falas antigas dele sobre o “perigo do comunismo”.</p>
+
+<p><strong>👉 O QUE DIZ A DIREITA:</strong><br>
+Os conservadores saíram em defesa do Frei, alegando que ele está sendo perseguido pela esquerda por mobilizar cristãos. Até figuras como Bolsonaro e Nikolas Ferreira entraram na briga, dizendo que as críticas são, na verdade, uma perseguição religiosa.</p>
+
+<audio id="player-audio" controls="">
+<source src="./audio/crash-pol-mica-e-professor-rob-os-babados-do-dia-p2.mp3" type="audio/mpeg" />
+</audio>
+<p><br />
+
+<strong>Curiosidade:</strong> o Brasil lidera o ranking de países onde mais pessoas acreditam em Deus (89% da população). E quase um terço dos religiosos mudou de crença ao longo da vida. 😲</p>
+
+<p>O babado é forte e a treta promete render. No fim, cada um segue sua fé… ou sua treta na internet! 😂</p>
+
+<hr>
+
+<h3 id="categorias"><strong>Categorias:</strong></h3>
+<ol>
+  <li><strong>Tecnologia e Inovação</strong></li>
+  <li><strong>Economia e Mercado Financeiro</strong></li>
+  <li><strong>Política e Sociedade</strong></li>
+  <li><strong>Religião e Cultura</strong></li>
+  <li><strong>Tendências e Virais</strong></li>
+</ol>
+		
+	
+
+        </div>
+    </main>
+
+    <footer>
+        <p>© 2025 Gean Ramos</p>
+    </footer>
+</body>
 </html>
