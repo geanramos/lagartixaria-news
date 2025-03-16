@@ -6,103 +6,184 @@
     <title>Tisha News - Post</title>
     <link rel="icon" href="https://i.imgur.com/dLQezK3.png" sizes="192x192" />
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap" rel="stylesheet">
-    <style>
-        @font-face {
-            font-family: 'Chomsky';
-            src: url('https://dev.geanramos.com.br/18011975/Chomsky.otf') format('opentype');
-        }
-        :root {
-            --font-family-base: 'Poppins', 'Segoe UI', Roboto, Arial, sans-serif;
-            --cor-fundo: #f5f8fa;
-            --cor-header: #2d3649;
-            --cor-primaria: #222;
-            --cor-secundaria: #292f33;
-            --cor-branca: #fcfcfc;
-            --cor-cinza: #2e3337;
-            --borda-arredondada: 8px;
-            --tamanho-fonte-md: 16px;
-            --tamanho-fonte-lg: 20px;
-            --espacamento-sm: 10px;
-            --espacamento-md: 20px;
-        }
+  <style>
+      @font-face {
+        font-family: 'Chomsky';
+        src: url('https://dev.geanramos.com.br/18011975/Chomsky.otf') format('opentype');
+      }
+   :root {
+    --font-family-base: 'Poppins', 'Segoe UI', Roboto, Arial, sans-serif;
+    --cor-fundo: #f5f8fa;
+    --cor-header: #2d3649;
+    --cor-primaria: #222;
+    --cor-secundaria: #292f33;
+    --cor-branca: #fcfcfc;
+    --cor-cinza: #2e3337;
+    --borda-arredondada: 8px;
+    --tamanho-fonte-md: 16px;
+    --tamanho-fonte-lg: 20px;
+    --espacamento-sm: 10px;
+    --espacamento-md: 20px;
+   }
 
-        body {
-            font-family: var(--font-family-base);
-            background-color: var(--cor-fundo);
-            margin: 0;
-            padding: 0;
-            color: var(--cor-secundaria);
-        }
+   body {
+    font-family: var(--font-family-base);
+    background-color: var(--cor-fundo);
+    margin: 0;
+    padding: 0;
+    color: var(--cor-secundaria);
+   }
 
-        header {
-            background-color: #f5f8fa;
-        }
+   header {
+    background-color: #f5f8fa;
+   }
 
-        .capa-container {
-            max-width: 728px;
-            margin: 0 auto;
-            height: auto;
-        }
+   .capa-container {
+    max-width: 768px;
+    margin: 0 auto;
+    height: auto;
+   }
 
-        .capa {
-            width: 100%;
-            height: 276px;
-            object-fit: cover;
-        }
+   .capa {
+    width: 100%;
+    height: 25%;
+    object-fit: cover;
+   }
 
-        .avatar-container {
-            max-width: 728px;
-            margin: -40px auto 0;
-            display: flex;
-            align-items: flex-end;
-            background: #fcfcfc;
-        }
+   .avatar-container {
+    /*! position: relative; */
+    max-width: 768px;
+    margin: -40px auto 0;
+    display: flex;
+    align-items: flex-end;
+    background: #fcfcfc;
+   }
 
-        .avatar {
-            width: 100px;
-            height: 100px;
-            border-radius: 50%;
-            border: 2px solid var(--cor-branca);
-            margin-left: var(--espacamento-md);
-        }
+   .avatar {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 2px solid var(--cor-branca);
+    margin-left: var(--espacamento-md);
+   }
+   
+   .perfil-container {
+    padding: var(--espacamento-md);
+    max-width: 728px;
+    margin: 0 auto;
+    background-color: #fff;
+    border-bottom-left-radius: var(--borda-arredondada);
+    border-bottom-right-radius: var(--borda-arredondada);
+    z-index: 1;
+    }
+    
+    .perfil-header {
+    display: flex;
+    align-items: center; /* Alinha verticalmente */
+    justify-content: space-between; /* Coloca o botão no lado oposto */
+    margin-bottom: var(--espacamento-sm);
+    }
+    
+   .perfil-nome {
+    font-family: 'Chomsky', var(--font-family-base);
+    font-size: 2.2em;
+    font-weight: bold;
+    margin: 0;
+    }
+        
+   .perfil-seguidores {
+    font-size: var(--tamanho-fonte-md);
+    color: var(--cor-cinza);
+   }
 
-        .perfil-container {
-            padding: var(--espacamento-md);
-            max-width: 728px;
-            margin: 0 auto;
-            background-color: #fff;
-            border-bottom-left-radius: var(--borda-arredondada);
-            border-bottom-right-radius: var(--borda-arredondada);
-            z-index: 1;
-        }
+   .container {
+    max-width: 728px;
+    margin: var(--espacamento-md) auto;
+    background-color: var(--cor-branca);
+    border-radius: var(--borda-arredondada);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    padding: var(--espacamento-md);
+   }
 
-        .perfil-header {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            margin-bottom: var(--espacamento-sm);
-        }
+   .cartao-artigo {
+    display: flex;
+    margin-bottom: var(--espacamento-md);
+    border-bottom: 1px solid var(--cor-cinza);
+    padding-bottom: var(--espacamento-sm);
+   }
 
-        .perfil-nome {
-            font-family: 'Chomsky', var(--font-family-base);
-            font-size: 2.2em;
-            font-weight: bold;
-            margin: 0;
-        }
+   .cartao-artigo img {
+    width: 112px;
+    height: auto;
+    border-radius: 4px;
+    cursor: pointer;
+   }
 
-        .botao-whatsapp {
-            background-color: #06c755;
-            color: white;
-            text-decoration: none;
-            padding: 6px 15px;
-            border-radius: 4px;
-            font-size: var(--tamanho-fonte-md);
-            font-weight: bold;
-        }
+   .cartao-artigo a {
+    text-decoration: none;
+    color: inherit;
+   }
 
-        .botao-whatsapp:hover {
-            background-color: rgb(80, 215, 135);
-        }
+   .conteudo-artigo {
+    margin-left: var(--espacamento-sm);
+   }
+
+   .conteudo-artigo h3 {
+    font-size: var(--tamanho-fonte-md);
+    margin: 0 0 var(--espacamento-sm) 0;
+    color: var(--cor-secundaria);
+   }
+
+   .conteudo-artigo p {
+    font-size: var(--tamanho-fonte-md);
+    margin: 0;
+    color: var(--cor-cinza);
+   }
+
+   footer {
+    max-width: 728px;
+    background-color: #008A3C;
+    color: var(--cor-branca);
+    text-align: center;
+    padding: var(--espacamento-md);
+    margin: var(--espacamento-md) auto;
+   }
+
+   a {
+    color: var(--cor-primaria);
+    text-decoration: none;
+   }
+
+   a:hover {
+    text-decoration: none;
+   }
+
+   h3:hover {
+    color: #008a3c;
+   }
+
+   .avatar-container {
+    max-width: 768px;
+    margin: -40px auto 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #fff;
+   }
+
+   .botao-whatsapp {
+    background-color: #06c755;
+    color: #fff;
+    text-decoration: none;
+    padding: 4px 12px;
+    border-radius: 4px;
+    font-size: 13px;
+    font-weight: bold;
+    }
+
+   .botao-whatsapp:hover {
+    background-color: rgb(80, 215, 135);
+   }
 
         .post-container {
             max-width: 728px;
@@ -113,13 +194,21 @@
             padding: var(--espacamento-md);
         }
 
-        .post-title {
-            font-family: 'Poppings', var(--font-family-base);
-            font-size: 2.5em;
-            font-weight: bold;
-            margin: 0 0 var(--espacamento-sm) 0;
-            color: var(--cor-primaria);
-        }
+
+.post-title, h2 {
+  font-size:1.5em;
+  line-height:1em;
+  padding:1em 0 0 0
+}
+h3,
+h4,
+h5,
+h6 {
+  font-size:1.125em;
+  line-height:1.3334em;
+  padding:0.66667em 0
+}
+
 
         .post-meta {
             font-size: var(--tamanho-fonte-md);
@@ -132,31 +221,12 @@
             line-height: 1.6;
             color: var(--cor-secundaria);
         }
-
-        footer {
-            max-width: 728px;
-            background-color: #008A3C;
-            color: var(--cor-branca);
-            text-align: center;
-            padding: var(--espacamento-md);
-            margin: var(--espacamento-md) auto;
-        }
-
-        a {
-            color: var(--cor-primaria);
-            text-decoration: none;
-        }
-
-        a:hover {
-            text-decoration: underline;
-        }
-        
         .post-container img {
         border-radius: 4px;
         max-width: 676px;
         width: 100%;
         }
-    </style>
+  </style>
 </head>
 <body>
     <header>
