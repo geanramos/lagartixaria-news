@@ -66,9 +66,8 @@
     border: 2px solid var(--cor-branca);
     margin-left: var(--espacamento-md);
    }
-
+   
    .perfil-container {
-    text-align: left;
     padding: var(--espacamento-md);
     max-width: 728px;
     margin: 0 auto;
@@ -76,8 +75,15 @@
     border-bottom-left-radius: var(--borda-arredondada);
     border-bottom-right-radius: var(--borda-arredondada);
     z-index: 1;
-   }
-
+    }
+    
+    .perfil-header {
+    display: flex;
+    align-items: center; /* Alinha verticalmente */
+    justify-content: space-between; /* Coloca o botão no lado oposto */
+    margin-bottom: var(--espacamento-sm);
+    }
+    
    .perfil-nome {
     font-family: 'Chomsky', var(--font-family-base);
     font-size: 2.2em;
@@ -173,8 +179,7 @@
     border-radius: 4px;
     font-size: var(--tamanho-fonte-md);
     font-weight: bold;
-    margin-right: var(--espacamento-md);
-   }
+    }
 
    .botao-whatsapp:hover {
     background-color: rgb(80, 215, 135);
@@ -188,14 +193,18 @@
    </div>
    <div class="avatar-container">
     <img class="avatar" src="https://stickershop.line-scdn.net/stickershop/v1/product/9298852/iPhone/main_animation@2x.png?v=1" alt="Avatar">
-    <a href="https://whatsapp.com/channel/0029VaiPYBPLo4heVf0U3u2d" rel="nofollow noopener noreferrer" target="_blank" class="botao-whatsapp">Seguir</a>
+    
    </div>
   </header>
   <section class="perfil-container">
-   <h1 class="perfil-nome">Tisha News</h1>
-   <p class="perfil-descricao">Blog revelador e irreverente da Tisha, a lagartixa jornalista. Fofocas políticas e bastidores do poder. Descubra os segredos mais bem guardados da política!</p>
-   <p class="perfil-seguidores">334 mil seguidores</p>
-  </section>
+    <div class="perfil-header">
+        <h1 class="perfil-nome">Tisha News</h1>
+        <a href="https://whatsapp.com/channel/0029VaiPYBPLo4heVf0U3u2d" rel="nofollow noopener noreferrer" target="_blank" class="botao-whatsapp">Seguir</a>
+    </div>
+    <p class="perfil-descricao">Blog revelador e irreverente da Tisha, a lagartixa jornalista. Fofocas políticas e bastidores do poder. Descubra os segredos mais bem guardados da política!</p>
+    <p class="perfil-seguidores">334 mil seguidores</p>
+</section>
+
   <main class="container">
    <div class="cartao-artigo">
     <a href="https://tisha.geanramos.com.br/ovo-treta-e-praia-o-brasil-pegando-fogo-nesta-sexta">
