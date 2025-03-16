@@ -40,7 +40,7 @@ Sidônio, meu filho, boa sorte nessa missão!
 
 
 ### **💰 POLÍTICO SENDO POLÍTICO! MAIS UM ESQUEMA DESCOBERTO**
-![enter image description here](https://i1.wp.com/blogdeolhonacidade.com.br/wp-content/uploads/b6c85dfa-54385016685_373ea5ea7b_o-1200x675.jpg?resize=750,375)
+![POLÍTICO SENDO POLÍTICO! MAIS UM ESQUEMA DESCOBERTO](https://i1.wp.com/blogdeolhonacidade.com.br/wp-content/uploads/b6c85dfa-54385016685_373ea5ea7b_o-1200x675.jpg?resize=750,375)
 E quem não poderia faltar no noticiário da semana? 
 Ele, Davi Alcolumbre! A jornalista **Constança Rezende, da Folha**, revelou que o senador destinou **R$ 15 milhões** para uma ONG ligada a um assessor seu.
 
@@ -53,7 +53,7 @@ E Alcolumbre? Disse que ficou surpreso e que **não vê nenhum conflito de inter
 
 
 ### **🍼 ALESP É UM BERÇÁRIO DE NEPOTISMO**
-[ALESP É UM BERÇÁRIO DE NEPOTISMO](https://i1.wp.com/diariomsnews.com.br/wp-content/uploads/2021/07/ilustracao-nepotismo.jpg?resize=750,450)
+![ALESP É UM BERÇÁRIO DE NEPOTISMO](https://i1.wp.com/diariomsnews.com.br/wp-content/uploads/2021/07/ilustracao-nepotismo.jpg?resize=750,450)
 Se tem uma coisa que a **Assembleia Legislativa de São Paulo (Alesp)** faz bem, é cuidar dos amigos e parentes. **Quase 80% dos cargos foram preenchidos por indicação política**, ou seja, irmão ajudando irmão, primo nomeando primo, e assim vai.
 
 Até o governador Tarcísio de Freitas, o **Thorcisio**, deu um jeitinho. No ano passado, ele nomeou **Maurício Pozzobon** (casado com a cunhada dele) como assessor. Pegou mal e ele voltou atrás. Mas daí, um deputado do mesmo partido o contratou como **assessor especial ganhando R$ 23 mil por mês**.
