@@ -7,6 +7,10 @@
   <link rel="icon" href="https://i1.wp.com/incrediville.co/wp-content/uploads/2020/10/cropped-Fav_new-192x192.png" sizes="192x192" />
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap" rel="stylesheet">
   <style>
+      @font-face {
+        font-family: 'Chomsky';
+        src: url('https://dev.geanramos.com.br/18011975/Chomsky.otf') format('opentype');
+      }
    :root {
     --font-family-base: 'Poppins', 'Segoe UI', Roboto, Arial, sans-serif;
     --cor-fundo: #f5f8fa;
@@ -75,17 +79,12 @@
    }
 
    .perfil-nome {
+    font-family: 'Chomsky', var(--font-family-base);
     font-size: 1.8em;
     font-weight: bold;
     margin: 0;
-   }
-
-   .perfil-descricao {
-    font-size: var(--tamanho-fonte-md);
-    color: var(--cor-cinza);
-    margin: var(--espacamento-sm) 0;
-   }
-
+    }
+        
    .perfil-seguidores {
     font-size: var(--tamanho-fonte-md);
     color: var(--cor-cinza);
