@@ -14,7 +14,7 @@ layout: null
     <email>{{ site.author.email }}</email>
   </author>
 
-  {% for post in site.posts limit: 100 %}
+  {% for post in site.posts limit: 12 %}
   <entry>
     <title>{{ post.title }}</title>
     <link href="{{ site.url }}{{ post.url }}"/>
@@ -27,7 +27,7 @@ layout: null
         {{ post.excerpt | strip_html | strip_newlines | truncate: 160 }}
       {% endif %}
     </summary>
-    <content type="html">{{ post.content | xml_escape }}</content>
+    
     {% if post.image %}
       <media:content url="{{ post.image | absolute_url }}" medium="image" />
     {% endif %}
