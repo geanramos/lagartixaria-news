@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tisha News</title>
+    <link rel="icon" href="https://i1.wp.com/incrediville.co/wp-content/uploads/2020/10/cropped-Fav_new-192x192.png" sizes="192x192" />
+    <style>
+        :root {
+            --font-family-base: 'Segoe UI', Roboto, Arial, sans-serif;
+            --cor-fundo: #f5f8fa;
+            --cor-header: #2d3649;
+            --cor-primaria: #1da1f2;
+            --cor-secundaria: #292f33;
+            --cor-branca: #fcfcfc;
+            --cor-cinza: #b7b7b7;
+            --borda-arredondada: 8px;
+            --tamanho-fonte-md: 16px;
+            --tamanho-fonte-lg: 20px;
+            --espacamento-sm: 10px;
+            --espacamento-md: 20px;
+        }
+
+        body {
+            font-family: var(--font-family-base);
+            background-color: var(--cor-fundo);
+            margin: 0;
+            padding: 0;
+            color: var(--cor-secundaria);
+        }
+
+        header {
+            background-color: #f5f8fa;
+        }
+
+        .capa-container {
+            max-width: 768px;
+            margin: 0 auto;
+            height: auto;
+        }
+
+        .capa {
+            width: 100%;
+            height: 276px;
+            object-fit: cover;
+        }
+
+        .avatar-container {
+            /*! position: relative; */
+            max-width: 768px;
+            margin: -40px auto 0;
+            display: flex;
+            align-items: flex-end;
+            background: #fcfcfc;
+        }
+
+        .avatar {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            border: 2px solid var(--cor-branca);
+            margin-left: var(--espacamento-md);
+        }
+
+        .perfil-container {
+            text-align: left;
+            padding: var(--espacamento-md);
+            max-width: 728px;
+            margin: 0 auto;
+            background-color: #fff;
+            border-bottom-left-radius: var(--borda-arredondada);
+            border-bottom-right-radius: var(--borda-arredondada);
+            z-index: 1;
+        }
+
+        .perfil-nome {
+            font-size: var(--tamanho-fonte-lg);
+            font-weight: bold;
+            margin: 0;
+        }
+
+        .perfil-descricao {
+            font-size: var(--tamanho-fonte-md);
+            color: var(--cor-cinza);
+            margin: var(--espacamento-sm) 0;
+        }
+
+        .perfil-seguidores {
+            font-size: var(--tamanho-fonte-md);
+            color: var(--cor-cinza);
+        }
+
+        .container {
+            max-width: 728px;
+            margin: var(--espacamento-md) auto;
+            background-color: var(--cor-branca);
+            border-radius: var(--borda-arredondada);
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            padding: var(--espacamento-md);
+        }
+
+.cartao-artigo {
+    display: flex;
+    margin-bottom: 0; /* Diminui o espaço entre os posts */
+    padding-bottom: var(--espacamento-sm);
+}
+
+
+        .cartao-artigo img {
+            width: 112px;
+            height: auto;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+
+        .cartao-artigo a {
+            text-decoration: none;
+            color: inherit;
+        }
+
+        .conteudo-artigo {
+            margin-left: var(--espacamento-sm);
+        }
+
+        .conteudo-artigo h3 {
+            font-size: var(--tamanho-fonte-md);
+            margin: 0 0 var(--espacamento-sm) 0;
+            color: var(--cor-secundaria);
+        }
+
+        .conteudo-artigo p {
+            font-size: var(--tamanho-fonte-md);
+            margin: 0;
+            color: var(--cor-cinza);
+        }
+
+        footer {
+            max-width: 728px;
+            background-color: var(--cor-header);
+            color: var(--cor-branca);
+            text-align: center;
+            padding: var(--espacamento-md);
+            margin: var(--espacamento-md) auto;
+            border-radius: var(--borda-arredondada);
+        }
+
+        a {
+            color: var(--cor-primaria);
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+.avatar-container {
+    max-width: 768px;
+    margin: -40px auto 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #fff;
+}
+
+.botao-whatsapp {
+    background-color: #06c755;
+    color: white;
+    text-decoration: none;
+    padding: 6px 15px;
+    border-radius: 4px;
+    font-size: var(--tamanho-fonte-md);
+    font-weight: bold;
+    margin-right: var(--espacamento-md);
+}
+
+.botao-whatsapp:hover {
+    background-color: rgb(80, 215, 135);
+}
+
+
+    </style>
+</head>
+<body>
+    <header>
+        <div class="capa-container">
+            <img class="capa" src="https://i1.wp.com/cms.rhinoshield.app/public/images/ip_page_incrediville_banner_40ce594894.jpg?resize=768,276" alt="Capa">
+        </div>
+        <div class="avatar-container">
+    <img class="avatar" src="https://stickershop.line-scdn.net/stickershop/v1/product/9298852/iPhone/main_animation@2x.png?v=1" alt="Avatar">
+    <a href="https://whatsapp.com/channel/0029VaiPYBPLo4heVf0U3u2d" rel="nofollow noopener noreferrer" target="_blank" class="botao-whatsapp">Seguir</a>
+</div>
+
+    </header>
+
+    <section class="perfil-container">
+        <h1 class="perfil-nome">Tisha News</h1>
+        <p class="perfil-descricao">Blog revelador e irreverente da Tisha, a lagartixa jornalista. Fofocas políticas e bastidores do poder. Descubra os segredos mais bem guardados da política!</p>
+        
+
+        <p class="perfil-seguidores">334 mil seguidores</p>
+    </section>
+
+    <main class="container">
+    <div class="cartao-artigo">
+        <a href="https://tisha.geanramos.com.br/ovo-treta-e-praia-o-brasil-pegando-fogo-nesta-sexta">
+            <img src="https://i.ytimg.com/vi/02J7eTNhad0/maxresdefault.jpg" alt="Imagem da publicação">
+        </a>
+        <div class="conteudo-artigo">
+            <a href="https://tisha.geanramos.com.br/ovo-treta-e-praia-o-brasil-pegando-fogo-nesta-sexta">
+                <h3>🔥 Ovo, treta e praia: o Brasil pegando fogo nesta sexta! 🔥</h3>
+            </a>
+            <p>SSSS!</p>
+        </div>
+    </div>
+
+    <div class="cartao-artigo">
+        <a href="https://tisha.geanramos.com.br/crash-pol-mica-e-professor-rob-os-babados-do-dia">
+            <img src="https://i.imgur.com/t9H76yX.jpeg" alt="Imagem da publicação">
+        </a>
+        <div class="conteudo-artigo">
+            <a href="https://tisha.geanramos.com.br/crash-pol-mica-e-professor-rob-os-babados-do-dia">
+                <h3>Crash, polêmica e professor robô: os babados do dia!</h3>
+            </a>
+            <p>Robô dando aula na China, mini-crash em Wall Street e Frei Gilson no centro das polêmicas. Vem entender os bafos que estão bombando! 😱🔥</p>
+        </div>
+    </div>
+
+    <div class="cartao-artigo">
+        <a href="https://tisha.geanramos.com.br/x-caiu-musk-culpa-hackers-e-internet-pira">
+            <img src="https://i.imgur.com/ECEsLRe.jpeg" alt="Imagem da publicação">
+        </a>
+        <div class="conteudo-artigo">
+            <a href="https://tisha.geanramos.com.br/x-caiu-musk-culpa-hackers-e-internet-pira">
+                <h3>X Caiu! Musk Culpa Hackers e Internet Pira 🔥</h3>
+            </a>
+            <p>Elon Musk diz que o X sofreu um ataque cibernético massivo! Hackers, teorias da conspiração e caos total na internet. Vem entender!</p>
+        </div>
+    </div>
+
+    <div class="cartao-artigo">
+        <a href="https://tisha.geanramos.com.br/o-mundo-esta-uma-loucura-001">
+            <img src="https://i.ytimg.com/vi/hWWiIXIqiio/maxresdefault.jpg" alt="Imagem da publicação">
+        </a>
+        <div class="conteudo-artigo">
+            <a href="https://tisha.geanramos.com.br/o-mundo-esta-uma-loucura-001">
+                <h3>O MUNDO ESTÁ UMA LOUCURA! – Edição #001 🌎🔥</h3>
+            </a>
+            <p>O mundo tá um caos e a gente veio fofocar! Guerras, tretas políticas e surpresas bizarras – vem rir (ou chorar) com o resumo mais debochado da semana! 😂🔥</p>
+        </div>
+    </div>
+
+    <div class="cartao-artigo">
+        <a href="https://tisha.geanramos.com.br/narizinho-ministra-pt-em-treta-e-centr-o-dando-perdido">
+            <img src="https://i.imgur.com/HW7oIHd.jpeg" alt="Imagem da publicação">
+        </a>
+        <div class="conteudo-artigo">
+            <a href="https://tisha.geanramos.com.br/narizinho-ministra-pt-em-treta-e-centr-o-dando-perdido">
+                <h3>Narizinho ministra, PT em treta e Centrão dando perdido! 🔥</h3>
+            </a>
+            <p>Gleisi virou ministra, Edinho foi barrado no PT e o Centrão tá saindo de fininho. E ainda tem grana na cueca e iPhones pro tribunal! 🐓💸📱</p>
+        </div>
+    </div>
+
+    <div class="cartao-artigo">
+        <a href="https://tisha.geanramos.com.br/janones-confessa-rachadinha-e-promete-devolver-rs-131-mil">
+            <img src="https://i.ytimg.com/vi/fnSNeGfN-e4/maxresdefault.jpg" alt="Imagem da publicação">
+        </a>
+        <div class="conteudo-artigo">
+            <a href="https://tisha.geanramos.com.br/janones-confessa-rachadinha-e-promete-devolver-rs-131-mil">
+                <h3>Janones e a Rachadinha: Nome Sujo e Cartão Alheio</h3>
+            </a>
+            <p>Deputado Janones confessa rachadinha e promete devolver R$ 157,8 mil. Veja os detalhes dessa novela política.</p>
+        </div>
+    </div>
+
+    <div class="cartao-artigo">
+        <a href="https://tisha.geanramos.com.br/zerar-imposto-de-comida-pode-piorar-e-muito">
+            <img src="https://images.redetv.uol.com.br/public/jornalismo/redetvinoticias/20250306212231lQoPmTteyf.jpg" alt="Imagem da publicação">
+        </a>
+        <div class="conteudo-artigo">
+            <a href="https://tisha.geanramos.com.br/zerar-imposto-de-comida-pode-piorar-e-muito">
+                <h3>Zerar imposto de comida? Pode piorar e muito! 🤯</h3>
+            </a>
+            <p>Zerar imposto de alimentos importados parece bom, mas pode ser um tiro no pé! Veja por que essa medida pode piorar os preços e prejudicar o Brasil.</p>
+        </div>
+    </div>
+
+    <div class="cartao-artigo">
+        <a href="https://tisha.geanramos.com.br/lula-trump-alimentos-caros-agro-pix">
+            <img src="https://i.imgur.com/PyrElsJ.jpeg" alt="Imagem da publicação">
+        </a>
+        <div class="conteudo-artigo">
+            <a href="https://tisha.geanramos.com.br/lula-trump-alimentos-caros-agro-pix">
+                <h3>Lula, Trump: Alimentos caros, agro pistola e Pix em perigo! 😱</h3>
+            </a>
+            <p>Lula quer baixar os preços na marra, governadores não gostaram e Trump segue no modo doido. E o Pix? Pode sumir! 🆘💸</p>
+        </div>
+    </div>
+
+    <div class="cartao-artigo">
+        <a href="https://tisha.geanramos.com.br/homem-pede-comida-e-leva-tiro-em-castanhal">
+            <img src="https://i.imgur.com/N761U3f.jpeg" alt="Imagem da publicação">
+        </a>
+        <div class="conteudo-artigo">
+            <a href="https://tisha.geanramos.com.br/homem-pede-comida-e-leva-tiro-em-castanhal">
+                <h3>Homem pede comida e leva tiro em Castanhal! 😨</h3>
+            </a>
+            <p>Um simples pedido de comida virou caso de polícia! Homem foi baleado ao pedir ajuda em Castanhal. O que está acontecendo com o mundo? 😨</p>
+        </div>
+    </div>
+
+    <div class="cartao-artigo">
+        <a href="https://tisha.geanramos.com.br/133-para-1">
+            <img src="https://i.imgur.com/OFff4Te.jpeg" alt="Imagem da publicação">
+        </a>
+        <div class="conteudo-artigo">
+            <a href="https://tisha.geanramos.com.br/133-para-1">
+                <h3>133 trabalhadores bancam 1 deputado! Vale a pena? 🏛️</h3>
+            </a>
+            <p>133 brasileiros precisam trabalhar o ano todo para sustentar 1 deputado. 😱</p>
+        </div>
+    </div>
+</main>
+    <footer>
+        <p>© 2025 Gean Ramos</p>
+    </footer>
+</body>
+</html>
