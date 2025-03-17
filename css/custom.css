@@ -266,8 +266,13 @@ html[dark-mode="yes"] .tn-whatsapp-info {
 /* Link para a fonte */
 
   @font-face {
-    font-family: 'Chomsky';
-    src: url('https://dev.geanramos.com.br/18011975/Chomsky.otf') format('opentype');
+  font-family: 'Chomsky';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Chomsky Regular'), local('Chomsky-Regular'),
+    url(https://cdn.jsdelivr.net/gh/geanramos/18011975/Chomsky.otf)
+      format('opentype');
+  font-display: swap;
   }
 
   /* Aplicando a fonte no título */
