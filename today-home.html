@@ -130,9 +130,18 @@
 
    .conteudo-artigo h3 {
     font-size: var(--tamanho-fonte-md);
-    margin: 0 0 var(--espacamento-sm) 0;
-    color: var(--cor-secundaria);
+    margin: 0 0 var(--espacamento-sm) 0;    
    }
+   
+   .conteudo-artigo a h3 {
+    color: #008a3c;
+    text-decoration: none;
+    }
+    
+    .conteudo-artigo a h3:hover {
+    color: #06C755;
+    text-decoration: none;
+    }
 
    .conteudo-artigo p {
     font-size: var(--tamanho-fonte-md);
@@ -151,26 +160,17 @@
     font-weight: 700;
     }
     
-.footer a:hover {
-  color: #d5d5d5;
-}
+    .footer a:hover {
+    color: #d5d5d5;
+    }
 
    a {
-    color: #008a3c;
+    color: var(--cor-primaria);
     text-decoration: none;
    }
 
    a:hover {
     text-decoration: none;
-   }
-   
-   .post-container a {
-    color: #008a3c;
-    text-decoration: none;
-   }
-
-   h3:hover {
-    color: #008a3c;
    }
 
    .avatar-container {
