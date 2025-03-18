@@ -1,6 +1,6 @@
 ---
 title: "Lula, IR e o Circo Político: Quem Domará os Leões?"
-date: 2025-03-02 11:32:00 -03:00
+date: 2025-03-17 19:32:00 -03:00
 description: "Lula tenta domar leões com isenção do IR, Congresso briga por emendas, e Bolsonaro infla números de atos. O circo político está armado!"
 tags: [politica]
 image: "https://i.imgur.com/UnOLimx.png"
