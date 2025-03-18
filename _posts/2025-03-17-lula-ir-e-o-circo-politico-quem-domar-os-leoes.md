@@ -5,6 +5,9 @@ description: "Lula tenta domar leões com isenção do IR, Congresso briga por e
 tags: [politica]
 image: "https://i.imgur.com/UnOLimx.png"
 ---
+<audio id="player-audio" controls>
+<source src="./audio/2025-03-17-lula-ir-e-o-circo-politico-quem-domar-os-leoes-p1.mp3" type="audio/mpeg">
+</audio>
 
 **Os Leões que Lula Vai Ter que Domar – E o Que Mais Rola no Circo Político!**
 
@@ -43,7 +46,9 @@ Parece que Lula está empolgado e quer mais do que só cortar impostos. Ele já 
 
 Coincidência ou não, tudo isso começa a valer em **ano eleitoral**. Então já dá para ver qual é o plano, né?
 
-
+<audio id="player-audio" controls>
+<source src="./audio/2025-03-17-lula-ir-e-o-circo-politico-quem-domar-os-leoes-p2.mp3" type="audio/mpeg">
+</audio>
 
 ### 🗣 **E O Ventinho Favorável... Armínio Fraga Afaga!**
 
@@ -83,7 +88,9 @@ Mas parece que a fala dele não pegou muito bem entre os ministros do STF. Afina
 
 Enquanto isso, outros governadores bolsonaristas, como Zema e Caiado, preferiram **ficar de fora do evento**. E por quê? Simples: eles querem ser candidatos à presidência em 2026 e não querem ficar presos à sombra de Bolsonaro.
 
-
+<audio id="player-audio" controls>
+<source src="./audio/2025-03-17-lula-ir-e-o-circo-politico-quem-domar-os-leoes-p3.mp3" type="audio/mpeg">
+</audio>
 
 ### 🌎 **TrumpNews – O Show de Horrores Continua**
 
