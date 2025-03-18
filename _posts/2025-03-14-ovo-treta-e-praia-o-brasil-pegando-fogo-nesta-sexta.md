@@ -1,7 +1,7 @@
 ---
 title: "🔥 Ovo, treta e praia: o Brasil pegando fogo nesta sexta! 🔥"
 date: 2025-03-14 13:12:00 -03:00
-description: "SSSS!"
+description: "Nepotismo na Alesp, trio bolsonarista na praia e Maduro entregando terras ao MST. Sexta-feira cheia de tretas e polêmicas no Brasil e além!"
 tags: [politica]
 image: "https://i.ytimg.com/vi/02J7eTNhad0/maxresdefault.jpg"
 ---
@@ -50,7 +50,9 @@ Ah, e o tal assessor envolvido, **Jardel Adailton Souza Nunes**, já foi secret�
 
 E Alcolumbre? Disse que ficou surpreso e que **não vê nenhum conflito de interesses**. Ah, bom! Então tá, né?
 
-
+<audio id="player-audio" controls>
+<source src="./audio/ovo-treta-e-praia-o-brasil-pegando-fogo-nesta-sexta-p2.mp3" type="audio/mpeg">
+</audio>
 
 ### **🍼 ALESP É UM BERÇÁRIO DE NEPOTISMO**
 ![ALESP É UM BERÇÁRIO DE NEPOTISMO](https://i1.wp.com/diariomsnews.com.br/wp-content/uploads/2021/07/ilustracao-nepotismo.jpg?resize=750,450)
@@ -99,3 +101,12 @@ Agora que você já sabe de todas as tretas do dia, **pode curtir sua sexta-feir
 Afinal, como diria aquele ditado: **"Nada é tão ruim que não possa piorar na semana que vem"**.
 
 Agora vai, aproveita o fim de semana e se prepara porque segunda-feira tem mais babado! 🔥😎
+
+---
+
+### **Categorias:**
+1.  Política  
+2.  Nepotismo
+3.  Protestos
+4.  América Latina
+5.  Atualidades
