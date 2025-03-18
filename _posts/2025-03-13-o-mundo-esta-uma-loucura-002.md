@@ -6,16 +6,7 @@ tags: [politica]
 image: "https://i.ytimg.com/vi/hWWiIXIqiio/maxresdefault.jpg"
 ---
 
-
-title: "O MUNDO ESTÁ UMA LOUCURA! – Edição  #002 🌎🔥"
-date: 2025-03-13 15:32:00 -03:00
-description: "Milei, Zelensky, Israel, Ucrânia, Sudão do Sul… e um planeta prestes a explodir! 💣"
-tags: [politica]
-image: "https://i.imgur.com/UnOLimx.png"
-
-
-
-#### 1. Tragédia Anunciada na Síria: O Inferno Começou  
+### 1. Tragédia Anunciada na Síria: O Inferno Começou  
 
 Lembra quando eu disse que o novo presidente da Síria, Ahmed al-Shara, tinha um histórico meio, digamos… sombrio? Pois bem, essa semana ele resolveu mostrar exatamente do que é feito.  
 
