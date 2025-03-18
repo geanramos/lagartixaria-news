@@ -94,7 +94,7 @@ Fique de olho, porque no ritmo que estamos, semana que vem pode ser ainda mais c
 
 ---
 
-##### 🏷️ Categorias:  
+### 🏷️ Categorias:  
 1. Notícias Internacionais  
 2. Política Global  
 3. Atualidades  
