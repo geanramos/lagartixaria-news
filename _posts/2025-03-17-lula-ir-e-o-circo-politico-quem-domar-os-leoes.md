@@ -104,3 +104,12 @@ E assim começa mais uma semana no nosso querido Brasilzão! Lula tentando domar
 Se isso tudo foi só **segunda-feira**, imagina o que ainda vem por aí!
 
 Agora descansa, darling, porque amanhã tem mais fofoca política fresquinha pra gente! 💅💥 Boa noite e um beijo da Tisha.
+
+---
+
+### **Categorias**
+1. Política Nacional  
+2. Economia e Impostos  
+3. Congresso e Emendas  
+4. Protestos e Manifestações  
+5. Relações Internacionais  
