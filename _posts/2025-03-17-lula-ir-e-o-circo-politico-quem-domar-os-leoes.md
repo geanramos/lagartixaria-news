@@ -94,7 +94,7 @@ Enquanto isso, outros governadores bolsonaristas, como Zema e Caiado, preferiram
 
 ### 🌎 **TrumpNews – O Show de Horrores Continua**
 
-Falando em líderes polêmicos, Donald Trump continua sendo um _case_ de como um ex-presidente pode gerar caos.
+Falando em líderes polêmicos, Donald Trump continua sendo um _case_ de presidente que gera caos.
 
 O babado da vez? Ele **mandou deportar 200 venezuelanos para El Salvador**, mesmo depois de um juiz americano dizer que isso era ilegal. E o pior: os advogados do governo justificaram a decisão com base em uma lei de **Guerra do Século XVIII**.
 
