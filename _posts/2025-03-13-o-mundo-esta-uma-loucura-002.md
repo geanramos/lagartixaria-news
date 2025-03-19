@@ -5,6 +5,11 @@ description: "Milei, Zelensky, Israel, Ucrânia, Sudão do Sul… e um planeta p
 tags: [politica]
 image: "https://i.ytimg.com/vi/hWWiIXIqiio/maxresdefault.jpg"
 ---
+<audio id="player-audio" controls="">
+<source src="./audio/o-mundo-esta-uma-loucura-002-p1.mp3" type="audio/mpeg" />
+Seu navegador não suporta áudio.
+</audio>
+<p><br /></p>
 
 ### 1. Tragédia Anunciada na Síria: O Inferno Começou  
 
@@ -31,7 +36,11 @@ Se você achava que a situação na Síria já era o suficiente pra perder a fé
 
 Resumindo: o Oriente Médio continua um jogo de xadrez onde todo mundo só tem peças de ataque.  
 
-
+<audio id="player-audio" controls="">
+<source src="./audio/o-mundo-esta-uma-loucura-002-p2.mp3" type="audio/mpeg" />
+Seu navegador não suporta áudio.
+</audio>
+<p><br /></p>
 
 #### 3. Ucrânia e a Trégua que Não Existe  
 
