@@ -31,7 +31,11 @@ Se você achava que a situação na Síria já era o suficiente pra perder a fé
 
 Resumindo: o Oriente Médio continua um jogo de xadrez onde todo mundo só tem peças de ataque.  
 
+---
 
+🌟 Receba as principais notícias direto no seu WhatsApp! <a href="https://www.whatsapp.com/channel/0029VaiPYBPLo4heVf0U3u2d" target="_blank" rel="noopener noreferrer">Siga o canal da Tisha</a> 📲
+
+---
 
 #### 3. Ucrânia e a Trégua que Não Existe  
 
@@ -43,15 +47,13 @@ Em uma jogada digna de um roteiro ruim de Hollywood, **Zelensky anunciou uma tr�
 
 Enquanto isso, **a Ucrânia perdeu Sudzha**, sua última base importante dentro da Rússia, o que significa que qualquer chance de negociação com Putin ficou ainda mais distante. A cada dia, o tabuleiro muda, mas o final da história segue incerto.  
 
----
-
 🌟 Receba as principais notícias direto no seu WhatsApp! <a href="https://www.whatsapp.com/channel/0029VaiPYBPLo4heVf0U3u2d" target="_blank" rel="noopener noreferrer">Siga o canal da Tisha</a> 📲
-
----
 
 #### 4. América Latina: Milei, Noboa e o Caos  
 
 A América Latina nunca decepciona no quesito “reviravoltas políticas”:  
+
+![](https://cdn.eldestapeweb.com/eldestape/032025/1741820120127.webp?cw=676&ch=408&ma=23&extw=jpg)
 
 - **Argentina** – Milei resolveu mostrar que não está pra brincadeira e mandou a polícia descer o cacete em aposentados que protestavam contra a reforma da previdência. Entre os feridos, **uma professora de 87 anos** foi hospitalizada.  
 - **Equador** – O presidente Daniel Noboa chamou Erik Prince, o dono da Blackwater (aquela empresa de mercenários com um histórico duvidoso no Iraque), pra cuidar da segurança pública. O que pode dar errado, né?  
@@ -63,6 +65,8 @@ Milei, Noboa e Arce parecem estar competindo pra ver quem toma as decisões mais
 
 #### 5. Sudão do Sul: À Beira do Colapso  
 
+![](https://i1.wp.com/gdb.voanews.com/04a5d7ad-175a-45a1-bf48-a11ad0624d4a_w1023_r1_s.jpg?resize=676,408)
+
 Se tem um lugar no mundo onde a coisa sempre parece estar prestes a explodir, esse lugar é o Sudão do Sul.  
 
 O presidente **Salva Kiir** e o vice **Riek Machar**, que já protagonizaram uma guerra civil entre si, voltaram a tretar. Kiir demitiu membros do governo sem consultar Machar, violando um acordo de paz, e agora tropas ugandesas estão “misteriosamente” aparecendo na capital Juba.  
@@ -73,22 +77,27 @@ A ONU já perdeu até a paciência e tá evacuando pessoal. Se isso virar uma no
 
 #### 6. Europa: Portugal Sem Governo e Armênia nos BRICS?!  
 
+![](https://i1.wp.com/revistaforum.com.br/u/fotografias/m/2025/3/12/f960x540-146189_220264_5050.jpg?resize=676,408)
+
 Na Europa, os eventos dessa semana foram dignos de um bom reality show:  
 
 - **Portugal perdeu seu governo** – Eleições em maio, e tudo indica que o Partido Socialista deve voltar ao poder.  
 - **A União Europeia quer confiscar bens russos** – E usar essa grana pra reforçar seu exército. Se é legal ou não? Quem liga!  
 - **A Polônia quer armas nucleares** – Porque claro, é disso que o mundo precisa.  
-- **A Armênia quer entrar nos BRICS** – O país vem se afastando da Rússia e flertando com o Ocidente, mas parece que ainda quer manter um pezinho no outro lado.  
+- **https://revistaforum.com.br/global/2025/3/12/pais-transcontinental-com-laos-historicos-com-brasil-quer-entrar-para-os-brics-175562.html A Armênia quer entrar nos BRICS** – O país vem se afastando da Rússia e flertando com o Ocidente, mas parece que ainda quer manter um pezinho no outro lado.  
 
 E a Groenlândia? Bom, **28 mil pessoas votaram por uma independência gradual da Dinamarca**, e Trump deve estar espumando de raiva porque não conseguiu comprar o território quando era presidente.  
 
 
 
-#### 7. Pacífico: Um Oásis de Tédio  
+#### 7. Pacífico: Um Oásis de Tédio 
+ 
+
+![](https://i1.wp.com/s3.observador.pt/wp-content/uploads/2025/03/12070637/44569089.jpg?resize=676,408)
 
 Se você quer uma região do mundo onde *nada* de relevante aconteceu essa semana, parabéns, você encontrou: **O Pacífico!**  
 
-A única notícia é que a Groenlândia teve eleições e decidiu que quer ser independente… devagarinho.  
+A única notícia é que a Groenlândia teve eleições e decidiu que quer ser independente… https://observador.pt/2025/03/12/partido-da-oposicao-e-independentista-moderado-vence-eleicoes-na-gronelandia/ devagarinho.  
 
 Fora isso, silêncio total.  
 
