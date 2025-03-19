@@ -1,3 +1,4 @@
+
 ---
 title: "O MUNDO ESTÁ UMA LOUCURA! – Edição  #002 🌎🔥"
 date: 2025-03-13 15:32:00 -03:00
@@ -8,6 +9,8 @@ image: "https://i.ytimg.com/vi/hWWiIXIqiio/maxresdefault.jpg"
 
 ### 1. Tragédia Anunciada na Síria: O Inferno Começou  
 
+![Tragédia Anunciada na Síria: O Inferno Começou](https://i1.wp.com/media.shafaq.com/media/arcella/1741785890541.jpg?resize=676,408)
+
 Lembra quando eu disse que o novo presidente da Síria, Ahmed al-Shara, tinha um histórico meio, digamos… sombrio? Pois bem, essa semana ele resolveu mostrar exatamente do que é feito.  
 
 Um massacre brutal deixou **1.300 civis mortos em Latakia**, a maioria deles alauítas, e jogou ainda mais caos no tabuleiro geopolítico. Milhares fugiram para o Líbano, enquanto o novo governo sírio, recheado de ex-combatentes de grupos radicais, parece mais interessado em exterminar minorias do que em reconstruir o país.  
@@ -17,6 +20,8 @@ E não para por aí! Enquanto a Síria desmorona, Israel está ali de canto, pro
 
 
 #### 2. Oriente Médio Pegando Fogo 🔥  
+
+![Oriente Médio Pegando Fogo](https://i1.wp.com/substack-post-media.s3.amazonaws.com/public/images/645bed94-0f8a-46da-929f-f53d11bf0e63_1023x575.jpeg?resize=676,408")
 
 Se você achava que a situação na Síria já era o suficiente pra perder a fé na humanidade, segura essa:  
 
@@ -31,13 +36,19 @@ Resumindo: o Oriente Médio continua um jogo de xadrez onde todo mundo só tem p
 
 #### 3. Ucrânia e a Trégua que Não Existe  
 
+![](https://i1.wp.com/substack-post-media.s3.amazonaws.com/public/images/1dd05411-8867-4819-99a5-2f05087716fc_2000x1333.jpeg?resize=676,408)
+
 Agora, o prêmio de “maior piada geopolítica da semana” vai para… **a Ucrânia!** 🎉  
 
 Em uma jogada digna de um roteiro ruim de Hollywood, **Zelensky anunciou uma trégua… com os EUA**. Sim, você leu certo. Uma trégua unilateral, onde só um lado para de lutar, e o outro segue o baile. Rússia? Nem convidaram pra conversa.  
 
 Enquanto isso, **a Ucrânia perdeu Sudzha**, sua última base importante dentro da Rússia, o que significa que qualquer chance de negociação com Putin ficou ainda mais distante. A cada dia, o tabuleiro muda, mas o final da história segue incerto.  
 
+---
+
 🌟 Receba as principais notícias direto no seu WhatsApp! <a href="https://www.whatsapp.com/channel/0029VaiPYBPLo4heVf0U3u2d" target="_blank" rel="noopener noreferrer">Siga o canal da Tisha</a> 📲
+
+---
 
 #### 4. América Latina: Milei, Noboa e o Caos  
 
