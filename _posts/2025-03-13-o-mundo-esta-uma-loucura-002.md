@@ -1,4 +1,3 @@
-
 ---
 title: "O MUNDO ESTÁ UMA LOUCURA! – Edição  #002 🌎🔥"
 date: 2025-03-13 15:32:00 -03:00
