@@ -18,6 +18,13 @@ Nos últimos dias, a internet se tornou um verdadeiro quadro vivo das animaçõe
 
 Vamos desvendar tudo isso juntos! 👀
 
+---
+
+🌟 Receba as principais notícias direto no seu WhatsApp! <a href="https://www.whatsapp.com/channel/0029VaiPYBPLo4heVf0U3u2d" target="_blank" rel="noopener noreferrer">Siga o canal da Tisha</a> 📲
+
+---
+
+
  🎭 **A Internet Virou um Anime**
 
 A febre começou quando a **OpenAI liberou um recurso no ChatGPT** que transformava imagens comuns em ilustrações dignas de "A Viagem de Chihiro". Em menos de 24 horas, o feed das redes sociais foi tomado por essa trend.
