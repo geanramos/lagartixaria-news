@@ -81,7 +81,7 @@ Agora, a parte mais esperada: **como você pode criar suas próprias imagens no 
 
 
 
- ### **📌 Como Criar Imagens no Estilo Ghibli Usando IA**
+### **📌 Como Criar Imagens no Estilo Ghibli Usando IA**
 
 Se você também quer surfar nessa onda e transformar suas fotos em arte, siga este pequeno tutorial!
 
