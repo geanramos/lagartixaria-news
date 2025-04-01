@@ -3,7 +3,7 @@ title: "A Trend do Studio Ghibli: Como Criar Suas Próprias Imagens"
 date: 2025-04-01 10:34:00 -03:00
 description: "A internet virou um anime! Veja como transformar suas fotos no estilo Studio Ghibli com IA e surfe na trend do momento. 🎨✨"
 tags: [tecnologia]
-image: "https://media.beehiiv.com/uploads/asset/file/117e0eea-f1f4-4794-8935-75520640c1de/Copy_of_media_kit_update_diario__3___1___1_.jpg"
+image: "https://i1.wp.com/media.beehiiv.com/uploads/asset/file/117e0eea-f1f4-4794-8935-75520640c1de/Copy_of_media_kit_update_diario__3___1___1_.jpg?resize=700,393"
 ---
 
 <audio id="player-audio" controls="">
