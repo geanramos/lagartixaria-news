@@ -8,7 +8,6 @@ image: "https://media.beehiiv.com/uploads/asset/file/117e0eea-f1f4-4794-8935-755
 
 <audio id="player-audio" controls="">
 <source src="./audio/a-trend-do-studio-ghibli-p1.mp3" type="audio/mpeg" />
-Seu navegador não suporta áudio.
 </audio>
 <p><br /></p>
 
@@ -72,6 +71,11 @@ Isso levanta um grande debate: **onde fica o limite entre inspiração e apropri
  🔥 **A Explosão do ChatGPT com a Trend do Studio Ghibli**
 
 Se tem uma coisa que essa trend provou, foi o **poder da inteligência artificial no entretenimento**. Sam Altman, CEO da OpenAI, revelou que, em apenas UMA HORA, o ChatGPT **ganhou 1 milhão de novos usuários** por conta desse gerador de imagens! 😱
+
+<audio id="player-audio" controls="">
+<source src="./audio/a-trend-do-studio-ghibli-p2.mp3" type="audio/mpeg" />
+</audio>
+<p><br /></p>
 
 O problema? A OpenAI não esperava tamanha demanda e precisou limitar o acesso ao recurso. Usuários gratuitos do ChatGPT agora só podem gerar **três imagens por dia**.
 
