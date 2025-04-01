@@ -133,10 +133,10 @@ Agora, é a sua vez! Corre lá e cria a sua! 🚀
  
 ---
 
-## **📌 Categorias**
+**📌 Categorias**
 
-1.  **Tecnologia e IA**
-2.  **Tendências da Internet**
-3.  **Artes e Design Digital**
-4.  **Tutoriais e Dicas**
-5.  **Entretenimento e Cultura Pop**
+1.  Tecnologia e IA
+2.  Tendências da Internet
+3.  Artes e Design Digital
+4.  Tutoriais e Dicas
+5.  Entretenimento e Cultura Pop
