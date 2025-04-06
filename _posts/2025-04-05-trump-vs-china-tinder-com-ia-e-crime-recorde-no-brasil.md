@@ -6,18 +6,6 @@ tags: [mundo]
 image: "https://i.imgur.com/cKj3Eu2.jpeg"
 ---
 
-☕️ **Resumo da fofoca global da semana**:
-
-| FATO | RESUMO |
-|------|--------|
-| Meituan vs iFood | Delivery internacional chegando com tudo no Brasil |
-| Crime organizado | Faturando mais que multinacional |
-| Trump x China | Mercado em pânico, trilhões evaporando |
-| Tinder com IA | Agora dá pra flertar com robô (sem medo de vergonha) |
-| TikTok | Briga bilionária entre gigantes pra ver quem leva a rede de dancinha |
-
----
-
 # 🌍📲🍜 *Delivery bilionário, guerra tarifária, paquera com IA e uma disputa pelo TikTok que parece reality show*  
 
 ### Por Tisha News – sua amiga que te explica o colapso mundial como se fosse uma fofoca de bar 🍻
