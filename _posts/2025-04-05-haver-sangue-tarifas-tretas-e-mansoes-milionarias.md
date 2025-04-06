@@ -8,15 +8,16 @@ image: "https://i.imgur.com/fMbI4ZK.jpeg"
 
 💣 Haverá Sangue: colapso global, quotes surreais e Brasil sendo Brasil.
 
-<audio id="player-audio" controls>
-<source src="./audio/haver-sangue-tarifas-tretas-e-mansoes-milionarias.mp3" type="audio/mpeg">
-</audio><p>
         
 Prepare seu café, chá ou Rivotril porque o noticiário da semana foi mais caótico que final de novela mexicana. Teve bolsa derretendo, China tretando com os EUA, Milei sendo ignorado em solo americano, Lula no modo "culpa do governo anterior", Nikolas fazendo comparações que dariam zero em qualquer redação do Enem, e Lira comprando mansão de R$ 10 milhões com um salário que mal paga a faxina da casa.
 
 Então respira fundo, *darling*, porque a Tisha News vai destrinchar tudo isso com carinho, caos e um pouquinho de cinismo.
 
 ---
+
+<audio id="player-audio" controls>
+<source src="./audio/haver-sangue-tarifas-tretas-e-mansoes-milionarias.mp3" type="audio/mpeg">
+</audio>
 
 ### 📉 Wall Street em chamas: o tarifaço de Trump
 
