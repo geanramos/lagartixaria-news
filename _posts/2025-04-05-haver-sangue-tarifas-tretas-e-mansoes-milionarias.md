@@ -75,7 +75,7 @@ Mas talvez ele tenha se calado porque desde o tarifaço, a **Tesla** caiu 16% em
 
 ### 🇧🇷 Lula, Nikolas, Lira e Caiado: o Brasil em modo novela
 
-![enter image description here](https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/03/img20230310101155780-e1678916502867.jpg?w=767&h=408&crop=1&quality=85)
+![](https://i3.wp.com/tisha.geanramos.com.br/img/ChatGPT_Image_2025-04-05.png?resize=767,500)
 
 E do outro lado do hemisfério, no nosso abençoado Brasil, o circo segue armado:
 
