@@ -1,4 +1,12 @@
-# 💣 Haverá Sangue: colapso global, quotes surreais e Brasil sendo Brasil
+---
+title: "Haverá sangue: tarifas, tretas e mansões milionárias"
+date: 2025-04-05 13:43:00 -03:00
+description: "mercado em pânico, frases sem noção e o Brasil provando que a realidade pode ser mais bizarra que a ficção"
+tags: [noticia]
+image: "https://i.imgur.com/fMbI4ZK.jpeg"
+---
+
+💣 Haverá Sangue: colapso global, quotes surreais e Brasil sendo Brasil
 
 Prepare seu café, chá ou Rivotril porque o noticiário da semana foi mais caótico que final de novela mexicana. Teve bolsa derretendo, China tretando com os EUA, Milei sendo ignorado em solo americano, Lula no modo "culpa do governo anterior", Nikolas fazendo comparações que dariam zero em qualquer redação do Enem, e Lira comprando mansão de R$ 10 milhões com um salário que mal paga a faxina da casa.
 
@@ -6,7 +14,7 @@ Então respira fundo, *darling*, porque a Tisha News vai destrinchar tudo isso c
 
 ---
 
-## 📉 Wall Street em chamas: o tarifaço de Trump
+### 📉 Wall Street em chamas: o tarifaço de Trump
 
 Começamos com o velho e conhecido agente do caos: **Donald Trump**, o presidente comediante favorito da América. Ele resolveu reestrear sua campanha mundial com um **tarifaço de responsa**, atingindo importações de diversos países — especialmente, claro, a **China**.
 
@@ -23,7 +31,7 @@ Agora, o mundo corporativo inteiro tá igual aquele meme da Nazaré com os cálc
 
 ---
 
-## 🏭 Make China Great Again?
+### 🏭 Make China Great Again?
 
 Quem deu um lacre digno de reality foi o jornalista **Thomas Friedman**, do *New York Times*. Ele escreveu um artigo dizendo que o futuro **não inclui os Estados Unidos**, e contou como a China, ao invés de chorar com os boicotes americanos, fez o quê? Investiu pesado em tecnologia e inteligência artificial.
 
@@ -36,7 +44,7 @@ E olha, do jeito que as coisas andam, Make China Great Again tá mais perto do q
 
 ---
 
-## 🤡 Milei no vácuo
+### 🤡 Milei no vácuo
 
 E por falar em América, o presidente argentino **Javier Milei** viajou até os Estados Unidos achando que ia fazer a festa. Levou um terninho, um discurso liberal e a cara de quem achava que ia ganhar um close com Trump.
 
@@ -46,7 +54,7 @@ Nada de foto, nada de reunião. Só uma nota fria dizendo que a Argentina vai re
 
 ---
 
-## 🧏 Musk: o calado é um poeta
+### 🧏 Musk: o calado é um poeta
 
 No meio do escândalo todo, quem resolveu tirar férias das tretas foi ele: **Elon Musk**.  
 Nadinha de tweet, nadinha de polêmica, nem uma figurinha de foguete.  
@@ -56,11 +64,11 @@ Mas talvez ele tenha se calado porque desde o tarifaço, a **Tesla** caiu 16% em
 
 ---
 
-## 🇧🇷 Lula, Nikolas, Lira e Caiado: o Brasil em modo novela
+### 🇧🇷 Lula, Nikolas, Lira e Caiado: o Brasil em modo novela
 
 E do outro lado do hemisfério, no nosso abençoado Brasil, o circo segue armado:
 
-### 🎤 Lula em modo disco arranhado
+#### 🎤 Lula em modo disco arranhado
 
 > “Estamos reconstruindo o país deixado em ruínas pelo governo anterior.”
 
@@ -68,7 +76,7 @@ Mais de dois anos de governo e o **Lulinha paz e amor** ainda tá falando do Bol
 
 ---
 
-### 💄 Nikolas e a fábula do batom
+#### 💄 Nikolas e a fábula do batom
 
 O deputado federal **Nikolas Ferreira** fez um vídeo comparando uma ativista negra dos anos 1950 que desafiou leis segregacionistas com… a cabeleireira que escreveu "Perdeu, mané" de batom numa estátua.
 
@@ -77,7 +85,7 @@ Mas a reação foi tipo: *“Não, Nikolas. Apenas não.”*
 
 ---
 
-### 💰 Lira e a mansão de R$ 10 milhões
+#### 💰 Lira e a mansão de R$ 10 milhões
 
 O presidente da Câmara, **Arthur Lira**, virou notícia por adquirir uma **mansão de R$ 10 milhões** em Brasília.  
 O financiamento? Do **BRB (Banco de Brasília)**, o mesmo que agora está comprando parte do polêmico **Banco Master**.
@@ -86,7 +94,7 @@ O problema? Lira tem salário de deputado de R$ 41 mil, mas a parcela do financi
 
 ---
 
-### 🐎 Caiado 2026 confirmado
+#### 🐎 Caiado 2026 confirmado
 
 E pra fechar, temos **Ronaldo Caiado**, governador de Goiás, já lançando sua candidatura para presidente em 2026.  
 > “Caiado, coragem para endireitar o Brasil.”
@@ -95,7 +103,7 @@ Com essa frase e um sotaque bem cerrado, ele entra oficialmente na fila dos pres
 
 ---
 
-## 🧠 Conclusão: caos, cinismo e o fim de semana chegando
+### 🧠 Conclusão: caos, cinismo e o fim de semana chegando
 
 A semana foi uma montanha-russa de desastres geopolíticos, frases sem noção e política brasileira em sua forma mais pura: **absurda, hilária e ligeiramente preocupante**.
 
@@ -103,3 +111,11 @@ Se o JP Morgan tá dizendo que **"haverá sangue"**, a gente acredita. Mas aqui 
 
 E aí, darling, qual dessas aspas ganhou seu coração essa semana? 💋
 
+---
+
+### **Categorias:**
+1. **Política e Economia**
+2. **Geopolítica e Mercados**
+3. **Brasil e Sociedade**
+4. **Tecnologia e Negócios**
+5. **Humor e Crítica**
