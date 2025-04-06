@@ -1,4 +1,12 @@
-### ☕️ **Resumo da fofoca global da semana**:
+---
+title: "Trump vs China, Tinder com IA e crime recorde no Brasil"
+date: 2025-04-05 10:32:00 -03:00
+description: "Trump vs China abalando trilhões, crime faturando mais que multinacionais e um Tinder que te ensina a flertar com IA"
+tags: [mundo]
+image: "https://i.imgur.com/cKj3Eu2.jpeg"
+---
+
+☕️ **Resumo da fofoca global da semana**:
 
 | FATO | RESUMO |
 |------|--------|
@@ -16,7 +24,14 @@
 
 ---
 
+🌟 Receba as principais notícias direto no seu WhatsApp! <a href="https://www.whatsapp.com/channel/0029VaiPYBPLo4heVf0U3u2d" target="_blank" rel="noopener noreferrer">Siga o canal da Tisha</a> 📲
+
+---
+
 ### 🍔 **Delivery dos deuses: Meituan quer desbancar o iFood no Brasil**
+
+![](https://i1.wp.com/media.beehiiv.com/uploads/asset/file/2688cd5a-187f-4a43-b460-001aa24f42bb/image.png?resize=676,408)
+
 
 Se você achava que o iFood estava *reinando soberano* no delivery brasileiro, talvez seja hora de guardar esse cupom de desconto e ficar de olho:  
 A **Meituan**, gigante chinesa de entregas (e *muita* coisa além disso), quer aterrissar no Brasil **ainda em 2025**.
@@ -45,6 +60,8 @@ O rombo tributário? Só com os combustíveis, a sonegação chegou a **R$ 23 bi
 ---
 
 ### 🇺🇸🇨🇳 **Guerra de tarifas: China x EUA trocam farpas (e bilhões evaporam)**
+
+![](https://i.imgur.com/cKj3Eu2.jpeg)
 
 O presidente Donald Trump (sim, ele voltou) decidiu aplicar **tarifas de reciprocidade** contra vários países. A China respondeu com **tarifas retaliatórias de 34%** sobre as importações dos EUA — e o mercado, que não é bobo, pirou:
 
@@ -88,7 +105,9 @@ Tudo isso porque uma nova lei dos EUA **exige que a ByteDance venda o TikTok ou 
 
 ---
 
-
-Se o mundo fosse um grupo de WhatsApp, ele estaria silenciado até 2099. Mas como você tem o **Tisha News**, vai ficar por dentro de tudo com um toque de deboche, uma pitada de informação e um gif mental da Gretchen dançando no fundo. 💃📰
-
-Até a próxima fofoca, miga! 😘
+### **Categorias:**
+1. **Economia e Negócios**
+2. **Tecnologia e Apps**
+3. **Criminalidade e Sociedade**
+4. **Política Internacional**
+5. **Cultura Digital**
