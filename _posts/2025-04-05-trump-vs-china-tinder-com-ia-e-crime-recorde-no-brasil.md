@@ -8,6 +8,9 @@ image: "https://i.imgur.com/cKj3Eu2.jpeg"
 
 🌍📲🍜 *Delivery bilionário, guerra tarifária, paquera com IA e uma disputa pelo TikTok que parece reality show*  
 
+<audio id="player-audio" controls>
+<source src="./audio/trump-vs-china-tinder-com-ia-e-crime-recorde-no-brasil.mp3" type="audio/mpeg">
+</audio><br>
 
 ### 🍔 **Delivery dos deuses: Meituan quer desbancar o iFood no Brasil**
 
