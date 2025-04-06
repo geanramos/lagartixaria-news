@@ -13,7 +13,7 @@ Prepare seu café, chá ou Rivotril porque o noticiário da semana foi mais caó
 
 Então respira fundo, *darling*, porque a Tisha News vai destrinchar tudo isso com carinho, caos e um pouquinho de cinismo.
 
----
+
 
 <audio id="player-audio" controls>
 <source src="./audio/haver-sangue-tarifas-tretas-e-mansoes-milionarias.mp3" type="audio/mpeg">
@@ -37,7 +37,7 @@ Isso mesmo, o maior banco dos Estados Unidos soltou a frase digna de roteiro de 
 
 Agora, o mundo corporativo inteiro tá igual aquele meme da Nazaré com os cálculos: tentando entender como vai manter a produção sem virar um caos logístico.
 
----
+
 
 ### 🏭 Make China Great Again?
 
@@ -53,7 +53,6 @@ A *The Economist* entrou no bonde e já lançou a manchete debochada:
 
 E olha, do jeito que as coisas andam, Make China Great Again tá mais perto do que parece, enquanto os EUA se enrolam num protecionismo de quinta categoria.
 
----
 
 ### 🤡 Milei no vácuo
 
@@ -63,7 +62,6 @@ Recebeu o quê? Um **vácuo monumental**.
 
 Nada de foto, nada de reunião. Só uma nota fria dizendo que a Argentina vai revisar seus regulamentos para "atender aos requisitos das tarifas recíprocas". Milei saiu da terra do Tio Sam com a bagagem cheia de silêncio constrangedor.
 
----
 
 ### 🧏 Musk: o calado é um poeta
 
@@ -75,8 +73,6 @@ Nadinha de tweet, nadinha de polêmica, nem uma figurinha de foguete.
 E olha que o "Dia da Libertação do Trump" (o tarifaço, né) era o momento ideal pra ele abrir o Twitter (X, se quiser bancar o moderno) e soltar alguma pérola.
 
 Mas talvez ele tenha se calado porque desde o tarifaço, a **Tesla** caiu 16% em valor de mercado. E o Trump já anda dizendo por aí que, caso reeleito, Musk vai rodar do governo. Então melhor ficar quietinho mesmo, né?
-
----
 
 ### 🇧🇷 Lula, Nikolas, Lira e Caiado: o Brasil em modo novela
 
@@ -90,7 +86,6 @@ E do outro lado do hemisfério, no nosso abençoado Brasil, o circo segue armado
 
 Mais de dois anos de governo e o **Lulinha paz e amor** ainda tá falando do Bolsonaro. Ok, o estrago foi feio, mas a **popularidade do Lula** vem caindo e a narrativa da “culpa do ex” já não convence nem a claque do Alvorada.
 
----
 
 #### 💄 Nikolas e a fábula do batom
 
@@ -99,9 +94,8 @@ O deputado federal **Nikolas Ferreira** fez um vídeo comparando uma ativista ne
 Sim, isso aconteceu. Ele tentou usar a cena para justificar a tal **Anistia do 8 de Janeiro**.  
 Mas a reação foi tipo: *“Não, Nikolas. Apenas não.”*
 
----
 
-#### 💰 Lira e a mansão de R$ 10 milhões
+### 💰 Lira e a mansão de R$ 10 milhões
 
 [](https://i1.wp.com/www.juruaemtempo.com.br/wp-content/uploads/2025/04/So-no-Brasil-Ex-presidente-da-Camara-Arthur-Lira-compra-mansao-de-R10-milhoes-recebendo-salario-de-35-mil-1024x610-1.jpeg?resize=767,408)
 
@@ -113,7 +107,7 @@ O problema? Lira tem salário de deputado de R$ 41 mil, mas a parcela do financi
 
 ---
 
-#### 🐎 Caiado 2026 confirmado
+### 🐎 Caiado 2026 confirmado
 
 ![](https://i1.wp.com/blogdomagno.com.br/wp-content/uploads/2024/01/caiado-goias.jpg?resize=767,408)
 
@@ -123,7 +117,6 @@ E pra fechar, temos **Ronaldo Caiado**, governador de Goiás, já lançando sua 
 
 Com essa frase e um sotaque bem cerrado, ele entra oficialmente na fila dos presidenciáveis — que já tá parecendo fila do INSS de tanta gente querendo salvar o Brasil do Brasil.
 
----
 
 ### 🧠 Conclusão: caos, cinismo e o fim de semana chegando
 
