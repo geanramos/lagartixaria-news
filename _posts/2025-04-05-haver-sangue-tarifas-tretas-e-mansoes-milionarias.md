@@ -1,5 +1,5 @@
 ---
-title: "Haverá sangue: tarifas, tretas e mansões milionárias"
+title: "Haverá sangue, tarifas, tretas e mansões milionárias"
 date: 2025-04-05 13:43:00 -03:00
 description: "mercado em pânico, frases sem noção e o Brasil provando que a realidade pode ser mais bizarra que a ficção"
 tags: [noticia]
