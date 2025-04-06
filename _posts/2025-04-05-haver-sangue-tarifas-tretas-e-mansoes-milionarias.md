@@ -105,7 +105,6 @@ O financiamento? Do **BRB (Banco de Brasília)**, o mesmo que agora está compra
 
 O problema? Lira tem salário de deputado de R$ 41 mil, mas a parcela do financiamento passa de **R$ 100 mil por mês**. A conta não fecha nem com calculadora de cientista da NASA. Mas ele jura que é tudo fruto de sua "vida empresarial". Tá bom, Arthurzito...
 
----
 
 ### 🐎 Caiado 2026 confirmado
 
