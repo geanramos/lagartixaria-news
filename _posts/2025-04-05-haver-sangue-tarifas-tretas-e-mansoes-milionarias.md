@@ -74,9 +74,7 @@ E olha que o "Dia da Libertação do Trump" (o tarifaço, né) era o momento ide
 
 Mas talvez ele tenha se calado porque desde o tarifaço, a **Tesla** caiu 16% em valor de mercado. E o Trump já anda dizendo por aí que, caso reeleito, Musk vai rodar do governo. Então melhor ficar quietinho mesmo, né?
 
-### 🇧🇷 Lula, Nikolas, Lira e Caiado: o Brasil em modo novela
-
-![](https://i3.wp.com/tisha.geanramos.com.br/img/ChatGPT_Image_2025-04-05.png?resize=767,500)
+### 🇧🇷 Lula, Nikolas, Lira e Caiado: o Brasil em modo novela.
 
 E do outro lado do hemisfério, no nosso abençoado Brasil, o circo segue armado:
 
@@ -89,6 +87,8 @@ Mais de dois anos de governo e o **Lulinha paz e amor** ainda tá falando do Bol
 
 #### 💄 Nikolas e a fábula do batom
 
+![](https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/03/img20230310101155780-e1678916502867.jpg?w=767&h=408&crop=1&quality=85)
+
 O deputado federal **Nikolas Ferreira** fez um vídeo comparando uma ativista negra dos anos 1950 que desafiou leis segregacionistas com… a cabeleireira que escreveu "Perdeu, mané" de batom numa estátua.
 
 Sim, isso aconteceu. Ele tentou usar a cena para justificar a tal **Anistia do 8 de Janeiro**.  
@@ -97,8 +97,7 @@ Mas a reação foi tipo: *“Não, Nikolas. Apenas não.”*
 
 ### 💰 Lira e a mansão de R$ 10 milhões
 
-[](https://i1.wp.com/www.juruaemtempo.com.br/wp-content/uploads/2025/04/So-no-Brasil-Ex-presidente-da-Camara-Arthur-Lira-compra-mansao-de-R10-milhoes-recebendo-salario-de-35-mil-1024x610-1.jpeg?resize=767,408)
-
+![](https://i3.wp.com/tisha.geanramos.com.br/img/ChatGPT_Image_2025-04-05.png?resize=767,500)
 
 O presidente da Câmara, **Arthur Lira**, virou notícia por adquirir uma **mansão de R$ 10 milhões** em Brasília.  
 O financiamento? Do **BRB (Banco de Brasília)**, o mesmo que agora está comprando parte do polêmico **Banco Master**.
