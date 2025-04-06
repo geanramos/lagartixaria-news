@@ -48,6 +48,9 @@ Detalhe curioso? A Prosus, controladora do iFood, **tem 4% da Meituan**. Ou seja
 
 ### 🔫💰 **Crime no Brasil: faturamento de R$ 348 bilhões em um ano**
 
+![](https://i1.wp.com/liberdadeab.com.br/noticiasimg/31032025031455.jpg?resize=767,408)
+
+
 Enquanto isso, aqui no Brasil, o **crime organizado tá lucrando como nunca**. Segundo o Fórum Brasileiro de Segurança Pública:
 
 - Só com **combustíveis ilegais**: R$ 61,5 bilhões  
@@ -77,6 +80,8 @@ O presidente Donald Trump (sim, ele voltou) decidiu aplicar **tarifas de recipro
 
 ### 💘🤖 **Tinder lança jogo com IA pra ensinar a flertar**
 
+![](https://classic.exame.com/wp-content/uploads/2025/04/TGG-HERO.png?resize=767,380)
+
 Cansado de tomar toco no Tinder? Agora você pode treinar antes de ir pro jogo real com o **The Game Game**, um simulador de paquera com inteligência artificial feito pelo Tinder e pela OpenAI.
 
 - Personagens criados por IA te desafiam a flertar com charme e criatividade;  
@@ -88,6 +93,9 @@ Ou seja, quem é brasileiro e usa Android vai ter que continuar **pegando cantad
 ---
 
 ### 📱💣 **O TikTok vai ser vendido (ou banido) nos EUA. E tem fila na porta!**
+
+![](https://i1.wp.com/ichef.bbci.co.uk/ace/ws/800/cpsprodpb/7076/live/277f2e10-d4ff-11ef-bd01-a14953f7c4c1.jpg.webp?resize=767,408)
+
 
 Mais quente que o "caso do drone da Jade Picon", o futuro do TikTok nos EUA virou novela. A ByteDance (controladora chinesa do app) **tem até este sábado (5/4)** pra vender o TikTok, senão… *ban por tempo indeterminado*.
 
