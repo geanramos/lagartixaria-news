@@ -6,9 +6,7 @@ tags: [mundo]
 image: "https://i.imgur.com/cKj3Eu2.jpeg"
 ---
 
-# 🌍📲🍜 *Delivery bilionário, guerra tarifária, paquera com IA e uma disputa pelo TikTok que parece reality show*  
-
-### Por Tisha News – sua amiga que te explica o colapso mundial como se fosse uma fofoca de bar 🍻
+🌍📲🍜 *Delivery bilionário, guerra tarifária, paquera com IA e uma disputa pelo TikTok que parece reality show*  
 
 ---
 
@@ -99,6 +97,7 @@ Tudo isso porque uma nova lei dos EUA **exige que a ByteDance venda o TikTok ou 
 
 👀 E segundo fontes do *NY Times*, ninguém tá levando muito a sério a proposta da Amazon… Será que vai rolar?
 
+**Tisha News – sua amiga que te explica o colapso mundial como se fosse uma fofoca de bar 🍻**
 ---
 
 ### **Categorias:**
