@@ -6,6 +6,8 @@ tags: [mundo]
 image: "https://i.imgur.com/cKj3Eu2.jpeg"
 ---
 
+YES! 😎🔥 
+Bora servir essa fofoca global com tempero Tisha News, porque o mundo tá mais confuso que relacionamento no BBB — e a gente AMA um caos bem explicado.
 🌍📲🍜 *Delivery bilionário, guerra tarifária, paquera com IA e uma disputa pelo TikTok que parece reality show*  
 
 <audio id="player-audio" controls>
