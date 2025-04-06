@@ -8,11 +8,6 @@ image: "https://i.imgur.com/cKj3Eu2.jpeg"
 
 🌍📲🍜 *Delivery bilionário, guerra tarifária, paquera com IA e uma disputa pelo TikTok que parece reality show*  
 
----
-
-🌟 Receba as principais notícias direto no seu WhatsApp! <a href="https://www.whatsapp.com/channel/0029VaiPYBPLo4heVf0U3u2d" target="_blank" rel="noopener noreferrer">Siga o canal da Tisha</a> 📲
-
----
 
 ### 🍔 **Delivery dos deuses: Meituan quer desbancar o iFood no Brasil**
 
@@ -75,6 +70,10 @@ Cansado de tomar toco no Tinder? Agora você pode treinar antes de ir pro jogo r
 - Só está disponível **nos EUA**, **pra usuários de iOS** e **por tempo limitado**.  
 
 Ou seja, quem é brasileiro e usa Android vai ter que continuar **pegando cantadas ruins na raça mesmo**.
+
+---
+
+🌟 Receba as principais notícias direto no seu WhatsApp! <a href="https://www.whatsapp.com/channel/0029VaiPYBPLo4heVf0U3u2d" target="_blank" rel="noopener noreferrer">Siga o canal da Tisha</a> 📲
 
 ---
 
