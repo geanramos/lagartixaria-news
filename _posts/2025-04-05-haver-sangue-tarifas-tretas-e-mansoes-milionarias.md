@@ -16,6 +16,9 @@ Então respira fundo, *darling*, porque a Tisha News vai destrinchar tudo isso c
 
 ### 📉 Wall Street em chamas: o tarifaço de Trump
 
+![](https://i1.wp.com/www.canalmeio.com.br/wp-content/uploads/2025/04/20250404_site.webp?resize=767,408)
+
+
 Começamos com o velho e conhecido agente do caos: **Donald Trump**, o presidente comediante favorito da América. Ele resolveu reestrear sua campanha mundial com um **tarifaço de responsa**, atingindo importações de diversos países — especialmente, claro, a **China**.
 
 A China respondeu na mesma moeda, metendo **tarifas de 34% contra os EUA**, e o mercado financeiro... colapsou.
@@ -32,6 +35,9 @@ Agora, o mundo corporativo inteiro tá igual aquele meme da Nazaré com os cálc
 ---
 
 ### 🏭 Make China Great Again?
+
+![](https://i1.wp.com/cdn.mos.cms.futurecdn.net/LDfPd82RM9Q4gVG7Z936jY-1024-80.jpg.webp?resize=767,408)
+
 
 Quem deu um lacre digno de reality foi o jornalista **Thomas Friedman**, do *New York Times*. Ele escreveu um artigo dizendo que o futuro **não inclui os Estados Unidos**, e contou como a China, ao invés de chorar com os boicotes americanos, fez o quê? Investiu pesado em tecnologia e inteligência artificial.
 
@@ -56,6 +62,9 @@ Nada de foto, nada de reunião. Só uma nota fria dizendo que a Argentina vai re
 
 ### 🧏 Musk: o calado é um poeta
 
+![](https://i1.wp.com/nexo-uploads-beta.s3.amazonaws.com/wp-content/uploads/images/2024/11/2024-11-15t012013z_1352236514_rc2d5ba1d451_rtrmadp_3_usa-trump_batcheditor_fotor-scaled.webp?resize=767,408)
+
+
 No meio do escândalo todo, quem resolveu tirar férias das tretas foi ele: **Elon Musk**.  
 Nadinha de tweet, nadinha de polêmica, nem uma figurinha de foguete.  
 E olha que o "Dia da Libertação do Trump" (o tarifaço, né) era o momento ideal pra ele abrir o Twitter (X, se quiser bancar o moderno) e soltar alguma pérola.
@@ -65,6 +74,8 @@ Mas talvez ele tenha se calado porque desde o tarifaço, a **Tesla** caiu 16% em
 ---
 
 ### 🇧🇷 Lula, Nikolas, Lira e Caiado: o Brasil em modo novela
+
+![enter image description here](https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/03/img20230310101155780-e1678916502867.jpg?w=767&h=408&crop=1&quality=85)
 
 E do outro lado do hemisfério, no nosso abençoado Brasil, o circo segue armado:
 
@@ -87,6 +98,9 @@ Mas a reação foi tipo: *“Não, Nikolas. Apenas não.”*
 
 #### 💰 Lira e a mansão de R$ 10 milhões
 
+[](https://i1.wp.com/www.juruaemtempo.com.br/wp-content/uploads/2025/04/So-no-Brasil-Ex-presidente-da-Camara-Arthur-Lira-compra-mansao-de-R10-milhoes-recebendo-salario-de-35-mil-1024x610-1.jpeg?resize=767,408)
+
+
 O presidente da Câmara, **Arthur Lira**, virou notícia por adquirir uma **mansão de R$ 10 milhões** em Brasília.  
 O financiamento? Do **BRB (Banco de Brasília)**, o mesmo que agora está comprando parte do polêmico **Banco Master**.
 
@@ -95,6 +109,9 @@ O problema? Lira tem salário de deputado de R$ 41 mil, mas a parcela do financi
 ---
 
 #### 🐎 Caiado 2026 confirmado
+
+![](https://i1.wp.com/blogdomagno.com.br/wp-content/uploads/2024/01/caiado-goias.jpg?resize=767,408)
+
 
 E pra fechar, temos **Ronaldo Caiado**, governador de Goiás, já lançando sua candidatura para presidente em 2026.  
 > “Caiado, coragem para endireitar o Brasil.”
