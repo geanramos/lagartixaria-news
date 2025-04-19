@@ -15,7 +15,7 @@ layout: null
    <email>{{ site.author.email }}</email>
  </author>
 
- {% for post in site.posts limit: 200 %}
+ {% for post in site.posts limit: 4 %}
 
  <entry>
    <title>{{ post.title }}</title>
