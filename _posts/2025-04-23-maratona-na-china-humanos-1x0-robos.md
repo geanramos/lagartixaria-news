@@ -10,7 +10,9 @@ image: "https://tm.ibxk.com.br/2025/04/22/22135232998006.jpg"
 
 > Se você achava que o seu maior rival na corrida era aquele tio do grupo da terceira idade que voa na subida... segura essa: agora tem robô tentando bater seu pace!
 
----
+<audio id="player-audio" controls>
+<source src="./audio/maratona-na-china-humanos-1x0-robos.mp3" type="audio/mpeg">
+</audio><br>
 
 ![enter image description here](https://i1.wp.com/tisha.geanramos.com.br/img/robochina.jpg?resize=700,394)
 
