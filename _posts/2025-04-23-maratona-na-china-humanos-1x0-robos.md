@@ -1,5 +1,10 @@
-Maratona na China: Humanos 1 x 0 Robôs 🏃‍♂️🤖
-O futuro chegou... mas tropeçou no meio do caminho! Veja como foi a meia-maratona com 21 robôs humanoides na China.
+---
+title: "Maratona na China: Humanos 1 x 0 Robôs 🏃‍♂️🤖"
+date: 2025-04-23 10:28:00 -03:00
+description: "O futuro chegou... mas tropeçou no meio do caminho! Veja como foi a meia-maratona com 21 robôs humanoides na China."
+tags: [tecnologia]
+image: "[https://i.imgur.com/cKj3Eu2.jpeg](https://tm.ibxk.com.br/2025/04/22/22135232998006.jpg)"
+---
 
 # 🤖🏃‍♂️ Robô Maratonista? Só se for pra tropeçar!
 
