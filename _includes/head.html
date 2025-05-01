@@ -101,9 +101,6 @@
 </script>
 <style>.plyr--audio,.plyr--audio .plyr__controls,.plyr--audio .plyr__progress input,.plyr--audio .plyr__volume input{background-color:#008a3c}.plyr--audio .plyr__controls input{color:#fff}.plyr--audio .plyr__control:hover,.plyr--audio .plyr__control[aria-expanded=true]{background:#00b3ff;background:var(--plyr-audio-control-background-hover,var(--plyr-color-main,var(--plyr-color-main,#01a247)));color:#fff;color:var(--plyr-audio-control-color-hover,#fff)}.plyr--audio .plyr__controls{color:#4a5464;color:var(--plyr-audio-control-color,#fff)}.plyr{border-radius:5px}</style>
 <style>
-.skip-navigation {
-  background: #008a3c;
-}
 body::before {
   content: "";
   position: fixed;
@@ -113,6 +110,30 @@ body::before {
   background-color: #008a3c; /* Amarelo dourado */
   z-index: 9999;
 }
+
+.skip-navigation {
+  background: #008A3C;
+}
+
+.skip-navigation {
+background: #008a3c;
+border: 1px dashed transparent;
+display: block;
+font-size: 0.875em;
+font-weight: 700;
+margin-top: -2.625rem;
+padding: 0.5rem;
+text-align: center;
+text-decoration: none;
+text-transform: uppercase;
+}
+.skip-navigation:hover,
+.skip-navigation:focus {
+background: #008a3c;
+border-color: #008a3c;
+margin-top: 0;
+}
+
   
 </style>
 </head>
