@@ -99,5 +99,20 @@
     'cookie_domain': 'auto'
   });
 </script>
-<style>.skip-navigation {   background: #008a3c; } .plyr--audio,.plyr--audio .plyr__controls,.plyr--audio .plyr__progress input,.plyr--audio .plyr__volume input{background-color:#008a3c}.plyr--audio .plyr__controls input{color:#fff}.plyr--audio .plyr__control:hover,.plyr--audio .plyr__control[aria-expanded=true]{background:#00b3ff;background:var(--plyr-audio-control-background-hover,var(--plyr-color-main,var(--plyr-color-main,#01a247)));color:#fff;color:var(--plyr-audio-control-color-hover,#fff)}.plyr--audio .plyr__controls{color:#4a5464;color:var(--plyr-audio-control-color,#fff)}.plyr{border-radius:5px}</style>
+<style>.plyr--audio,.plyr--audio .plyr__controls,.plyr--audio .plyr__progress input,.plyr--audio .plyr__volume input{background-color:#008a3c}.plyr--audio .plyr__controls input{color:#fff}.plyr--audio .plyr__control:hover,.plyr--audio .plyr__control[aria-expanded=true]{background:#00b3ff;background:var(--plyr-audio-control-background-hover,var(--plyr-color-main,var(--plyr-color-main,#01a247)));color:#fff;color:var(--plyr-audio-control-color-hover,#fff)}.plyr--audio .plyr__controls{color:#4a5464;color:var(--plyr-audio-control-color,#fff)}.plyr{border-radius:5px}</style>
+<style>
+.skip-navigation {
+  background: #008a3c;
+}
+body::before {
+  content: "";
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 16px; /* Ajuste conforme necessário */
+  background-color: #008a3c; /* Amarelo dourado */
+  z-index: 9999;
+}
+  
+</style>
 </head>
