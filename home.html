@@ -1,128 +1,396 @@
+---
+---
 <!DOCTYPE html>
 <html lang="pt-BR">
-<head>
+ <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Página Inspirada no LINE TODAY</title>
+  <title>{{ site.title }}</title>
+  <link rel="icon" href="https://i.imgur.com/dLQezK3.png" sizes="192x192" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+  <link rel="preconnect" href="https://images.weserv.nl" crossorigin>
+  <link rel="preconnect" href="https://i.imgur.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,400;0,500;0,700;0,900;1,100;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
   <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 0;
-      padding: 0;
-      background-color: #f7f7f7;
-      color: #333;
-      display: flex;
-      justify-content: center;
+    @font-face {
+        font-family: 'Chomsky';
+        font-style: normal;
+        font-weight: 400; 
+        src: local('Chomsky Regular'), local('Chomsky-Regular'),
+            url(https://cdn.jsdelivr.net/gh/geanramos/18011975/Chomsky.otf)
+            format('opentype');
+        font-display: swap;
+    }
+   :root {
+    --font-family-base: 'Roboto', 'Segoe UI', Arial, sans-serif; /* Simplificado o fallback */
+    --font-family-titulo-site: 'Chomsky', var(--font-family-base);
+    
+    /* Cores Base (inspirado no Line e no Tisha que fizemos) */
+    --cor-fundo: #f0f2f5; /* Um cinza claro similar ao Line */
+    --cor-branco: #ffffff;
+    --cor-primaria-texto: #1c1e21; /* Texto principal escuro */
+    --cor-secundaria-texto: #65676b; /* Texto secundário/metadados */
+    --cor-link: #007bff; /* Azul padrão para links, pode ser ajustado */
+    --cor-link-hover: #0056b3;
+    --cor-verde-line: #06c755; /* Verde característico */
+    --cor-borda-suave: #e0e0e0;
+
+    /* Bordas e Sombras */
+    --borda-arredondada: 8px;
+    --sombra-card: 0 2px 5px rgba(0,0,0,0.1);
+    
+    /* Tamanhos de Fonte */
+    --tamanho-fonte-base: 16px;
+    --tamanho-fonte-h1-perfil: 2.2em; 
+    --tamanho-fonte-h3-cartao: 1rem; /* 16px se base for 16px */
+    --tamanho-fonte-metadados: 0.75rem; /* 12px */
+    --tamanho-fonte-footer: 0.8125rem; /* 13px */
+    --tamanho-fonte-botao: 0.875rem; /* 14px */
+
+    /* Pesos de Fonte */
+    --peso-fonte-normal: 400;
+    --peso-fonte-medio: 500;
+    --peso-fonte-semibold: 600;
+    --peso-fonte-bold: 700;
+
+    /* Alturas de Linha */
+    --line-height-base: 1.6;
+    --line-height-titulos: 1.3;
+    --line-height-compacto: 1.2;
+
+    /* Espaçamentos */
+    --espacamento-sm: 10px;
+    --espacamento-md: 20px;
+    --espacamento-lg: 24px; /* Adicionado para mais flexibilidade */
+    --avatar-size: 100px;
+    --avatar-border-size: 4px;
+   }
+
+   body {
+    font-family: var(--font-family-base);
+    font-size: var(--tamanho-fonte-base);
+    line-height: var(--line-height-base);
+    background-color: var(--cor-fundo);
+    margin: 0;
+    padding: 0;
+    color: var(--cor-primaria-texto);
+   }
+
+   .site-header {
+     background-color: var(--cor-fundo); /* Ou a cor da capa se ela não ocupar tudo */
+     position: relative;
+   }
+
+   .capa-container {
+    max-width: 768px; /* Largura da capa como no Today Line */
+    margin: 0 auto;
+    line-height: 0; 
+   }
+
+   .capa {
+    width: 100%;
+    height: 276px; /* Mantendo a proporção 728x276, se capa-container for 728, ou ajuste */
+                    /* Se capa-container é 768px, altura=(276/728)*768 = 291px */
+    object-fit: cover;
+    display: block;
+   }
+   
+   .perfil-card {
+    background-color: var(--cor-branco);
+    border-bottom-left-radius: var(--borda-arredondada);
+    border-bottom-right-radius: var(--borda-arredondada);
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    box-shadow: var(--sombra-card);
+    padding: var(--espacamento-md);
+    padding-top: calc(var(--avatar-size) / 2 + var(--espacamento-md) + var(--avatar-border-size)); 
+    margin: calc(-1 * (var(--avatar-size) / 2) - var(--avatar-border-size)) auto var(--espacamento-md); 
+    max-width: 728px; /* Card do perfil alinhado com conteúdo abaixo */
+    position: relative;
+    z-index: 2;
+   }
+
+   .avatar-wrapper {
+    position: absolute;
+    top: calc(-1 * (var(--avatar-size) / 2) - var(--avatar-border-size)); 
+    left: var(--espacamento-md); 
+    z-index: 3;
+   }
+
+   .avatar {
+    width: var(--avatar-size);
+    height: var(--avatar-size);
+    border-radius: 50%;
+    border: var(--avatar-border-size) solid var(--cor-branco);
+    background-color: var(--cor-branco);
+    object-fit: cover;
+    display: block;
+   }
+    
+   .perfil-header-info {
+    display: flex;
+    align-items: center; 
+    justify-content: space-between; 
+    margin-bottom: var(--espacamento-sm);
+   }
+    
+   .perfil-nome-link {
+    text-decoration: none;
+   }
+
+   .perfil-nome {
+    font-family: var(--font-family-titulo-site); /* Chomsky */
+    font-size: var(--tamanho-fonte-h1-perfil);
+    font-weight: var(--peso-fonte-bold);
+    line-height: 1.2; 
+    margin: 0;
+    color: var(--cor-primaria-texto); /* Ajustado para cor de texto primária */
+   }
+    
+      .botao-whatsapp { /* Botão "Seguir" */
+    background-color: var(--cor-verde-line);
+    color: var(--cor-branco);
+    text-decoration: none;
+    padding: 6px 14px;
+    border-radius: 4px; /* Um pouco menos arredondado que o geral */
+    font-size: var(--tamanho-fonte-botao);
+    font-weight: var(--peso-fonte-bold);
+    line-height: 1;
+   }
+
+   .botao-whatsapp:hover {
+    background-color: #05a546; /* Um verde um pouco mais escuro no hover */
+   }
+        
+   .perfil-descricao {
+     font-size: var(--tamanho-fonte-base);
+     font-weight: var(--peso-fonte-normal);
+     color: var(--cor-secundaria-texto); /* Cor secundária para descrição */
+     line-height: 1.2rem;
+     margin-bottom: var(--espacamento-sm);
+   }
+   
+   .perfil-seguidores {
+    font-size: var(--tamanho-fonte-base);
+    font-weight: var(--peso-fonte-normal);
+    color: var(--cor-secundaria-texto);
+    line-height: var(--line-height-base);
+   }
+
+   .container { /* Para a lista de artigos */
+    max-width: 728px;
+    margin: var(--espacamento-md) auto;
+    background-color: var(--cor-branco);
+    border-radius: var(--borda-arredondada);
+    box-shadow: var(--sombra-card);
+    padding: var(--espacamento-md);
+   }
+
+    .cartao-artigo {
+        display: flex;
+        align-items: flex-start;
+        margin-bottom: var(--espacamento-md);
+        border-bottom: 1px solid var(--cor-borda-suave);
+        padding-bottom: var(--espacamento-md);
     }
 
-    .container {
-      max-width: 768px;
-      width: 100%;
-      padding: 15px;
-      background-color: #fff;
+    .cartao-artigo:last-child {
+        border-bottom: none;
+        margin-bottom: 0;
     }
 
-    header {
-      text-align: center;
-      padding: 20px 0;
-      background-color: #212121;
-      color: white;
+    .cartao-artigo-link-imagem {
+        flex-shrink: 0;
+        width: 112px;
+        height: 64px; 
+        margin-right: var(--espacamento-sm);
+        display: block;
+        overflow: hidden;
+        border-radius: 4px;
     }
 
-    .post {
-      display: flex;
-      align-items: center;
-      margin-bottom: 15px;
-      padding: 10px;
-      border-bottom: 1px solid #ddd;
+    .cartao-artigo-imagem-wrapper {
+        width: 100%;
+        height: 100%;
+        margin: 0;
     }
 
-    .post img {
-      width: 112px;
-      height: 64px;
-      margin-right: 15px;
-      flex-shrink: 0;
-      object-fit: cover;
-      border-radius: 4px;
+    .cartao-artigo-imagem-wrapper img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        border-radius: 4px;
+        display: block;
+        transition: transform 0.3s ease-in-out;
+    }
+    
+    .cartao-artigo-link-imagem:hover .cartao-artigo-imagem-wrapper img {
+        transform: scale(1.1); 
     }
 
-    .post-content {
-      flex-grow: 1;
+    .cartao-artigo-conteudo {
+        flex-grow: 1;
+        display: flex;
+        flex-direction: column;
     }
 
-    .post-content a {
-      text-decoration: none;
-      color: inherit;
+    .cartao-artigo-link-titulo {
+        text-decoration: none;
+        color: var(--cor-texto-titulos-cartao); /* Cor dos títulos dos cartões */
     }
 
-    .post-content p {
-      font-size: 0.9rem;
-      color: #555;
-      margin: 0 0 5px;
+    .cartao-artigo-titulo { /* h3 */
+        font-size: var(--tamanho-fonte-h3-cartao);
+        font-weight: var(--peso-fonte-semibold);
+        color: inherit; /* Herda a cor do link pai */
+        line-height: var(--line-height-titulos); 
+        margin: 0 0 var(--espacamento-sm) 0; 
+        display: -webkit-box;
+        -webkit-line-clamp: 2; 
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+        text-overflow: ellipsis;
     }
 
-    .post-content .source {
-      font-size: 0.8rem;
-      color: #aaa;
+    .cartao-artigo-link-titulo:hover .cartao-artigo-titulo {
+        color: var(--cor-verde-line); 
+        text-decoration: underline;
     }
 
-    footer {
-      text-align: center;
-      padding: 10px;
-      background-color: #212121;
-      color: white;
-      margin-top: 20px;
+    .cartao-artigo-data { /* p */
+        font-size: var(--tamanho-fonte-metadados);
+        font-weight: var(--peso-fonte-normal);
+        color: var(--cor-cinza-metadados-cartao);
+        margin: 0;
+        line-height: var(--line-height-compacto);
     }
+
+    /* --- ESTILOS DO FOOTER (NOVO) --- */
+    footer.site-footer { /* Adicionada classe para especificidade */
+        max-width: 728px; /* Para alinhar com os containers acima */
+        text-align: center;
+        /*! padding: var(--espacamento-lg) var(--espacamento-md) var(--espacamento-md); */ /* Mais padding no topo */
+        margin: var(--espacamento-lg) auto var(--espacamento-md);
+        /* Sem background-color para ser igual ao fundo da página, como na imagem */
+        /* Sem border-radius se for para parecer integrado ao fundo */
+    }
+
+    .footer-category-trigger {
+        display: inline-flex; /* Para alinhar texto e ícone */
+        align-items: center;
+        /*! margin-bottom: var(--espacamento-md); */ /* Espaço abaixo do "類別" */
+        cursor: default; /* Não será clicável na versão estática */
+        color: var(--cor-secundaria-texto); /* Cor de texto secundária */
+        font-size: var(--tamanho-fonte-footer);
+    }
+
+    .footer-category-text {
+        margin-right: var(--espacamento-sm);
+    }
+
+    .footer-category-icon svg {
+        width: 1em;
+        height: 1em;
+        fill: currentColor;
+    }
+
+    .footer-links {
+        display: flex;
+        justify-content: center;
+        flex-wrap: wrap; /* Para que os links quebrem em telas menores se necessário */
+        gap: var(--espacamento-sm) var(--espacamento-md); /* Espaço vertical e horizontal entre os links */
+        /*! margin-bottom: var(--espacamento-md); */
+    }
+
+    .footer-links a {
+        font-size: var(--tamanho-fonte-footer);
+        font-weight: var(--peso-fonte-normal);
+        color: var(--cor-secundaria-texto);
+        text-decoration: none;
+    }
+
+    .footer-links a:hover {
+        color: var(--cor-verde-line);
+        text-decoration: underline;
+    }
+
+    .footer-copyright {
+        font-size: var(--tamanho-fonte-metadados); /* Usando tamanho de metadados para ser menor */
+        font-weight: var(--peso-fonte-normal);
+        color: var(--cor-cinza-metadados-cartao); /* Um cinza mais claro */
+        margin-top: 0; /* A margem inferior do .footer-links já deve dar espaço */
+    }
+    /* --- FIM DOS ESTILOS DO FOOTER --- */
+
+   a { 
+    color: var(--cor-link); /* Cor padrão para links, pode ser sobreposto */
+    text-decoration: none;
+   }
+   a:hover {
+       text-decoration: none;
+       color: #06ff16;
+   }
+      
   </style>
-</head>
-<body>
-  <div class="container">
-    <header>
-      <h1>Página Inspirada</h1>
-    </header>
-
-    <!-- Post 1 -->
-    <div class="post">
-      <a href="./crash-pol-mica-e-professor-rob-os-babados-do-dia" target="_blank">
-        <img src="https://i.imgur.com/t9H76yX.jpeg" alt="Miniatura do Post">
-      </a>
-      <div class="post-content">
-        <a href="./crash-pol-mica-e-professor-rob-os-babados-do-dia" target="_blank">
-          <p>Robô dando aula na China, mini-crash em Wall Street e Frei Gilson no centro das polêmicas. 😱🔥</p>
-        </a>
-       <!-- <span class="source">crash-pol-mica-e-professor-rob-os-babados-do-dia</span>-->
-      </div>
+ </head>
+ <body>
+  <header class="site-header">
+    <div class="capa-container">
+        <img class="capa" src="https://images.unsplash.com/photo-1544256718-3bcf237f3974?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80" alt="Capa Tisha News">
     </div>
+    <section class="perfil-card">
+        <div class="avatar-wrapper">
+            <a href="./index.html"> 
+                <img class="avatar" src="https://avatars.githubusercontent.com/u/6352393?v=4" alt="Avatar Tisha News">
+            </a>
+        </div>
+        <div class="perfil-header-info">
+            <a href="./index.html" class="perfil-nome-link">
+                <h1 class="perfil-nome">{{ site.title }}</h1>
+            </a>
+            <a href="#" target="_blank" class="botao-whatsapp">Seguir</a>
+        </div>
 
-    <!-- Post 2 -->
-    <div class="post">
-      <a href="./x-caiu-musk-culpa-hackers-e-internet-pira" target="_blank">
-        <img src="https://i.imgur.com/ECEsLRe.jpeg" alt="Miniatura do Post">
-      </a>
-      <div class="post-content">
-        <a href="./x-caiu-musk-culpa-hackers-e-internet-pira" target="_blank">
-          <p>lon Musk diz que o X sofreu um ataque cibernético massivo! Hackers, teorias da conspiração?</p>
+        <p class="perfil-descricao">Blog revelador e irreverente da Tisha, a lagartixa jornalista. Fofocas políticas e bastidores do poder. Descubra os segredos mais bem guardados da política!</p>
+        <p class="perfil-seguidores">496K Seguidores</p>
+    </section>
+  </header>
+
+  <main class="container">
+    {% raw %}{% for post in site.posts limit:10 %}{% endraw %}
+      <div class="cartao-artigo">
+        <a href="{% raw %}{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}{% endraw %}" class="cartao-artigo-link-imagem">
+            <figure class="cartao-artigo-imagem-wrapper">
+                <img src="{% raw %}{{ post.image | absolute_url }}{% endraw %}" alt="{% raw %}{{ post.title }}{% endraw %}">
+            </figure>
         </a>
-       <!-- <span class="source">x-caiu-musk-culpa-hackers-e-internet-pira</span>-->
+        <div class="cartao-artigo-conteudo">
+            <a href="{% raw %}{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}{% endraw %}" class="cartao-artigo-link-titulo">
+                <h3 class="cartao-artigo-titulo">{% raw %}{{ post.title }}{% endraw %}</h3>
+            </a>
+            <p class="cartao-artigo-data">{% raw %}{{ post.date | date_to_xmlschema }}{% endraw %}</p>
+        </div>
       </div>
+    {% raw %}{% endfor %}{% endraw %}
+  </main>
+  
+  <footer class="site-footer">
+    <div class="footer-category-trigger">
+        <span class="footer-category-text"><a href="./tags/" title="Tags">Tags</a></span>
+        <span class="footer-category-icon">
+            <svg viewBox="0 0 24 24" height="1em" width="1em" fill="currentColor">
+                <path d="M7.41 8.59L12 13.17l4.59-4.58L18 10l-6 6-6-6 1.41-1.41z"></path>
+            </svg>
+        </span>
     </div>
-
-    <!-- Post 3 -->
-    <div class="post">
-      <a href="./o-mundo-esta-uma-loucura-001" target="_blank">
-        <img src="https://i.ytimg.com/vi/hWWiIXIqiio/maxresdefault.jpg" alt="Miniatura do Post">
-      </a>
-      <div class="post-content">
-        <a href="./o-mundo-esta-uma-loucura-001" target="_blank">
-          <p>O mundo tá um caos! Guerras, tretas políticas e surpresas bizarras – resumo mais da semana! 🔥</p>
-        </a>
-        <!--<span class="source">o-mundo-esta-uma-loucura-001</span>-->
-      </div>
+    <div class="footer-links">
+        <a href="#" title="Termos de Uso">Termos de Uso</a>
+        <a href="#" title="Política de Privacidade">Política de Privacidade</a>
+        <a href="./radio.html" title="Radio">Radio</a>
     </div>
-
-    <footer>
-      <p>&copy; 2025 - Página Inspirada no LINE TODAY</p>
-    </footer>
-  </div>
-</body>
+    <p class="footer-copyright">© Gean Ramos</p>
+  </footer>
+ </body>
 </html>
