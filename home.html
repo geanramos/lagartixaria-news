@@ -1,5 +1,4 @@
 ---
-layout: default
 ---
 <!DOCTYPE html>
 <html lang="pt-BR">
@@ -14,7 +13,7 @@ layout: default
   <link rel="preconnect" href="https://images.weserv.nl" crossorigin>
   <link rel="preconnect" href="https://i.imgur.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,400;0,500;0,700;0,900;1,100;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
-  <link href="home.css" rel="stylesheet"> 
+  <link href="{{ "/home.css" | relative_url }}" rel="stylesheet">
  </head>
  <body>
   <header class="site-header">
@@ -40,21 +39,21 @@ layout: default
   </header>
 
   <main class="container">
-    {% raw %}{% for post in site.posts limit:10 %}{% endraw %}
+    {% for post in site.posts limit:10 %}
       <div class="cartao-artigo">
-        <a href="{% raw %}{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}{% endraw %}" class="cartao-artigo-link-imagem">
+        <a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}" class="cartao-artigo-link-imagem">
             <figure class="cartao-artigo-imagem-wrapper">
-                <img src="{% raw %}{{ post.image | absolute_url }}{% endraw %}" alt="{% raw %}{{ post.title }}{% endraw %}">
+                <img src="{{ post.image | absolute_url }}" alt="{{ post.title }}">
             </figure>
         </a>
         <div class="cartao-artigo-conteudo">
-            <a href="{% raw %}{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}{% endraw %}" class="cartao-artigo-link-titulo">
-                <h3 class="cartao-artigo-titulo">{% raw %}{{ post.title }}{% endraw %}</h3>
+            <a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}" class="cartao-artigo-link-titulo">
+                <h3 class="cartao-artigo-titulo">{{ post.title }}</h3>
             </a>
-            <p class="cartao-artigo-data">{% raw %}{{ post.date | date_to_xmlschema }}{% endraw %}</p>
+            <p class="cartao-artigo-data">{{ post.date | date_to_xmlschema }}</p>
         </div>
       </div>
-    {% raw %}{% endfor %}{% endraw %}
+    {% endfor %}
   </main>
   
   <footer class="site-footer">
