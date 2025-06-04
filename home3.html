@@ -168,7 +168,7 @@
      font-size: var(--tamanho-fonte-base);
      font-weight: var(--peso-fonte-normal);
      color: var(--cor-secundaria-texto); /* Cor secundária para descrição */
-     line-height: var(--line-height-base);
+     line-height: 1.2rem;
      margin-bottom: var(--espacamento-sm);
    }
    
@@ -271,7 +271,7 @@
     footer.site-footer { /* Adicionada classe para especificidade */
         max-width: 728px; /* Para alinhar com os containers acima */
         text-align: center;
-        padding: var(--espacamento-lg) var(--espacamento-md) var(--espacamento-md); /* Mais padding no topo */
+        /*! padding: var(--espacamento-lg) var(--espacamento-md) var(--espacamento-md); */ /* Mais padding no topo */
         margin: var(--espacamento-lg) auto var(--espacamento-md);
         /* Sem background-color para ser igual ao fundo da página, como na imagem */
         /* Sem border-radius se for para parecer integrado ao fundo */
@@ -280,7 +280,7 @@
     .footer-category-trigger {
         display: inline-flex; /* Para alinhar texto e ícone */
         align-items: center;
-        margin-bottom: var(--espacamento-md); /* Espaço abaixo do "類別" */
+        /*! margin-bottom: var(--espacamento-md); */ /* Espaço abaixo do "類別" */
         cursor: default; /* Não será clicável na versão estática */
         color: var(--cor-secundaria-texto); /* Cor de texto secundária */
         font-size: var(--tamanho-fonte-footer);
@@ -301,7 +301,7 @@
         justify-content: center;
         flex-wrap: wrap; /* Para que os links quebrem em telas menores se necessário */
         gap: var(--espacamento-sm) var(--espacamento-md); /* Espaço vertical e horizontal entre os links */
-        margin-bottom: var(--espacamento-md);
+        /*! margin-bottom: var(--espacamento-md); */
     }
 
     .footer-links a {
@@ -330,20 +330,20 @@
    }
    a:hover {
        text-decoration: none;
-       color: #fff;
+       color: #06ff16;
    }
-   
+      
   </style>
  </head>
  <body>
   <header class="site-header">
     <div class="capa-container">
-        <img class="capa" src="https://today-obs.line-scdn.net/0hE5kk7sxmGhpWEjM5k55lTWxEGXVlfgkZMiRLGRV8RC4sJ1geYyEGK3QSQX98dV1EPnFddHobASspK1wYPSYG/w1200" alt="Capa NOWnews 今日新聞">
+        <img class="capa" src="https://images.unsplash.com/photo-1544256718-3bcf237f3974?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80" alt="Capa Tisha News">
     </div>
     <section class="perfil-card">
         <div class="avatar-wrapper">
             <a href="#"> 
-                <img class="avatar" src="https://today-obs.line-scdn.net/0hyYpeSJk9JnZNHA9ViJ9ZIXdKJRl-cDV1KSp3dQ5yeEI3KWRyeC9sR24VcBRhf2EocnNtFWgdPUcyJWB0Jihs/w280" alt="Avatar NOWnews 今日新聞">
+                <img class="avatar" src="https://avatars.githubusercontent.com/u/6352393?v=4" alt="Avatar Tisha News">
             </a>
         </div>
         <div class="perfil-header-info">
@@ -353,7 +353,7 @@
             <a href="#" rel="nofollow noopener noreferrer" target="_blank" class="botao-whatsapp">Seguir</a>
         </div>
 
-        <p class="perfil-descricao">NOWnews é a maior editora de notícias online de Taiwan, fornecendo notícias rápidas, precisas e objetivas. Seu conteúdo abrange política, finanças, estilo de vida e notícias leves e pesadas. É um site de notícias online abrangente e um veículo de notícias para a comunidade chinesa.</p>
+        <p class="perfil-descricao">Blog revelador e irreverente da Tisha, a lagartixa jornalista. Fofocas políticas e bastidores do poder. Descubra os segredos mais bem guardados da política!</p>
         <p class="perfil-seguidores">496K Seguidores</p>
     </section>
   </header>
@@ -406,7 +406,7 @@
    <div class="cartao-artigo">
     <a href="#" class="cartao-artigo-link-imagem">
         <figure class="cartao-artigo-imagem-wrapper">
-            <img src="https://images.weserv.nl/?w=112&h=64&output=webp&q=90&t=square&url=https://tisha.geanramos.com.br/dev/maxresdefault.jpg" alt="Título do Artigo 4">
+            <img src="https://images.weserv.nl/?w=200&h=105&output=jpg&q=80&t=square&url=https://tisha.geanramos.com.br/dev/maxresdefault.jpg" alt="Título do Artigo 4">
         </figure>
     </a>
     <div class="cartao-artigo-conteudo">
@@ -419,7 +419,7 @@
    <div class="cartao-artigo">
     <a href="#" class="cartao-artigo-link-imagem">
         <figure class="cartao-artigo-imagem-wrapper">
-            <img src="https://images.weserv.nl/?w=112&h=64&output=webp&q=90&t=square&url=https://tisha.geanramos.com.br/dev/HW7oIHd.jpeg" alt="Título do Artigo 5">
+            <img src="https://images.weserv.nl/?w=200&h=105&output=jpg&q=80&t=square&url=https://tisha.geanramos.com.br/dev/HW7oIHd.jpeg" alt="Título do Artigo 5">
         </figure>
     </a>
     <div class="cartao-artigo-conteudo">
@@ -432,7 +432,7 @@
    <div class="cartao-artigo">
     <a href="#" class="cartao-artigo-link-imagem">
         <figure class="cartao-artigo-imagem-wrapper">
-            <img src="https://images.weserv.nl/?w=112&h=64&output=webp&q=90&t=square&url=https://tisha.geanramos.com.br/dev/maxresdefault_003.jpg" alt="Título do Artigo 6">
+            <img src="https://images.weserv.nl/?w=200&h=105&output=jpg&q=80&t=square&url=https://tisha.geanramos.com.br/dev/maxresdefault_003.jpg" alt="Título do Artigo 6">
         </figure>
     </a>
     <div class="cartao-artigo-conteudo">
@@ -445,7 +445,7 @@
    <div class="cartao-artigo">
     <a href="#" class="cartao-artigo-link-imagem">
         <figure class="cartao-artigo-imagem-wrapper">
-            <img src="https://images.weserv.nl/?w=112&h=64&output=webp&q=90&t=square&url=https://tisha.geanramos.com.br/dev/20250306212231lQoPmTteyf.jpg" alt="Título do Artigo 7">
+            <img src="https://images.weserv.nl/?w=200&h=105&output=jpg&q=80&t=square&url=https://tisha.geanramos.com.br/dev/20250306212231lQoPmTteyf.jpg" alt="Título do Artigo 7">
         </figure>
     </a>
     <div class="cartao-artigo-conteudo">
@@ -458,7 +458,7 @@
    <div class="cartao-artigo">
     <a href="#" class="cartao-artigo-link-imagem">
         <figure class="cartao-artigo-imagem-wrapper">
-            <img src="https://images.weserv.nl/?w=112&h=64&output=webp&q=90&t=square&url=https://tisha.geanramos.com.br/dev/PyrElsJ.jpeg" alt="Título do Artigo 8">
+            <img src="https://images.weserv.nl/?w=200&h=105&output=jpg&q=80&t=square&url=https://tisha.geanramos.com.br/dev/PyrElsJ.jpeg" alt="Título do Artigo 8">
         </figure>
     </a>
     <div class="cartao-artigo-conteudo">
@@ -471,7 +471,7 @@
    <div class="cartao-artigo">
     <a href="#" class="cartao-artigo-link-imagem">
         <figure class="cartao-artigo-imagem-wrapper">
-            <img src="https://images.weserv.nl/?w=112&h=64&output=webp&q=90&t=square&url=https://tisha.geanramos.com.br/dev/N761U3f.jpeg" alt="Título do Artigo 9">
+            <img src="https://images.weserv.nl/?w=200&h=105&output=jpg&q=80&t=square&url=https://tisha.geanramos.com.br/dev/N761U3f.jpeg" alt="Título do Artigo 9">
         </figure>
     </a>
     <div class="cartao-artigo-conteudo">
@@ -484,7 +484,7 @@
    <div class="cartao-artigo">
     <a href="#" class="cartao-artigo-link-imagem">
         <figure class="cartao-artigo-imagem-wrapper">
-            <img src="https://images.weserv.nl/?w=112&h=64&output=webp&q=90&t=square&url=https://tisha.geanramos.com.br/dev/OFff4Te.jpeg" alt="Título do Artigo 10">
+            <img src="https://images.weserv.nl/?w=200&h=105&output=jpg&q=80&t=square&url=https://tisha.geanramos.com.br/dev/OFff4Te.jpeg" alt="Título do Artigo 10">
         </figure>
     </a>
     <div class="cartao-artigo-conteudo">
@@ -498,7 +498,7 @@
   
   <footer class="site-footer">
     <div class="footer-category-trigger">
-        <span class="footer-category-text">Tags</span>
+        <span class="footer-category-text"><a href="#" title="Tags">Tags</a></span>
         <span class="footer-category-icon">
             <svg viewBox="0 0 24 24" height="1em" width="1em" fill="currentColor">
                 <path d="M7.41 8.59L12 13.17l4.59-4.58L18 10l-6 6-6-6 1.41-1.41z"></path>
@@ -506,10 +506,9 @@
         </span>
     </div>
     <div class="footer-links">
-
-        <a href="#" title="Termos de Uso">Termos</a>
-        <a href="#" title="Política de Privacidade">Politica</a>
-        <a href="#" title="Declaração de Serviço">Servicos</a>
+        <a href="#" title="Termos de Uso">Termos de Uso</a>
+        <a href="#" title="Política de Privacidade">Política de Privacidade</a>
+        <a href="./radio.html" title="Radio">Radio</a>
     </div>
     <p class="footer-copyright">© Gean Ramos</p>
   </footer>
