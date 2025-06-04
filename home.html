@@ -40,7 +40,7 @@
   </header>
 
   <main class="container">
-    {% for post in site.posts limit:10 %}
+    {% for post in site.posts limit:100 %}
       <div class="cartao-artigo">
         <a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}" class="cartao-artigo-link-imagem">
             <figure class="cartao-artigo-imagem-wrapper">
