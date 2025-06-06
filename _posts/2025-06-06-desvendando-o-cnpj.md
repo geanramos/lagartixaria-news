@@ -1,6 +1,6 @@
 ---
 title: "CNPJ: O Bicho-Papão? Que Nada! Guia Para Virar Patrão 🦁"
-date: 2025-06-06 00:59:00 -03:00
+date: 2025-06-06 00:58:00 -03:00
 description: "Leu o post sobre renda extra e travou na sigla CNPJ? Calma! A Tisha te ensina o passo a passo para abrir seu MEI de graça e aproveitar todos os benefícios!"
 tags: [financas]
 image: "https://www.contabilizei.com.br/contabilidade-online/wp-content/uploads/2023/05/Como-abrir-um-MEI-passo-a-passo-vs2-1.png"
