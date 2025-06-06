@@ -54,7 +54,7 @@ A Shopee chegou com tudo e também abriu as portas para motoristas parceiros. O 
 -   **🛑 O que aconteceu?** A Shopee criou um programa para motoristas parceiros para dar conta do volume gigantesco de pedidos. Eles oferecem rotas de coleta (pegar os pacotes com os vendedores) e de entrega (levar até os clientes).
 -   **🤯 Como isso impacta as pessoas?** Você tem flexibilidade para escolher suas rotas e horários, o que é ótimo para conciliar com outras atividades.
 -   **🔍 Como virar parceiro da Shopee?**
-    1.  **Baixe o App "Motorista Parceiro Shopee"**: Atenção, é um app específico, só para Android!
+    1.  **Baixe o App "[Motorista Parceiro Shopee](https://shps-br.com/hqPk6D)"**: Atenção, é um app específico, só para Android!
     2.  **Cadastre-se no App**: Crie seu login com telefone e senha.
     3.  **Preencha os Dados e Envie os Documentos**: Assim como no Mercado Livre, você vai precisar de um **[CNPJ](./desvendando-o-cnpj.html)**. A Shopee te vê como um prestador de serviços.
     4.  **Aguarde a Aprovação**: Depois de tudo certo, eles entram em contato via WhatsApp.
