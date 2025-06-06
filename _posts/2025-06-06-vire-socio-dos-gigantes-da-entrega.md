@@ -5,7 +5,7 @@ description: "Tá precisando de uma grana extra? A solução pode estar na sua g
 tags: [financas]
 image: "https://img-c.udemycdn.com/course/750x422/6174841_d755_2.jpg"
 ---
-## 🛵 Tá Precisando de Grana? Sua Moto Pode Ser a Solução! 💰
+**🛵 Tá Precisando de Grana? Sua Moto Pode Ser a Solução! 💰**
 
 E aí, galera! Sabe aquela vontade de fazer uma grana extra no fim do mês ou até mesmo de virar o próprio chefe? Pois é, meu amigo **Lucas Coelho**, lá de Castanhal, no Pará, estava nessa mesma vibe. Desempregado, com uma moto na garagem e uma habilitação na carteira, ele pensou: "E se eu virasse entregador desses gigantes da internet?". 🧐
 
@@ -75,6 +75,14 @@ A Amazon, a gigante das gigantes, também quer você como parceiro! O programa *
 
 > A Amazon te paga por cada pacote entregue. Imagina só: além de vender seus produtos, você ainda lucra entregando os pacotes da Amazon. É o combo do sucesso!
 
+
+E aí, curtiu o guia? 
+O Lucas Coelho, de Castanhal, já deve estar baixando os aplicativos pra começar a faturar! A verdade é que, com um pouco de organização e a documentação em dia [(o CNPJ como MEI é o pulo do gato!)](./desvendando-o-cnpj.html), sua moto ou seu comércio podem virar uma maquininha de dinheiro.
+
+Agora me conta, qual dessas opções você achou mais a sua cara? Eu, se tivesse uma loja, já ia virar ponto de coleta pra ficar por dentro de todas as fofocas do bairro! 😂
+
+🌟 **Quer receber mais dicas e as principais notícias direto no seu WhatsApp? Chega mais!** [**Entre no canal da Tisha News**](./tisha-no-whatsapp.html) 📲
+
 ----------
 
 ## 📂 Categorias:
@@ -84,10 +92,3 @@ A Amazon, a gigante das gigantes, também quer você como parceiro! O programa *
 3.  #DicasDaTisha
 4.  #Trabalho
 5.  #Logística
-
-E aí, curtiu o guia? 
-O Lucas Coelho, de Castanhal, já deve estar baixando os aplicativos pra começar a faturar! A verdade é que, com um pouco de organização e a documentação em dia [(o CNPJ como MEI é o pulo do gato!)](./desvendando-o-cnpj.html), sua moto ou seu comércio podem virar uma maquininha de dinheiro.
-
-Agora me conta, qual dessas opções você achou mais a sua cara? Eu, se tivesse uma loja, já ia virar ponto de coleta pra ficar por dentro de todas as fofocas do bairro! 😂
-
-🌟 **Quer receber mais dicas e as principais notícias direto no seu WhatsApp? Chega mais!** [**Entre no canal da Tisha News**](./tisha-no-whatsapp.html) 📲
