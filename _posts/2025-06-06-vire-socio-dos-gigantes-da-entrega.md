@@ -1,3 +1,10 @@
+---
+title: "Renda Extra? Vire Sócio dos Gigantes da Entrega! 🛵💰"
+date: 2025-06-06 07:59:00 -03:00
+description: "Tá precisando de uma grana extra? A solução pode estar na sua garagem! Descubra como virar parceiro de entrega da Amazon, Shopee e Mercado Livre."
+tags: [financas]
+image: "https://img-c.udemycdn.com/course/750x422/6174841_d755_2.jpg"
+---
 ## 📢 **Títulos Alternativos (até 60 caracteres):**
 
 1.  Renda Extra? Vire Sócio dos Gigantes da Entrega! 🛵💰
