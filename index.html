@@ -6,25 +6,28 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ site.title }}</title>
-  <link rel="icon" href="https://i.imgur.com/dLQezK3.png" sizes="192x192" />
+  <link rel="icon" href="https://tisha.geanramos.com.br/favicon.png" sizes="192x192" />
+  <link rel="preconnect" href="https://picsum.photos" crossorigin>
+  <link rel="preconnect" href="https://fastly.picsum.photos" crossorigin>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="preconnect" href="https://cdn.jsdelivr.net" crossorigin>
+  <link rel="preconnect" href="https://tisha.geanramos.com.br" crossorigin>
   <link rel="preconnect" href="https://images.weserv.nl" crossorigin>
   <link rel="preconnect" href="https://i.imgur.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,400;0,500;0,700;0,900;1,100;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
-  <link href="home.css" rel="stylesheet"> 
-  <link href="{{ "/home.css" | relative_url }}" rel="stylesheet">
+  <link href="home.css?v=01" rel="stylesheet"> 
+  <link href="{{ "/home.css?v=01" | relative_url }}" rel="stylesheet">
  </head>
  <body>
   <header class="site-header">
     <div class="capa-container">
-        <img class="capa" src="https://images.unsplash.com/photo-1544256718-3bcf237f3974?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=871&q=80" alt="Capa Tisha News">
+        <img class="capa" src="https://picsum.photos/768/276" alt="Capa {{ site.title }}">
     </div>
     <section class="perfil-card">
         <div class="avatar-wrapper">
             <a href="./index.html"> 
-                <img class="avatar" src="https://avatars.githubusercontent.com/u/6352393?v=4" alt="Avatar Tisha News">
+                <img class="avatar" src="https://tisha.geanramos.com.br/img/tisha.jpg" alt="Avatar {{ site.title }}">
             </a>
         </div>
         <div class="perfil-header-info">
