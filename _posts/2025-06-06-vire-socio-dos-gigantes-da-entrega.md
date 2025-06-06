@@ -85,7 +85,7 @@ Agora me conta, qual dessas opções você achou mais a sua cara? Eu, se tivesse
 
 ----------
 
-## 📂 Categorias:
+### 📂 Categorias:
 
 1.  #RendaExtra
 2.  #Empreendedorismo
