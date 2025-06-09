@@ -79,7 +79,7 @@
         {% assign count = 0 %}
         {% for post in site.posts %}
           {% if post.url != page.url %}
-            {% if post.tags contains tag and count < 3 %}
+            {% if post.tags contains tag and count < 5 %}
               {% include cartao-artigo.html %}
               {% assign count = count | plus: 1 %}
             {% endif %}
