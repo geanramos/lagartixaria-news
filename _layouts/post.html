@@ -94,10 +94,11 @@
     <h2>Comentários</h2>
     <div class="fb-comments-placeholder">
      <div class="fb-comments" id="fb-comments" 
-     data-href="https://developers.facebook.com/docs/plugins/comments" 
+     data-href="{{ page.url | replace:'index.html','' | absolute_url }}" 
      data-width="700" 
      data-numposts="10">
-</div>
+     </div>
+    </div>
    </section>
   </main>
   <footer class="site-footer">
