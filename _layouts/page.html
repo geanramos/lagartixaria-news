@@ -10,14 +10,14 @@
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet" />
-  <link href="post-modelo.css?v=02" rel="stylesheet" />
+  <link href="/post-modelo.css?v=03" rel="stylesheet" />
   <link rel="stylesheet" href="https://cdn.plyr.io/3.6.12/plyr.css">
   <style>.plyr--audio,.plyr--audio .plyr__controls,.plyr--audio .plyr__progress input,.plyr--audio .plyr__volume input{background-color:#008a3c}.plyr--audio .plyr__controls input{color:#fff}.plyr--audio .plyr__control:hover,.plyr--audio .plyr__control[aria-expanded=true]{background:#00b3ff;background:var(--plyr-audio-control-background-hover,var(--plyr-color-main,var(--plyr-color-main,#01a247)));color:#fff;color:var(--plyr-audio-control-color-hover,#fff)}.plyr--audio .plyr__controls{color:#4a5464;color:var(--plyr-audio-control-color,#fff)}.plyr{border-radius:5px}</style>
   <link rel="stylesheet" href="https://tisha.geanramos.com.br/css/custom.css?v=250311">
  </head>
  <body>
   <header class="post-banner">
-   <img src="{{ page.images }}" alt="{{ page.title }}" />
+   <img src="{% if page.image %}{{ page.image | absolute_url }}{% else %}https://picsum.photos/768/329{% endif %}" />
   </header>
 
   <main class="content-container">
@@ -70,22 +70,16 @@
     </section>
     {% endif %}
    </article>
-   <div class="tn-whatsapp-btn">
-<a href="https://whatsapp.com/channel/0029VaiPYBPLo4heVf0U3u2d" rel="nofollow noopener noreferrer" target="_blank" title="Canal do Tisha news no WhatsApp" class="btn-tb btn-achados-wpp">
-<img data-hero="" class="no-lazy" data-no-lazy="1" width="16" height="16" src="https://tisha.geanramos.com.br/img/whatsapp.svg" alt="Canal do Tisha news no WhatsApp" style="margin-bottom: 0px;">
-<span>Entre Agora</span>
-</a>
-</div><br>
    <section class="leia-tambem">
     <h2>Leia Também</h2>
-    {% assign related_tags = "Jekyll,CSS,Desenvolvimento" | split: "," %}
+    {% assign related_tags = "mundo,politica,financas" | split: "," %}
     {% for tag in related_tags %}
       <div class="tag-section">
         <h3 class="tag-section-title">{{ tag }}</h3>
         {% assign count = 0 %}
         {% for post in site.posts %}
           {% if post.url != page.url %}
-            {% if post.tags contains tag and count < 3 %}
+            {% if post.tags contains tag and count < 5 %}
               {% include cartao-artigo.html %}
               {% assign count = count | plus: 1 %}
             {% endif %}
@@ -97,7 +91,10 @@
    <section class="post-comentarios">
     <h2>Comentários</h2>
     <div class="fb-comments-placeholder">
-     <p>A caixa de comentários do Facebook será carregada aqui.</p>
+     <div class="fb-comments" id="fb-comments" 
+     data-href="{{ page.url | replace:'index.html','' | absolute_url }}" 
+     data-width="740" 
+     data-numposts="10"></div>
     </div>
    </section>
   </main>
