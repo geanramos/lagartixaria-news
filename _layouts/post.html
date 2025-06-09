@@ -1,51 +1,115 @@
 ---
-layout: default
 ---
-<article id="post-page">
-	<h2>{{ page.title }}</h2>		
-	<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line">{{ page.date | date_to_string }}</time>
-<div id="tn-banner-whatsapp">
-        <div class="tn-whatsapp-icon-bg">
-            <div class="tn-whatsapp-icon-container">
-                <span class="tn-icons tn-whatsapp">
-			<img src="https://tisha.geanramos.com.br/img/whatsapp.svg" alt="Ícone do WhatsApp" width="20" height="20">
-		</span>
-            </div>
-        </div>
-    <div class="tn-whatsapp-info">
-      As fofocas mais quentes no <strong>nosso canal no WhatsApp</strong>
-    </div>
-    <div class="tn-whatsapp-btn">
-        <a href="https://whatsapp.com/channel/0029VaiPYBPLo4heVf0U3u2d" rel="nofollow noopener noreferrer" target="_blank" title="Canal do Tisha news no WhatsApp" class="btn-tb btn-achados-wpp">
-          <img data-hero="" class="no-lazy" data-no-lazy="1" width="16" height="16" src="https://tisha.geanramos.com.br/img/whatsapp.svg" alt="Canal do Tisha news no WhatsApp" style="margin-bottom: 0px;">
-          <span>Entre Agora</span>
-        </a>
+<!DOCTYPE html>
+<html lang="pt-BR">
+ <head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ page.title }} | {{ site.title }}</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap" rel="stylesheet" />
+  <link href="post-modelo.css?v=02" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdn.plyr.io/3.6.12/plyr.css">
+  <style>.plyr--audio,.plyr--audio .plyr__controls,.plyr--audio .plyr__progress input,.plyr--audio .plyr__volume input{background-color:#008a3c}.plyr--audio .plyr__controls input{color:#fff}.plyr--audio .plyr__control:hover,.plyr--audio .plyr__control[aria-expanded=true]{background:#00b3ff;background:var(--plyr-audio-control-background-hover,var(--plyr-color-main,var(--plyr-color-main,#01a247)));color:#fff;color:var(--plyr-audio-control-color-hover,#fff)}.plyr--audio .plyr__controls{color:#4a5464;color:var(--plyr-audio-control-color,#fff)}.plyr{border-radius:5px}</style>
+  <link rel="stylesheet" href="https://tisha.geanramos.com.br/css/custom.css?v=250311">
+ </head>
+ <body>
+  <header class="post-banner">
+   <img src="{{ page.images }}" alt="{{ page.title }}" />
+  </header>
+
+  <main class="content-container">
+   <article class="post-full">
+    <header class="post-full-header">
+     <h1 class="post-full-title">{{ page.title }}</h1>
+    </header>
+
+    <section class="post-full-meta">
+     <div class="author-block">
+      <a href="index.html" class="author-avatar-link">
+       <div class="author-avatar">
+        <img src="{{ site.avatar }}" alt="Avatar {{ site.title }}" />
+       </div>
+      </a>
+      <div class="author-meta-info">
+       <a href="index.html" class="author-name-link">
+        <span class="author-name">{{ site.title }}</span>
+       </a>
+       <div class="meta-line">
+        <span>{{ page.date | date: "%d de %B de %Y" }}</span>
+       </div>
       </div>
-  </div><br>
-	<div class="content">
-		{{ content }}		
-	</div>
-<div class="fb-comments" id="fb-comments" 
-     data-href="{{ page.url | replace:'index.html','' | absolute_url }}" 
-     data-width="676" 
-     data-numposts="10">
-</div>
-<social id="icone">
-<!-- AddToAny BEGIN -->
-<script defer src="https://static.addtoany.com/menu/page.js"></script>
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<!--<a class="a2a_dd" href="https://www.addtoany.com/share"></a>-->
-<a class="a2a_button_facebook"></a>
-<a class="a2a_button_x"></a>
-<a class="a2a_button_bluesky"></a>
-<a class="a2a_button_telegram"></a>
-<a class="a2a_button_threads"></a>
-<a class="a2a_button_whatsapp"></a>
-</div>
-<script>
-var a2a_config = a2a_config || {};
-a2a_config.locale = "pt-BR";
-</script>
-<!-- AddToAny END -->
-</social>
-</article>
+     </div>
+     <div class="follow-button-block">
+      <!--<button class="follow-button">SEGUIR</button>-->
+      <script defer src="https://static.addtoany.com/menu/page.js"></script>
+      <div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+       <a class="a2a_dd" href="https://www.addtoany.com/share"></a>
+       <a class="a2a_button_facebook"></a>
+       <a class="a2a_button_twitter"></a>
+       <a class="a2a_button_whatsapp"></a>
+      </div>
+      <script>
+       var a2a_config = a2a_config || {};
+       a2a_config.locale = "pt-BR";
+      </script>
+     </div>
+    </section>
+
+    <section class="post-full-content">
+      {{ content }}
+    </section>
+    {% if page.tags.size > 0 %}
+    <section class="post-tags">
+      <h3>Tags:</h3>
+      {% for tag in page.tags %}
+        <a href="/tags/#{{ tag | slugify }}" class="tag-button">{{ tag }}</a>
+      {% endfor %}
+    </section>
+    {% endif %}
+   </article>
+   <div class="tn-whatsapp-btn">
+<a href="https://whatsapp.com/channel/0029VaiPYBPLo4heVf0U3u2d" rel="nofollow noopener noreferrer" target="_blank" title="Canal do Tisha news no WhatsApp" class="btn-tb btn-achados-wpp">
+<img data-hero="" class="no-lazy" data-no-lazy="1" width="16" height="16" src="https://tisha.geanramos.com.br/img/whatsapp.svg" alt="Canal do Tisha news no WhatsApp" style="margin-bottom: 0px;">
+<span>Entre Agora</span>
+</a>
+</div><br>
+   <section class="leia-tambem">
+    <h2>Leia Também</h2>
+    {% assign related_tags = "Jekyll,CSS,Desenvolvimento" | split: "," %}
+    {% for tag in related_tags %}
+      <div class="tag-section">
+        <h3 class="tag-section-title">{{ tag }}</h3>
+        {% assign count = 0 %}
+        {% for post in site.posts %}
+          {% if post.url != page.url %}
+            {% if post.tags contains tag and count < 3 %}
+              {% include cartao-artigo.html %}
+              {% assign count = count | plus: 1 %}
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+      </div>
+    {% endfor %}
+  </section>
+   <section class="post-comentarios">
+    <h2>Comentários</h2>
+    <div class="fb-comments-placeholder">
+     <p>A caixa de comentários do Facebook será carregada aqui.</p>
+    </div>
+   </section>
+  </main>
+  <footer class="site-footer">
+   <div class="footer-links">
+    <a href="#" title="Termos de Uso">Termos de Uso</a>
+    <a href="#" title="Política de Privacidade">Política de Privacidade</a>
+    <a href="./radio.html" title="Radio">Radio</a>
+   </div>
+   <p class="footer-copyright">© Gean Ramos</p>
+  </footer>
+   <script src="https://cdn.plyr.io/3.6.12/plyr.polyfilled.js"></script>
+   <script>  const players = Plyr.setup('.plyr__video-embed,.video-wrapper div, #local-video, #player, audio'); </script>
+ </body>
+</html>
