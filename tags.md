@@ -4,7 +4,7 @@ title: "Tags"
 permalink: /tags/
 ---
 
-{% include header-home.html %}
+{% include head.html %}
 
 <main class="container">
     <header class="page-header">
