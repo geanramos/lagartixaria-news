@@ -25,7 +25,7 @@
 
   <!-- Meta Tags para SEO no Google -->
   <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-  <meta name="author" content="Tisha News">{% endif %}{% if page.tags %}
+  <meta name="author" content="Tisha News">{% if page.tags %}
   <meta name="keywords" content="{% for tag in page.tags %}{{ tag }}{% if forloop.last == false %}, {% endif %}{% endfor %}">{% else %}
   <meta name="keywords" content="Tisha, Tisha News, esporte, jornais, revistas, biblioteca,compras, computador, corpo, saúde, moda, cinema, crianças, diversão, arte, economia, educação, internet, rádio, tv, tempo, últimas notícias, viagem, jornalismo, informação, notícia, cultura, entretenimento, lazer, opinião, análise, internet, televisão, fotografia, imagem, som, áudio, vídeo, fotos, tecnologia, empregos, humor, música">{% endif %}
   <meta name="robots" content="index, follow">
