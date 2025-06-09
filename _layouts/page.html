@@ -67,39 +67,12 @@
     <section class="post-tags">
       <h3>Tags:</h3>
       {% for tag in page.tags %}
-        <a href="/tags/#{{ tag | slugify }}" class="tag-button">{{ tag }}</a>
+        <a href="https://www.google.com/search?q=site:https://tisha.geanramos.com.br+{{ tag | slugify }}" class="tag-button">{{ tag }}</a>
       {% endfor %}
     </section>
     {% endif %}
    </article>
-   <section class="leia-tambem">
-    <h2>Leia Também</h2>
-    {% assign related_tags = "mundo,politica,financas" | split: "," %}
-    {% for tag in related_tags %}
-      <div class="tag-section">
-        <h3 class="tag-section-title">{{ tag }}</h3>
-        {% assign count = 0 %}
-        {% for post in site.posts %}
-          {% if post.url != page.url %}
-            {% if post.tags contains tag and count < 5 %}
-              {% include cartao-artigo.html %}
-              {% assign count = count | plus: 1 %}
-            {% endif %}
-          {% endif %}
-        {% endfor %}
-      </div>
-    {% endfor %}
-  </section>
-   <section class="post-comentarios">
-    <h2>Comentários</h2>
-    <div class="fb-comments-placeholder">
-     <div class="fb-comments" id="fb-comments" 
-     data-href="{{ page.url | replace:'index.html','' | absolute_url }}" 
-     data-width="700" 
-     data-numposts="10">
-     </div>
-    </div>
-   </section>
+
   </main>
   <footer class="site-footer">
    <div class="footer-links">
