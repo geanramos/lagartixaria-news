@@ -17,7 +17,7 @@
  </head>
  <body>
   <header class="post-banner">
-   <img src="{% if page.images %}{{ page.images | absolute_url }}{% else %}https://picsum.photos/768/329{% endif %}" />
+   <img src="{% if page.image %}{{ page.image | absolute_url }}{% else %}https://picsum.photos/768/329{% endif %}" />
   </header>
 
   <main class="content-container">
