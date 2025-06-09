@@ -16,6 +16,8 @@
   <link rel="stylesheet" href="https://tisha.geanramos.com.br/css/custom.css?v=250311">
  </head>
  <body>
+  <div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v23.0"></script>
   <header class="post-banner">
    <img src="{% if page.image %}{{ page.image | absolute_url }}{% else %}https://picsum.photos/768/329{% endif %}" />
   </header>
