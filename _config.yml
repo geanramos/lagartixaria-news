@@ -1,13 +1,13 @@
 # Site settings
 title: Tisha News
 description: "Blog revelador e irreverente da Tisha, a lagartixa jornalista. Fofocas políticas e bastidores do poder. Descubra os segredos mais bem guardados da política!"
-url: "https://tisha.geanramos.com.br"
-avatar: "https://tisha.geanramos.com.br/img/tisha.jpg"
-image: "https://tisha.geanramos.com.br/img/tisha.jpg"
+url: "https://tishanews.u1m.com.br/"
+avatar: "https://tishanews.u1m.com.br/img/tisha.jpg"
+image: "https://tishanews.u1m.com.br/img/tisha.jpg"
 author:
   name: "Tisha News"
   email: "tisha@tisha.news"
-  url: "https://tisha.geanramos.com.br"
+  url: "https://tishanews.u1m.com.br"
 
 # Build settings
 baseurl: / # Change this to your relative path (ex: /blog/), or leave just a /
